@@ -173,7 +173,7 @@ if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
     parser.add_argument('-c', '--cg_config', default='lightweight_cnn_text')
-    parser.add_argument('-d', '--dataset', default=COMETA, choices=DATASETS)
+    parser.add_argument('-d', '--dataset', default=BC5CDR_C, choices=DATASETS)
     args = parser.parse_args()
 
     # Prepare config

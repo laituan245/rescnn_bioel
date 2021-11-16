@@ -1,0 +1,142 @@
+C0030193	Pain	pain
+C1443060	Feeling abnormal	feel like a malnourished toe
+C0235165	Mania acute	mania
+C0427008	Stiffness	stiffness
+C0022107	Irritable Mood	I feel like
+C1504494	Tingling of extremity	tingling
+C0035078	Kidney Failure	kidneys shut down
+C0003467	Anxiety	anxiety
+C0233523	Antisocial behavior	act like a devil
+C0022107	Irritable Mood	hangry
+C0520962	Pain localised	joints are also hurting
+C2830004	Somnolence	sleepy
+C0232462	Decrease in appetite	haven't eaten since like 9
+C0240735	Personality change	not myself
+C0040822	Tremor	tremor
+C0038435	Stress	stressed
+C0003467	Anxiety	anxiety
+C0013144	Drowsiness	sleepy
+C0455769	Energy increased	walking up and down
+C0013144	Drowsiness	drowsy
+C2830004	Somnolence	sleep all day
+C2830004	Somnolence	fall asleep
+C0027497	Nausea	sick
+C0233414	Disturbance in attention	attentive
+C0344315	Depressed mood	hurt
+C0152128	Drug withdrawal syndrome	come off
+C0235169	Excitability	had me in my feelings
+C0030318	Panic	shooting
+C0027497	Nausea	nauseous
+C0234458	Abnormal dreams	totally #weird
+C0455769	Energy increased	got me to the ceiling
+C0022107	Irritable Mood	attitude
+C0520962	Pain localised	fingers hurt
+C0751295	Memory Loss	wrecked my memory
+C0553668	Labored breathing	need to gulp air randomly
+C0034634	Rage	rage
+C0012833	Dizziness	dizzy
+C0853348	Arthropod bite	Can't wait for fall so the mosquitoes will go away and I can stop using cortisone cream as lotion all over my legs
+C0041671	Attention Deficit Disorder	completely useless
+C0751494	Convulsive Seizures	seizure
+C0694563	Excessive daytime somnolence	sleeping standing up
+C0917801	Sleeplessness	sleep deprivation
+C0043094	Weight Gain	gained 7 lbs
+C1263846	Attention deficit hyperactivity disorder	ADHD
+C0022107	Irritable Mood	grumpy
+C2830004	Somnolence	groggy
+C0087169	Withdrawal Symptoms	Coming down
+C0520962	Pain localised	pain
+C0235146	Euphoric mood	actually ecstasy
+C0278061	Abnormal mental state	this mindset
+C0043012	Wakefulness	wide awake
+C0085632	Indifferent mood	it's feeling like the same thing
+C0022107	Irritable Mood	makes me an asshole
+C0917801	Sleeplessness	I was up at 6 am
+C2242996	Has tingling sensation	tingling
+C0020175	Hunger	hungry
+C0917801	Sleeplessness	I'm wide awake once again after 1:00 a.m
+C0043094	Weight Gain	gained over 50 pounds
+C0043094	Weight Gain	weight gain
+C0855242	Disturbance in sexual arousal	low libido
+C0043094	Weight Gain	weight gain
+C0855242	Disturbance in sexual arousal	kills libido
+C0016204	Flatulence	gas
+C0235169	Excitability	meinmy feelings
+C0344315	Depressed mood	depressed
+C0021400	Influenza	plague
+C0234369	Trembling	shaking
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0235196	Suicidal tendency	Not sure Im going to be willing to go for a week feeling like this
+C0233479	Elevated mood	feeling better
+C0917801	Sleeplessness	can't even keep you awake
+C0234458	Abnormal dreams	#crazy
+C0600104	Obsessive compulsive behavior	makes you want to do stuff
+C0002957	Anger	rage
+C0151602	Swelling face	moon face
+C0034634	Rage	rage
+C0037317	Sleep disturbances	trouble sleeping
+C0549209	Feeling jittery	jitters
+C0152031	Joint swelling	Joint was super swollen
+C0028643	Numbness	numb
+C0012833	Dizziness	woozy
+C0022107	Irritable Mood	cranky
+C0234428	Consciousness abnormal	wired
+C0087169	Withdrawal Symptoms	seroquel withdrawal
+C0030193	Pain	pain
+C0600142	Hot flushes	sweat
+C0003123	Anorexia	I haven't eaten in 3 days
+C0917801	Sleeplessness	can't even keep you awake
+C0042256	Vaginal itching	itches
+C0235240	Pounding heart	racing heart
+C0085633	Mood swings	VOLATILE
+C0022107	Irritable Mood	be a fucking bitch
+C0235146	Euphoric mood	UP UP UP phase
+C0030193	Pain	hurts!
+C0455769	Energy increased	got me to the ceiling
+C0424295	Hyperactive behavior	up all morning
+C0027497	Nausea	nauseous
+C0039070	Syncope	I almost pass out from not eating
+C0037274	Dermatologic disorders	havoc with our skins
+C0917801	Sleeplessness	incapable of sleep
+C0392674	Exhaustion	exhausted
+C0917801	Sleeplessness	insomnia
+C0022107	Irritable Mood	rantful
+C0038999	Swelling	parotid gland swelling
+C0018790	Cardiac Arrest	heart attack
+C0233479	Elevated mood	feel like this
+C0005940	Bone Diseases	made my bones brittle
+C0344315	Depressed mood	miserable
+C1443060	Feeling abnormal	feel ill and shitty 24/7
+C1291077	Abdominal bloating	makes me so damn bloated
+C0085633	Mood swings	bipolar
+C0012833	Dizziness	dizziness
+C0043096	Body Weight decreased	weight loss
+C0042963	Vomiting	vomiting
+C0011570	Mental Depression	feel like crap
+C0037320	Night Terrors	night terrors
+C0917801	Sleeplessness	need sleep
+C2830004	Somnolence	fell asleep
+C0037317	Sleep disturbances	sleep problems
+C0152030	Skin irritation	Slightly itch
+C0020175	Hunger	ridiculously hungry
+C0221170	Muscular stiffness	numbness
+C1443060	Feeling abnormal	feeling awful
+C0011570	Mental Depression	depressive
+C0018524	Hallucinations	bazaar thoughts
+C0235169	Excitability	in my feelings
+C0027769	Nervousness	twitchy
+C0393760	Initial insomnia	#insomnia
+C0270458	Psychotic depression	sick
+C0393761	Middle insomnia	insomniac
+C0233632	Disturbance in thinking	thinking it was 8pm
+C0022107	Irritable Mood	mean
+C0600104	Obsessive compulsive behavior	have no choice but clean the house
+C0039971	Thirst	dry
+C0424295	Hyperactive behavior	do everything
+C0015672	Fatigue	tired
+C0344315	Depressed mood	#CantWin
+C0005586	Bipolar Disorder	#bipolar
+C0043012	Wakefulness	still got me up
+C0087169	Withdrawal Symptoms	withdrawals
+C0038587	Substance Withdrawal Syndrome	cigarette withdrawal
+C0043012	Wakefulness	awake approx 36-38 hours

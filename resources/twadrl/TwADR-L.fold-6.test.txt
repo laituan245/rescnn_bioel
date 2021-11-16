@@ -1,0 +1,143 @@
+C0013182	Drug Allergy	allergic
+C0018524	Hallucinations	feeling like the same day
+C0427008	Stiffness	stiffness
+C0455769	Energy increased	got me to the ceiling
+C1504494	Tingling of extremity	tingling
+C0035078	Kidney Failure	kidneys shut down
+C0241934	Hypomania	hypomania
+C1510472	Drug Dependence	#Junkie
+C0013182	Drug Allergy	allergic reaction
+C0541854	Daytime sleepiness	making myself get out of bed
+C0235169	Excitability	in my feelings
+C0000737	Abdominal Pain	sharp pain
+C0232462	Decrease in appetite	haven't eaten since like 9
+C0043094	Weight Gain	gaining weight
+C0541854	Daytime sleepiness	falling asleep
+C0040822	Tremor	tremor
+C0344315	Depressed mood	depress
+C0013144	Drowsiness	drowsy
+C0004096	Asthma	asthma
+C2830004	Somnolence	sleep all day
+C0003044	Animal bite	mosquito bites
+C2939186	Disturbance in mood	had me in my feelings
+C0087169	Withdrawal Symptoms	Withdrawing
+C0233414	Disturbance in attention	attentive
+C0013144	Drowsiness	falling asleep
+C0027497	Nausea	feel sick
+C0858899	Attention concentration difficulty	concentration issues
+C0234376	Action Tremor	tremor
+C0234458	Abnormal dreams	wicked weird dreams
+C0043094	Weight Gain	I look like a damn whale
+C0043012	Wakefulness	awake
+C0022107	Irritable Mood	highly irritated
+C2830004	Somnolence	tired
+C0003467	Anxiety	#anxiety
+C0455769	Energy increased	energetic
+C0041671	Attention Deficit Disorder	completely useless
+C0338908	Anxiety depression	anxiety
+C0149931	Migraine Disorders	headaches
+C0424295	Hyperactive behavior	literally tweeted non stop from like 7pm to 8am the next day
+C0087169	Withdrawal Symptoms	withdrawals
+C0455769	Energy increased	I have 30 things I need to do by 5:00
+C0235169	Excitability	in my feelings
+C2939186	Disturbance in mood	had me in my feelings
+C0235146	Euphoric mood	actually ecstasy
+C0455769	Energy increased	got me on the ceiling
+C0424166	Social fear	the most socially awkward person alive
+C0231530	Muscle twitch	super twitchy
+C0018681	Headache	hungover
+C0086769	Panic Attacks	panic attacks
+C0087169	Withdrawal Symptoms	withdrawal
+C0087169	Withdrawal Symptoms	my adderall got cut in half and now I'm dying
+C0015672	Fatigue	fatigue
+C0235169	Excitability	got me to the ceiling
+C0012833	Dizziness	head spinning a little
+C0235240	Pounding heart	heart beat for being too strong
+C0015468	Facial Pain	Atypical facial pain
+C0027497	Nausea	nausea
+C0235234	Dry throat	dry
+C0086769	Panic Attacks	a literal panic attack
+C0042963	Vomiting	vomity
+C0239725	Genital pain	painful erection
+C0038661	Suicide	suicidal acts
+C0016512	Foot pain	ankle hurts
+C0085633	Mood swings	mood swings
+C2830004	Somnolence	#sleep
+C1760428	Suicidal behaviour	suicidal acts
+C0151602	Swelling face	moon face
+C0027497	Nausea	nauseous
+C0455769	Energy increased	got me to the ceiling
+C0497364	Localized rash	pimples
+C0424295	Hyperactive behavior	hyper
+C0012833	Dizziness	woozy
+C0016658	Fracture	top of my femur got fractured
+C0278061	Abnormal mental state	different person
+C0917801	Sleeplessness	want to sleep
+C0344315	Depressed mood	dragging myself through the day
+C0003467	Anxiety	anxiety
+C0541854	Daytime sleepiness	zombie like state
+C0013146	Drug abuse	hit me too hard
+C0239377	Arm Pain	Wrist wrist stop hurting
+C0917801	Sleeplessness	awake
+C0917801	Sleeplessness	insomnia
+C0234428	Consciousness abnormal	focusing monster
+C0022107	Irritable Mood	attitude
+C0600142	Hot flushes	sweat
+C1971624	Loss of appetite (finding)	eating to survive
+C0233459	Emotional disorder	zombie like emotionwise
+C0917801	Sleeplessness	can't even keep you awake
+C0455769	Energy increased	got me to the ceiling
+C0281774	Acute psychosis	psychosis
+C0087169	Withdrawal Symptoms	withdrawal
+C2267227	Bulimia Nervosa	bulimic
+C0013146	Drug abuse	Addicted
+C0015468	Facial Pain	Atypical facial pain
+C0917801	Sleeplessness	insomnia
+C0037317	Sleep disturbances	it's feeling like the same day
+C0015672	Fatigue	fatigue
+C0221100	Hangover from any Alcohol or Other Drugs substance	pookied out
+C0423757	Skin thinness	thins the skin
+C0043096	Body Weight decreased	lost 6 inches
+C0917801	Sleeplessness	#insomnia
+C0235196	Suicidal tendency	suicide thoughts
+C0013144	Drowsiness	turns me into a zombie
+C0039070	Syncope	I almost pass out from not eating
+C0233415	Distractibility	distracted
+C0018790	Cardiac Arrest	heart attack
+C0018681	Headache	migraines
+C0556446	Drug craving	hooked on adderall
+C1510472	Drug Dependence	I've been feeling better every day
+C2830004	Somnolence	awake
+C0003467	Anxiety	worry
+C0393761	Middle insomnia	awake in the middle of the night for an hour or 2
+C0221512	Stomach ache	pain in the pit of my stomach
+C0005940	Bone Diseases	made my bones brittle
+C0005586	Bipolar Disorder	bi polar
+C2939186	Disturbance in mood	got me in my feelings
+C0162298	Joint stiffness	daily hip pain
+C1971624	Loss of appetite (finding)	lack of appetite
+C0278079	Dependence psychological	60% of my success is due to taking Adderall
+C0858899	Attention concentration difficulty	prevents me from focusing
+C0012833	Dizziness	dizziness
+C0018801	Heart failure	I have a heart attack
+C0039971	Thirst	dry mouth
+C0030193	Pain	the pain feels worse
+C0015672	Fatigue	fatigued
+C0003467	Anxiety	anxiety
+C0455769	Energy increased	got me to the ceiling
+C0338614	Psychotic episode	MY MIND IS GONE
+C2939186	Disturbance in mood	had me in my feelings
+C0424295	Hyperactive behavior	has me like
+C0040822	Tremor	can't stop shaking
+C0700590	Increased sweating	sweating bullets
+C0151763	Liver damage	probs with my liver
+C0030319	Panic Disorder	anxiety
+C0234458	Abnormal dreams	#messed
+C0040822	Tremor	shaking
+C0344315	Depressed mood	#CantWin
+C0151836	Paranoid reaction	paranoid
+C0152031	Joint swelling	Joint was super swollen
+C0858899	Attention concentration difficulty	doesn't even make me attentive
+C0005586	Bipolar Disorder	#bipolar
+C0043012	Wakefulness	still got me up
+C0152128	Drug withdrawal syndrome	tapering off prednisone

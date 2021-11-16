@@ -1,0 +1,142 @@
+C0003469	Anxiety Disorders	zero stress tolerance
+C0030319	Panic Disorder	anxiety
+C0152128	Drug withdrawal syndrome	crashing
+C0003469	Anxiety Disorders	anxiety
+C0410158	Muscle damage	rotted my muscles
+C0000737	Abdominal Pain	awful feeling in my stomach
+C2939186	Disturbance in mood	had me in my feelings
+C0149931	Migraine Disorders	migraines
+C0008031	Chest Pain	my chest is exploding
+C0030193	Pain	worst pain
+C2939186	Disturbance in mood	had me in my feelings
+C0541854	Daytime sleepiness	tired
+C0549259	Anxiety aggravated	incr anxiety
+C0392674	Exhaustion	so fucking tired
+C0003469	Anxiety Disorders	ANXIOUS
+C0030193	Pain	pain
+C2939186	Disturbance in mood	had me in my feelings
+C0344315	Depressed mood	hurting
+C0013146	Drug abuse	HIGH
+C0037317	Sleep disturbances	Got 1.5 hours of sleep
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0270458	Psychotic depression	bipolar
+C0022107	Irritable Mood	attitude
+C0235169	Excitability	had me in my feelings
+C0232461	Increased appetite (finding)	appetite on 10
+C0728899	Intoxication	trippin
+C0013595	Eczema	itching
+C0851444	Allergic conditions	sun allergy
+C0344315	Depressed mood	feel like complete and utter crap
+C0030193	Pain	throbbing
+C0042963	Vomiting	vomiting
+C0002957	Anger	the fucking roid rage
+C0087169	Withdrawal Symptoms	venlafaxine withdrawal
+C0917801	Sleeplessness	sleep-deprived
+C1963951	Acute overdose	30-day adderall supply lasts me like a week
+C0233514	Abnormal behavior	behaviour problems
+C0151827	Eye pain	eyes burn from lack of blinking
+C0520962	Pain localised	terrible joint pain
+C0234238	Ache	Achy
+C0151911	Generalized Spasms	random shoulder spasms
+C0087169	Withdrawal Symptoms	withdrawal
+C0041657	Unconscious State	fainting
+C0553668	Labored breathing	Stops your breathing
+C0085632	Indifferent mood	have no emotions
+C0013144	Drowsiness	sleepy
+C0344320	Vivid dreams	man vivid dreams
+C0027497	Nausea	vomity
+C0018681	Headache	headaches
+C0015672	Fatigue	fall asleep
+C0028643	Numbness	a damn zombie
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0085633	Mood swings	angry 2 irritable 2 mind swimming 2 feeling numb 2 being completely calm
+C0455769	Energy increased	got me to the ceiling
+C0087169	Withdrawal Symptoms	withdrawal
+C2830004	Somnolence	i can't even stay awake
+C1386135	Acute depression	just want to finally be happy
+C0235165	Mania acute	manic episode
+C0855242	Disturbance in sexual arousal	kills libido
+C1456784	Paranoia	paranoid
+C0236788	Bipolar II disorder	BP-2
+C0232461	Increased appetite (finding)	eat like the literal beast
+C0338831	Manic	got me like WHENS THE NEXT TEST ILL GO AHEAD AND TAKE IT NOW
+C0012833	Dizziness	lightheaded
+C2830004	Somnolence	falling asleep
+C0042109	Urticaria	urticaria
+C0039070	Syncope	faint
+C0233415	Distractibility	distracted
+C0541799	Bad taste	mouth taste terrible
+C0235196	Suicidal tendency	suicidal thoughts
+C0026821	Muscle Cramp	cramps
+C0087169	Withdrawal Symptoms	withdrawal
+C0409497	Joint injury	knee cap is moving around, causing pain
+C0338908	Anxiety depression	me feel disgusting
+C0033975	Psychotic Disorders	crazy
+C0087169	Withdrawal Symptoms	withdrawal
+C3665386	Abnormal vision	messing with my vision
+C0917801	Sleeplessness	alertness and trouble sleeping
+C0042963	Vomiting	puking everywhere
+C1510472	Drug Dependence	I'm going to be so pissed if this ends with me getting my adderall prescription taken away...
+C0232462	Decrease in appetite	lose my appetite
+C0235169	Excitability	got me to the ceiling
+C0041671	Attention Deficit Disorder	distracted
+C0011991	Diarrhea	have to poop
+C0013144	Drowsiness	sleepy
+C0003467	Anxiety	feeling worried
+C0087169	Withdrawal Symptoms	withdrawal
+C0037763	Spasm	brain zaps
+C0027497	Nausea	sickness
+C0344315	Depressed mood	makes you feel like crap
+C0012833	Dizziness	dizzy
+C0234428	Consciousness abnormal	focusing monster
+C0016512	Foot pain	ankle hurts
+C0037317	Sleep disturbances	fucked my entire sleeping pattern
+C0038990	Sweating	sweatty
+C0424295	Hyperactive behavior	feel like doing something
+C0012833	Dizziness	dizziness
+C2364111	Actual Inability To Taste	couldn't taste anything
+C2939186	Disturbance in mood	bitch
+C0497364	Localized rash	break out in hives
+C0015967	Fever	Wet Hot
+C0917801	Sleeplessness	zombie
+C2830004	Somnolence	sleepy
+C0005586	Bipolar Disorder	#bipolar
+C0393760	Initial insomnia	insomniac
+C0151908	Dry skin	dry skin
+C0549259	Anxiety aggravated	anxiety
+C0013146	Drug abuse	adderall binge
+C0020175	Hunger	#hungry
+C0027497	Nausea	spins
+C0087169	Withdrawal Symptoms	withdrawal
+C0231749	Knee pain	need cortisone shots for my knees
+C0002957	Anger	angry
+C0011551	Depersonalization	empty
+C0043012	Wakefulness	alertness
+C0235169	Excitability	got meto the ceiling
+C0917801	Sleeplessness	sleep deprived
+C0038990	Sweating	sweatty
+C0030193	Pain	pain
+C0344320	Vivid dreams	mad vivid dreams
+C0235169	Excitability	to the ceiling
+C0455769	Energy increased	energetic
+C0344315	Depressed mood	depressed
+C0018524	Hallucinations	tripping
+C0015672	Fatigue	lazy days
+C1262141	Poor quality sleep	wrecking my sleep
+C0011551	Depersonalization	zombie
+C0013144	Drowsiness	sleepy
+C0392674	Exhaustion	sleep deprived
+C0022107	Irritable Mood	resting bitch face
+C0235169	Excitability	got me in my feelings
+C0917801	Sleeplessness	Wide awake
+C0858899	Attention concentration difficulty	procrastinating
+C0028643	Numbness	can't feel limbs
+C0043094	Weight Gain	gaining weight
+C0086132	Depressive Symptoms	loneliness
+C0043094	Weight Gain	pre-prozac-weight-gain-nightmare
+C0233414	Disturbance in attention	getting distracted every 5 minutes
+C0235169	Excitability	in my feelings
+C0393761	Middle insomnia	keeping me awake
+C0042256	Vaginal itching	itching
+C0541854	Daytime sleepiness	zombies
+C0086769	Panic Attacks	panic attack

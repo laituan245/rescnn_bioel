@@ -1,0 +1,143 @@
+C0455769	Energy increased	still not tired
+C0003123	Anorexia	I haven't eaten in 3 days
+C0917801	Sleeplessness	can't remember the last time I slept
+C0022107	Irritable Mood	I feel like
+C0011570	Mental Depression	depression
+C1971624	Loss of appetite (finding)	lack of appetite
+C0424295	Hyperactive behavior	wired
+C0003467	Anxiety	anxiety
+C0233414	Disturbance in attention	still procrastinating
+C0020175	Hunger	hungry
+C1971624	Loss of appetite (finding)	I don't hunger or thirst
+C0043096	Body Weight decreased	lost 6 inches
+C0009676	Confusion	conundrum
+C0917801	Sleeplessness	incapable of sleep
+C0917801	Sleeplessness	still haven't slept
+C0011551	Depersonalization	a zombie
+C0344320	Vivid dreams	gives me man vivid dreams
+C0021053	Immune System Diseases	destroyed my #immunesystem
+C0030193	Pain	hurting
+C0013144	Drowsiness	drowsy
+C0041657	Unconscious State	knock me out
+C0085633	Mood swings	mood swings
+C0600104	Obsessive compulsive behavior	I unnecessarily wipe for 20 minutes until I'm practically bleeding
+C0037317	Sleep disturbances	sleep problems
+C0087169	Withdrawal Symptoms	rather kick heroin than Effexor
+C0917799	Hypersomnia	fall asleep
+C0917801	Sleeplessness	insomnia
+C0021368	Inflammation	Inflamed bursa
+C0033975	Psychotic Disorders	Mental illness
+C0338614	Psychotic episode	psychotic break
+C0040822	Tremor	acute tremor
+C0520962	Pain localised	fingers hurt
+C0455769	Energy increased	got me up
+C0003467	Anxiety	#anxiety
+C0030193	Pain	pain
+C0085633	Mood swings	bipolar
+C0233479	Elevated mood	nicer
+C0344315	Depressed mood	depressed
+C0553721	Sweating decreased	reduced sweating
+C0043096	Body Weight decreased	weight loss
+C0030193	Pain	hurt really bad
+C0013595	Eczema	dry skin
+C0235169	Excitability	in my feelings
+C0042571	Vertigo	vertigo
+C0003467	Anxiety	Anxiety
+C0541854	Daytime sleepiness	feel like a zombie
+C0917801	Sleeplessness	need sleep
+C0000729	Abdominal Cramps	cramps
+C0235169	Excitability	got me to the ceiling
+C0851444	Allergic conditions	allergic reaction
+C0038999	Swelling	swelling
+C0020175	Hunger	hungry
+C0002957	Anger	angry
+C0037320	Night Terrors	nightmares
+C0086769	Panic Attacks	panic attack
+C0700590	Increased sweating	make me sweat more
+C0393761	Middle insomnia	insomniac
+C0027497	Nausea	nauseous
+C0344315	Depressed mood	depressed
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0235169	Excitability	to the ceiling
+C0020604	Hypochondriasis	consistently unwell
+C0041671	Attention Deficit Disorder	attention deficit disorder
+C0012833	Dizziness	dizzy
+C0085633	Mood swings	mood swings
+C0234458	Abnormal dreams	#crazy
+C0011581	Depressive disorder	need prozac
+C2830004	Somnolence	groggy
+C0001807	Aggressive behavior	threatened to hurt me
+C0152031	Joint swelling	Joint was super swollen
+C0043096	Body Weight decreased	weight loss
+C0022107	Irritable Mood	grumpy
+C0455769	Energy increased	energy
+C0015672	Fatigue	chronic fatigue
+C0039971	Thirst	thirsty as fuck
+C0043094	Weight Gain	ballooning
+C0003467	Anxiety	anxiety
+C0042109	Urticaria	hives
+C0424295	Hyperactive behavior	type to much
+C0003467	Anxiety	anxiety
+C0018681	Headache	headaches
+C0392674	Exhaustion	exhausted
+C0455769	Energy increased	gave me energy
+C0043012	Wakefulness	still not tired
+C0151825	Bone pain	bone pain
+C0235234	Dry throat	dry mouth
+C0853348	Arthropod bite	bug bites
+C2939186	Disturbance in mood	get into a mood
+C0027497	Nausea	makes me a little less nauseous
+C0162298	Joint stiffness	joint pain
+C0028084	Nightmares	intense, emotionally-charged nightmares
+C0917801	Sleeplessness	insomnia
+C0015672	Fatigue	making myself get out of bed
+C0235146	Euphoric mood	feel like I have super powers
+C0233514	Abnormal behavior	before i do anything else stupid
+C0013144	Drowsiness	can't even stay awake
+C2830004	Somnolence	sleepy
+C0235146	Euphoric mood	UP UP UP phase
+C0087169	Withdrawal Symptoms	cigarette withdrawal
+C0853348	Arthropod bite	mosquitoes
+C0041582	Ulcer	ulcers
+C0005586	Bipolar Disorder	#bipolar
+C0542101	Nasal burning	hurts your nostrils
+C2939186	Disturbance in mood	had me in my feelings
+C0087169	Withdrawal Symptoms	withdrawal
+C0392674	Exhaustion	exhausted
+C0015672	Fatigue	my body hates me
+C0018681	Headache	headache free
+C0037383	Sneezing	sneezing fits
+C0042963	Vomiting	puking
+C2830004	Somnolence	drowsy
+C0232459	Abnormal digestive tract function	heartburn
+C0392674	Exhaustion	still tired
+C0233479	Elevated mood	feel like this
+C0006325	Bruxism	clench my jaw.
+C2830004	Somnolence	constantly being so sleepy
+C0541854	Daytime sleepiness	ready for a nap
+C0240735	Personality change	changed my personality
+C0087169	Withdrawal Symptoms	withdrawals
+C0003467	Anxiety	terrified
+C0085633	Mood swings	bipolar
+C0042963	Vomiting	vomiting
+C0022107	Irritable Mood	asshole
+C0003467	Anxiety	scared/unsure
+C0522172	Feeling drunk	make me drunker
+C0085633	Mood swings	mood changes
+C0037317	Sleep disturbances	sleep problems
+C0043094	Weight Gain	weight gain
+C0020604	Hypochondriasis	up for 4 days
+C0235169	Excitability	in my feelings
+C0018834	Heartburn	heartburn
+C0393760	Initial insomnia	#insomnia
+C0917801	Sleeplessness	got me uppppp
+C0344320	Vivid dreams	mad vivid dreams
+C0006325	Bruxism	grinding my teeth
+C0021368	Inflammation	hypertrophic scarring
+C0085633	Mood swings	dramatic
+C1263846	Attention deficit hyperactivity disorder	ADHD
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0040822	Tremor	jitters
+C0917799	Hypersomnia	sleep for 16 hours a day
+C0000737	Abdominal Pain	pain in the pit of my stomach
+C0038587	Substance Withdrawal Syndrome	cigarette withdrawal

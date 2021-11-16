@@ -1,0 +1,130 @@
+C0030193	Pain	pain
+C0003469	Anxiety Disorders	zero stress tolerance
+C0424295	Hyperactive behavior	unnecessarily wipe for 20 minutes
+C0018524	Hallucinations	feeling like the same day
+C0030319	Panic Disorder	anxiety
+C2267227	Bulimia Nervosa	purge
+C0427008	Stiffness	stiffness
+C0424295	Hyperactive behavior	hyper
+C0022107	Irritable Mood	I feel like
+C0003467	Anxiety	anxiety
+C2939186	Disturbance in mood	had me in my feelings
+C1504494	Tingling of extremity	tingling
+C2939186	Disturbance in mood	had me in my feelings
+C0037011	Shoulder Pain	hurt his shoulder
+C0393761	Middle insomnia	Insomnia
+C0008031	Chest Pain	my chest is exploding
+C0027497	Nausea	dizzy
+C0541854	Daytime sleepiness	making myself get out of bed
+C0424295	Hyperactive behavior	got me uppppp
+C0232462	Decrease in appetite	haven't eaten since like 9
+C0917801	Sleeplessness	still haven't slept
+C0541854	Daytime sleepiness	falling asleep
+C0003467	Anxiety	makes me question my whole life
+C0038435	Stress	stressed
+C0003467	Anxiety	anxiety
+C0030193	Pain	hurting
+C0087169	Withdrawal Symptoms	Discontinuation
+C2830004	Somnolence	sleep all day
+C0027497	Nausea	Finna thrown up
+C0424000	Feeling suicidal (finding)	the only reason I haven't downed all these antidepressants is because sertraline overdose rarely results in death
+C0235169	Excitability	had me in my feelings
+C0152128	Drug withdrawal syndrome	come off
+C0005586	Bipolar Disorder	mood swings
+C0033975	Psychotic Disorders	Mental illness
+C0344315	Depressed mood	feel like complete and utter crap
+C0233488	Feeling despair	feeling like shit
+C0003467	Anxiety	anxiety
+C0455769	Energy increased	worked out more
+C0016512	Foot pain	my foot feel worse
+C0149931	Migraine Disorders	headaches
+C0596170	Binge eating disorder	I'm determined to not become a ravenous asshole
+C0030193	Pain	hurt really bad
+C0037011	Shoulder Pain	get my shoulder right
+C0278061	Abnormal mental state	about to lose my mind
+C0542476	Forgetfulness	sleep the day away
+C0152128	Drug withdrawal syndrome	I forgot to take Zoloft for like 2 days and now I'm getting brain zaps
+C0018681	Headache	hungover
+C0393761	Middle insomnia	awake in the middle of the night
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0234376	Action Tremor	tremor
+C1443060	Feeling abnormal	feeling like death
+C0455769	Energy increased	got me to the ceiling
+C2830004	Somnolence	groggy
+C0235165	Mania acute	manic episode
+C0278061	Abnormal mental state	bazaar thoughts
+C0235196	Suicidal tendency	Not sure Im going to be willing to go for a week feeling like this
+C0041671	Attention Deficit Disorder	attention deficit disorder
+C0085633	Mood swings	mood swings
+C2830004	Somnolence	#sleep
+C0234458	Abnormal dreams	#crazy
+C0011581	Depressive disorder	need prozac
+C2830004	Somnolence	sleepy
+C0034634	Rage	makes my road rage terrible
+C0022107	Irritable Mood	grumpy
+C0012833	Dizziness	woozy
+C0232461	Increased appetite (finding)	appetite way up
+C0917801	Sleeplessness	want to sleep
+C0235169	Excitability	in my feelings
+C0917801	Sleeplessness	I'm still awake
+C0030193	Pain	living in pain
+C0152128	Drug withdrawal syndrome	withdrawal
+C0011991	Diarrhea	have to poop
+C0030193	Pain	pain
+C0038999	Swelling	a general discomfort from swelling
+C0013144	Drowsiness	sleepy
+C0012833	Dizziness	dizziness
+C0161479	Nerve injury	Pinched nerve still tingling
+C2939186	Disturbance in mood	get into a mood
+C0036973	Shivering	shaking
+C0455769	Energy increased	got me to the ceiling
+C0152128	Drug withdrawal syndrome	crashing
+C0028084	Nightmares	intense, emotionally-charged nightmares
+C0427086	Involuntary Movements	shaking her leg
+C0424295	Hyperactive behavior	feel like doing something
+C0015967	Fever	Wet Hot
+C0152128	Drug withdrawal syndrome	withdrawal brain zaps
+C2939186	Disturbance in mood	had me in my feelings
+C1268766	Blood pressure alteration (finding)	blood pressure thing
+C0043094	Weight Gain	making me fat
+C0151908	Dry skin	dry skin
+C2830004	Somnolence	drowsy
+C0455769	Energy increased	got me to the ceiling
+C0392674	Exhaustion	exhausted
+C0027497	Nausea	nauseous
+C0392674	Exhaustion	tired
+C0043012	Wakefulness	stay up all night
+C0018681	Headache	migraines
+C0020564	Hypertrophy	hypertrophic scarring
+C1510472	Drug Dependence	I've been feeling better every day
+C0241157	Pustule	pimples
+C0344232	Blurred vision	blurry vision both eyes
+C0018790	Cardiac Arrest	heart attack
+C2830004	Somnolence	tired
+C0022107	Irritable Mood	cranky
+C0087169	Withdrawal Symptoms	Discontinuation symptoms
+C0011551	Depersonalization	zombie like state
+C0085633	Mood swings	emotional wreck
+C0240735	Personality change	changed my personality
+C0393760	Initial insomnia	awake all the time
+C0043096	Body Weight decreased	weight loss
+C0038999	Swelling	swollen from a bug bite
+C0600104	Obsessive compulsive behavior	clean the house
+C2939186	Disturbance in mood	had me in my feelings
+C2939186	Disturbance in mood	had me in my feelings
+C0917801	Sleeplessness	I won't sleep
+C0455769	Energy increased	got me to the ceiling
+C0392674	Exhaustion	sleep deprived
+C0036974	Shock	Weird full body electrical shocks
+C0858899	Attention concentration difficulty	procrastinating
+C0455769	Energy increased	strengthens me
+C0541854	Daytime sleepiness	sleepy
+C0021368	Inflammation	hypertrophic scarring
+C0015672	Fatigue	Moving immensely slow
+C0344315	Depressed mood	#CantWin
+C0027497	Nausea	sick
+C0424295	Hyperactive behavior	hyper
+C0393760	Initial insomnia	insomnia
+C0004936	Mental disorders	MY MIND IS GONE
+C0028643	Numbness	numbness
+C0012833	Dizziness	head spinning a little

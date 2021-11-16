@@ -5,7 +5,6 @@ hard_negatives.txt
 pretrain_positive_pairs.txt
 SnomedCT_International/
 runs/
-resources/
 time_logs/
 visualizations/
 figures/

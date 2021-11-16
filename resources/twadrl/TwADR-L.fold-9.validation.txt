@@ -1,0 +1,120 @@
+C0030193	Pain	pain
+C0003123	Anorexia	I haven't eaten in 3 days
+C0476273	Respiratory distress	asthma
+C2830004	Somnolence	asleep
+C0003467	Anxiety	anxiety
+C2939186	Disturbance in mood	had me in my feelings
+C0235169	Excitability	in my feelings
+C0043096	Body Weight decreased	lost 6 inches
+C0018681	Headache	headaches
+C0009676	Confusion	conundrum
+C0233459	Emotional disorder	have no emotions
+C0043096	Body Weight decreased	losing weight
+C0018681	Headache	mild headache
+C0030193	Pain	hurting
+C0233794	Memory impairment	screwing with my short term memory
+C0027497	Nausea	Finna thrown up
+C0037383	Sneezing	sneezing fits
+C0233514	Abnormal behavior	crazy
+C0234376	Action Tremor	tremor
+C0235169	Excitability	got me to the ceiling
+C0033975	Psychotic Disorders	Mental illness
+C0043094	Weight Gain	making me fat
+C0392674	Exhaustion	exhausted
+C0002957	Anger	the fucking roid rage
+C0553668	Labored breathing	makes me gag when I cough
+C0455769	Energy increased	got me up
+C0004936	Mental disorders	Mental illness
+C0087169	Withdrawal Symptoms	withdrawal
+C0235169	Excitability	in my feelings
+C0041657	Unconscious State	fainting
+C0027497	Nausea	nauseous feeling
+C0424166	Social fear	the most socially awkward person alive
+C0221100	Hangover from any Alcohol or Other Drugs substance	hangover
+C0010200	Coughing	cough
+C0015468	Facial Pain	Atypical facial pain
+C0086769	Panic Attacks	panic attack
+C0043094	Weight Gain	gain weight
+C0087169	Withdrawal Symptoms	sertraline withdrawal
+C0233488	Feeling despair	feeling awful
+C0278061	Abnormal mental state	trippin
+C2939186	Disturbance in mood	making me insane
+C2830004	Somnolence	tired
+C0455769	Energy increased	got me to the ceiling
+C0043094	Weight Gain	gain 10kg
+C0012833	Dizziness	woozy
+C0409497	Joint injury	knee cap is moving around, causing pain
+C0015672	Fatigue	chronic fatigue
+C0087169	Withdrawal Symptoms	coming down
+C0278061	Abnormal mental state	different person
+C0018681	Headache	headache
+C0162820	Dermatitis, Allergic Contact	allergic
+C0011551	Depersonalization	disassociation
+C0522224	Paralysed	entire arm feel paralyzed
+C0043096	Body Weight decreased	lost so much weight
+C0003467	Anxiety	anxiety
+C0003467	Anxiety	anxiety
+C0030193	Pain	living in pain
+C0013144	Drowsiness	fatigue
+C0278061	Abnormal mental state	CRAZY
+C0234428	Consciousness abnormal	focusing monster
+C0038999	Swelling	a general discomfort from swelling
+C0424295	Hyperactive behavior	when ur eyes have never been wider
+C0161479	Nerve injury	Pinched nerve still tingling
+C0233459	Emotional disorder	zombie like emotionwise
+C1263846	Attention deficit hyperactivity disorder	hyperactive
+C0042256	Vaginal itching	itches
+C0556446	Drug craving	actually went ok my hands and knees trying to find a half
+C0042963	Vomiting	vomit
+C0234428	Consciousness abnormal	focusing monster
+C1704373	Compulsive Personality Disorder	neat freak mode
+C0016512	Foot pain	ankle hurts
+C0013144	Drowsiness	sleepy
+C0344315	Depressed mood	shitty
+C0917801	Sleeplessness	insomnia
+C0043094	Weight Gain	gained over 50 pounds
+C0015672	Fatigue	fatigue
+C0235146	Euphoric mood	UP UP UP phase
+C0393761	Middle insomnia	up all night
+C0015967	Fever	Wet Hot
+C0455769	Energy increased	got me to the ceiling
+C0917801	Sleeplessness	wide awake yet again past 1:00 a.m
+C0043012	Wakefulness	losing my mind
+C0030193	Pain	pain
+C0232462	Decrease in appetite	not being able to eat
+C0393760	Initial insomnia	insomniac
+C1510472	Drug Dependence	reliant
+C2830004	Somnolence	drowsy
+C0392674	Exhaustion	exhausted
+C0149931	Migraine Disorders	headache
+C0858899	Attention concentration difficulty	expense of clear thinking
+C0392674	Exhaustion	exhausted
+C0003469	Anxiety Disorders	anxious
+C0003467	Anxiety	anxiety
+C0919661	Heart alternation	heart palpitations
+C0235169	Excitability	in my feelings
+C0455769	Energy increased	got me to the ceiling
+C0015672	Fatigue	fatigued
+C0085633	Mood swings	mood changes
+C0028643	Numbness	numb
+C0037317	Sleep disturbances	sleep problems
+C0917801	Sleeplessness	I won't sleep
+C0003467	Anxiety	anxiety
+C0233523	Antisocial behavior	makes me act like a devil
+C0338614	Psychotic episode	MY MIND IS GONE
+C0392674	Exhaustion	sleep deprived
+C0036974	Shock	Weird full body electrical shocks
+C0027769	Nervousness	twitchy
+C0393761	Middle insomnia	insomnia
+C0497364	Localized rash	Rash
+C0043094	Weight Gain	gaining weight
+C0006325	Bruxism	grinding my teeth
+C0234458	Abnormal dreams	#messed
+C0040822	Tremor	shaking
+C0013144	Drowsiness	ready for a nap
+C1263846	Attention deficit hyperactivity disorder	ADHD
+C0009676	Confusion	confused
+C2939186	Disturbance in mood	had me in my feelings
+C0042256	Vaginal itching	itching
+C0038587	Substance Withdrawal Syndrome	cigarette withdrawal
+C0152128	Drug withdrawal syndrome	tapering off prednisone

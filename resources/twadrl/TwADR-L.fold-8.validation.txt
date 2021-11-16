@@ -1,0 +1,144 @@
+C0455769	Energy increased	still not tired
+C0086132	Depressive Symptoms	hard days
+C0011551	Depersonalization	feel like a zombie
+C0232461	Increased appetite (finding)	eating to survive
+C1510472	Drug Dependence	#Junkie
+C0004604	Back Pain	back ache
+C0424295	Hyperactive behavior	wast tired
+C0549249	Depressed Level of Consciousness	dopey
+C2937350	Abnormal ejaculation	nut came out like water
+C0541854	Daytime sleepiness	falling asleep
+C0027497	Nausea	nauseous
+C1971624	Loss of appetite (finding)	lose my appetite
+C0600104	Obsessive compulsive behavior	I unnecessarily wipe for 20 minutes until I'm practically bleeding
+C0039971	Thirst	thirsty
+C0235169	Excitability	had me in my feelings
+C0476273	Respiratory distress	can't breathe
+C0858899	Attention concentration difficulty	focus like a wimp
+C0455769	Energy increased	got me to the ceiling
+C0409497	Joint injury	tennis elbow
+C0234458	Abnormal dreams	wicked weird dreams
+C0344315	Depressed mood	feel like complete and utter crap
+C0003467	Anxiety	anxiety
+C0018681	Headache	mild headache
+C0392674	Exhaustion	exhausted
+C0004096	Asthma	asthma
+C0232431	Cold sweat	scold sweat
+C0042963	Vomiting	puking
+C0043094	Weight Gain	30 lbs in 6 weeks
+C0004936	Mental disorders	Mental illness
+C0043094	Weight Gain	gain weight
+C0030193	Pain	pain
+C0149931	Migraine Disorders	headaches
+C0234238	Ache	Achy
+C0043096	Body Weight decreased	weight loss
+C0151911	Generalized Spasms	random shoulder spasms
+C0700031	Anxiety attack	anxiety
+C0553668	Labored breathing	Stops your breathing
+C0556446	Drug craving	addiction
+C0541854	Daytime sleepiness	feel like a zombie
+C0085633	Mood swings	so dramatic
+C0231530	Muscle twitch	super twitchy
+C0392674	Exhaustion	exhausted
+C0234238	Ache	Achy
+C2242996	Has tingling sensation	tingling
+C0000737	Abdominal Pain	cramps
+C0041671	Attention Deficit Disorder	ADD
+C1443060	Feeling abnormal	feel like a malnourished toe
+C0085633	Mood swings	angry 2 irritable 2 mind swimming 2 feeling numb 2 being completely calm
+C0043094	Weight Gain	weight gain
+C0043012	Wakefulness	been this awake
+C0855242	Disturbance in sexual arousal	low libido
+C0917801	Sleeplessness	thinking it was 8pm
+C0233715	Speech impairment	blurted out every answer
+C0039070	Syncope	fainting
+C0596170	Binge eating disorder	Prednisone munchies
+C1443060	Feeling abnormal	pretty terrible side effects
+C0087169	Withdrawal Symptoms	sertraline withdrawal
+C0016512	Foot pain	ankle hurts
+C0042109	Urticaria	urticaria
+C0600104	Obsessive compulsive behavior	makes you want to do stuff
+C0022107	Irritable Mood	angry
+C2830004	Somnolence	groggy
+C2939186	Disturbance in mood	had me in my feelings
+C0151763	Liver damage	probs with my liver
+C0278079	Dependence psychological	useless without
+C0037317	Sleep disturbances	waking me up
+C0087169	Withdrawal Symptoms	withdrawal
+C0041657	Unconscious State	i'm going to pass out
+C0043094	Weight Gain	lose weight
+C0278061	Abnormal mental state	different person
+C0087169	Withdrawal Symptoms	withdrawal
+C1510472	Drug Dependence	I'm going to be so pissed if this ends with me getting my adderall prescription taken away...
+C0239377	Arm Pain	Wrist wrist stop hurting
+C0018681	Headache	headaches
+C0152128	Drug withdrawal syndrome	withdrawal
+C0043012	Wakefulness	still not tired
+C0040822	Tremor	brain zaps
+C0043096	Body Weight decreased	weight loss
+C0022107	Irritable Mood	attitude
+C1971624	Loss of appetite (finding)	eating to survive
+C0853348	Arthropod bite	bug bites
+C0037763	Spasm	brain fart
+C2939186	Disturbance in mood	had me in my feelings
+C0036973	Shivering	shaking
+C0027497	Nausea	makes me a little less nauseous
+C0022107	Irritable Mood	grumpy
+C0427086	Involuntary Movements	wiggling
+C0040822	Tremor	tremor
+C0235146	Euphoric mood	false high
+C0234428	Consciousness abnormal	focusing monster
+C0016512	Foot pain	ankle hurts
+C0041657	Unconscious State	knocked me out
+C0012833	Dizziness	dizziness
+C0012833	Dizziness	dizziness
+C0235146	Euphoric mood	UP UP UP phase
+C0011570	Mental Depression	Miss your Prozac dose
+C0233514	Abnormal behavior	absolutely uncontrollable
+C0393761	Middle insomnia	up all night
+C0497364	Localized rash	break out in hives
+C0853348	Arthropod bite	mosquitoes
+C0009676	Confusion	confused
+C0542101	Nasal burning	hurts your nostrils
+C0700031	Anxiety attack	panic attacks
+C0235169	Excitability	in my feelings
+C0549259	Anxiety aggravated	anxiety
+C0149931	Migraine Disorders	headache
+C0856081	Restlessness aggravated	restlessness
+C0393760	Initial insomnia	insomnia
+C0740425	Altered Taste	couldn't taste anything
+C0392674	Exhaustion	exhausted
+C0596170	Binge eating disorder	eat like the literal beast that you feel
+C2830004	Somnolence	I lost my Adderall so I fell asleep super quick
+C0011570	Mental Depression	depression
+C0003467	Anxiety	anxiety
+C0043096	Body Weight decreased	weight loss
+C0235169	Excitability	to the ceiling
+C0038999	Swelling	swollen from a bug bite
+C0600104	Obsessive compulsive behavior	clean the house
+C0039971	Thirst	dry mouth
+C0018524	Hallucinations	tripping
+C0232461	Increased appetite (finding)	my appetite way up
+C2939186	Disturbance in mood	had me in my feelings
+C0151474	Alcohol intolerance	feel terrible when I drink
+C1262141	Poor quality sleep	wrecking my sleep
+C0455769	Energy increased	got me to the ceiling
+C0392674	Exhaustion	sleep deprived
+C0853348	Arthropod bite	chiggers
+C0020604	Hypochondriasis	up for 4 days
+C1443060	Feeling abnormal	feeling awful
+C2830004	Somnolence	asleep
+C0034634	Rage	mad
+C0036974	Shock	Weird full body electrical shocks
+C0152128	Drug withdrawal syndrome	withdrawal symptoms
+C0270458	Psychotic depression	sick
+C0015672	Fatigue	tired
+C0022107	Irritable Mood	mean
+C0086132	Depressive Symptoms	loneliness
+C0085633	Mood swings	dramatic
+C1263846	Attention deficit hyperactivity disorder	ADHD
+C0525045	Mood Disorders	I'm crazy
+C0040822	Tremor	jitters
+C0858899	Attention concentration difficulty	doesn't even make me attentive
+C0278061	Abnormal mental state	bonkers
+C0086769	Panic Attacks	panic attacks

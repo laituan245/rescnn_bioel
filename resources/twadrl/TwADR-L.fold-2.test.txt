@@ -1,0 +1,143 @@
+C0424295	Hyperactive behavior	cant shut up for the whole day
+C1443060	Feeling abnormal	feel like a malnourished toe
+C2267227	Bulimia Nervosa	purge
+C0038013	Ankylosing spondylitis	Spondylitis
+C0393760	Initial insomnia	#insomnia
+C0235169	Excitability	got me to the ceiling
+C2939186	Disturbance in mood	had me in my feelings
+C0233523	Antisocial behavior	act like a devil
+C0004604	Back Pain	back ache
+C0010346	Crohn Disease	Crohns
+C0917801	Sleeplessness	insomnia
+C0002957	Anger	mad
+C0596170	Binge eating disorder	binge
+C2830004	Somnolence	sleepy
+C0424166	Social fear	need space &amp; to be alone
+C0233514	Abnormal behavior	act fucking weird
+C0005586	Bipolar Disorder	#bipolar
+C0087169	Withdrawal Symptoms	withdrawal
+C0455769	Energy increased	walking up and down
+C0027497	Nausea	nauseous
+C0086769	Panic Attacks	panic
+C0085632	Indifferent mood	soulless robot
+C0027497	Nausea	nausea
+C0393760	Initial insomnia	insomnia
+C0085633	Mood swings	mood swings
+C0043096	Body Weight decreased	Losing weight
+C0152128	Drug withdrawal syndrome	come off
+C0037763	Spasm	random shoulder spasms
+C2830004	Somnolence	your brain is still sleepy
+C0234458	Abnormal dreams	intense, emotionally-charged nightmares
+C0917801	Sleeplessness	I can't remember the last time I slept
+C0455769	Energy increased	worked out more
+C0087169	Withdrawal Symptoms	withdrawals
+C0553668	Labored breathing	need to gulp air randomly
+C0012833	Dizziness	dizzy
+C0424000	Feeling suicidal (finding)	I'm shooting
+C0034634	Rage	angry
+C0344232	Blurred vision	messing with my visio
+C0694563	Excessive daytime somnolence	sleeping standing up
+C0027497	Nausea	vomiting
+C0037011	Shoulder Pain	get my shoulder right
+C0003467	Anxiety	anxiety
+C0013144	Drowsiness	drowsy
+C0087169	Withdrawal Symptoms	Coming down
+C0393760	Initial insomnia	insomniac
+C0542476	Forgetfulness	sleep the day away
+C0151821	Accidental overdose	accidentally double dosed
+C0028084	Nightmares	nightmares
+C0085632	Indifferent mood	it's feeling like the same thing
+C0497364	Localized rash	itchy rash
+C0000737	Abdominal Pain	cramps
+C0011551	Depersonalization	zombies
+C1443060	Feeling abnormal	feeling like death
+C0855242	Disturbance in sexual arousal	low libido
+C0344315	Depressed mood	bummed
+C0043094	Weight Gain	weight gain
+C0015672	Fatigue	tired
+C2830004	Somnolence	So sleepy
+C0013146	Drug abuse	double downed
+C0424295	Hyperactive behavior	hyper
+C0270458	Psychotic depression	depression
+C0043094	Weight Gain	gain weight
+C0005586	Bipolar Disorder	bi polar
+C2830004	Somnolence	tired
+C2939186	Disturbance in mood	making me insane
+C0427008	Stiffness	stiffness
+C0030193	Pain	pain
+C2830004	Somnolence	tired
+C1386135	Acute depression	hated my life
+C0392674	Exhaustion	sleep deprivation
+C0034634	Rage	makes my road rage terrible
+C0085633	Mood swings	mood changes
+C0037317	Sleep disturbances	sleep
+C0087169	Withdrawal Symptoms	coming down
+C0232461	Increased appetite (finding)	appetite way up
+C2939186	Disturbance in mood	got me in my feelings
+C0030193	Pain	hurting so bad
+C0497365	Rash generalised	rash
+C0151810	Lack of drug effect	become immune
+C0030193	Pain	pain
+C0002957	Anger	Anger
+C0028084	Nightmares	nightmares
+C0018808	Heart murmur	heart palpitations
+C0917801	Sleeplessness	not sleeping
+C0424295	Hyperactive behavior	when ur eyes have never been wider
+C0030193	Pain	hurts your nostrils
+C0150055	Chronic pain	chronic pain
+C0424166	Social fear	scared
+C0022107	Irritable Mood	grumpy
+C0235169	Excitability	had me in my feelings
+C0235240	Pounding heart	racing heart
+C0026821	Muscle Cramp	cramps
+C0917801	Sleeplessness	insomnia
+C0235939	Crying abnormal	cry
+C0687133	Drug Interactions	make me drunker
+C0242350	Erectile dysfunction	erectile dysfunction
+C0030319	Panic Disorder	anxiety
+C0012833	Dizziness	dizzy
+C0233479	Elevated mood	more social
+C0242785	Food-Drug Interactions	did nothing for me, I always ate on it like crazy
+C0455769	Energy increased	got me to the ceiling
+C0041657	Unconscious State	knock you out
+C0235309	Upset stomach	awful feeling in my stomach
+C0728899	Intoxication	trippin
+C0149931	Migraine Disorders	migraine
+C0027497	Nausea	nauseous
+C0037317	Sleep disturbances	keeping me awake
+C0702166	Acne	acne
+C0020564	Hypertrophy	hypertrophic scarring
+C0858899	Attention concentration difficulty	expense of clear thinking
+C0043094	Weight Gain	moon face and 30 lbs in 6 weeks
+C0038999	Swelling	parotid gland swelling
+C0424295	Hyperactive behavior	hysterical
+C0086132	Depressive Symptoms	depression symptoms
+C0235195	Sedated state	calm
+C0037763	Spasm	limbs are jumping on their own accord
+C0085633	Mood swings	emotional wreck
+C0011570	Mental Depression	depression
+C0233973	Painful erection	persistent painful erection
+C0018681	Headache	headache
+C0393761	Middle insomnia	It's 6 am and this adderall got me reevaluating my whole life
+C0087169	Withdrawal Symptoms	withdrawals
+C0012833	Dizziness	dizziness
+C0235169	Excitability	got me to the ceiling
+C2939186	Disturbance in mood	had me in my feelings
+C1504494	Tingling of extremity	tingling
+C0917801	Sleeplessness	I won't sleep
+C0043387	Yawning	intense yawns
+C0011570	Mental Depression	depressive
+C2830004	Somnolence	asleep
+C0232462	Decrease in appetite	full off of a cracker
+C0004936	Mental disorders	#help
+C0015672	Fatigue	tired
+C0541798	Early Awakening	I'm up
+C0541854	Daytime sleepiness	sleepy
+C0012833	Dizziness	dizzy
+C2939186	Disturbance in mood	had me in my feelings
+C0278061	Abnormal mental state	fucks me up
+C0525045	Mood Disorders	I'm crazy
+C0424295	Hyperactive behavior	hyper
+C0043096	Body Weight decreased	weight loss
+C0235966	Dreaming excessive	#dreams whilst taking #Effexor are #crazy #messed up &amp; totally #weird
+C0344315	Depressed mood	shitty

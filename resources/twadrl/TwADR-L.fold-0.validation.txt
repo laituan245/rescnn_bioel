@@ -1,0 +1,115 @@
+C0424295	Hyperactive behavior	cant shut up for the whole day
+C0034634	Rage	angry
+C0455769	Energy increased	got me to the ceiling
+C0003469	Anxiety Disorders	anxiety
+C1504494	Tingling of extremity	tingling
+C0235169	Excitability	hyped
+C0917801	Sleeplessness	WIDE AWAKE
+C0233523	Antisocial behavior	act like a devil
+C0424295	Hyperactive behavior	wast tired
+C0043096	Body Weight decreased	weight loss
+C0004936	Mental disorders	I hate doctors and meds
+C0003469	Anxiety Disorders	ANXIOUS
+C0541941	Erection increased	make your dick hard
+C0455769	Energy increased	got me to the ceiling
+C0038435	Stress	stressed
+C0235195	Sedated state	a mellow zombie
+C0344315	Depressed mood	hurting
+C3536794	Sad mood	feel like shit
+C0344315	Depressed mood	bummed
+C0917801	Sleeplessness	Wide awake
+C0013144	Drowsiness	a zombie
+C0476273	Respiratory distress	can't breathe
+C0030318	Panic	shooting
+C2830004	Somnolence	your brain is still sleepy
+C0234458	Abnormal dreams	totally #weird
+C0233488	Feeling despair	feeling like shit
+C0030486	Paraplegia	paraplegic
+C0043012	Wakefulness	awake
+C0087169	Withdrawal Symptoms	venlafaxine withdrawal
+C0043096	Body Weight decreased	lose weight
+C0003467	Anxiety	#anxiety
+C0043094	Weight Gain	30 lbs in 6 weeks
+C0011570	Mental Depression	depression
+C0016512	Foot pain	my foot feel worse
+C0149931	Migraine Disorders	headache
+C0278061	Abnormal mental state	trippin
+C0917801	Sleeplessness	awake until 8am
+C0235195	Sedated state	quiet
+C0751295	Memory Loss	screwing with my short term memory
+C0700031	Anxiety attack	anxiety
+C0520962	Pain localised	hip pain
+C0041671	Attention Deficit Disorder	attention deficit disorder
+C0087169	Withdrawal Symptoms	comedown
+C0553668	Labored breathing	can't breathe
+C0234238	Ache	Achy
+C0087169	Withdrawal Symptoms	my adderall got cut in half and now I'm dying
+C0011551	Depersonalization	zombies
+C1443060	Feeling abnormal	feeling like death
+C0012833	Dizziness	head spinning a little
+C0728899	Intoxication	fucked up
+C0022107	Irritable Mood	angry
+C0151602	Swelling face	moon face
+C0040822	Tremor	tremor
+C0542476	Forgetfulness	forgot
+C2830004	Somnolence	sleepy
+C2830004	Somnolence	tired
+C0233479	Elevated mood	feeling good
+C0851444	Allergic conditions	allergic reaction
+C0013144	Drowsiness	sleepy
+C0016658	Fracture	top of my femur got fractured
+C0851444	Allergic conditions	allergic
+C0917801	Sleeplessness	want to sleep
+C0022107	Irritable Mood	cranky
+C0344315	Depressed mood	dragging myself through the day
+C0003467	Anxiety	anxiety
+C0424091	Decreased interest	careless
+C0030193	Pain	living in pain
+C0424166	Social fear	~public~ friendly
+C0520962	Pain localised	butt pain
+C2830004	Somnolence	14 hours of it daily
+C0344315	Depressed mood	makes you depress
+C0393760	Initial insomnia	keeping me awake
+C0233459	Emotional disorder	zombie like emotionwise
+C0152128	Drug withdrawal syndrome	crashing
+C0018681	Headache	headaches
+C0043094	Weight Gain	gain 10kg
+C0022107	Irritable Mood	serious resting bitch face
+C0235939	Crying abnormal	cry
+C0037317	Sleep disturbances	it's feeling like the same day
+C0015672	Fatigue	fatigue
+C0917801	Sleeplessness	I highly doubt it
+C0152128	Drug withdrawal syndrome	venlafaxine withdrawal
+C0233459	Emotional disorder	Drove me mad
+C2830004	Somnolence	sleepy
+C0424295	Hyperactive behavior	up all morning
+C0087169	Withdrawal Symptoms	withdrawals
+C0043012	Wakefulness	stay up all night
+C0020564	Hypertrophy	hypertrophic scarring
+C0038999	Swelling	parotid gland swelling
+C0034634	Rage	angry
+C0393761	Middle insomnia	insomnia
+C0037763	Spasm	hasn't stopped shaking her leg the entire hour
+C0011551	Depersonalization	zombie like state
+C0687133	Drug Interactions	feel terrible when I drink
+C0344320	Vivid dreams	mad vivid dreams
+C0022107	Irritable Mood	rantful
+C0018681	Headache	headache
+C1443060	Feeling abnormal	felt so so so awful
+C0424295	Hyperactive behavior	I feel like doing something
+C0235169	Excitability	got me in my feelings
+C0235169	Excitability	in my feelings
+C0018524	Hallucinations	tripping
+C0235195	Sedated state	docile
+C0233523	Antisocial behavior	makes me act like a devil
+C0020175	Hunger	ridiculously hungry
+C0232461	Increased appetite (finding)	literally eaten a whole pizza
+C0853348	Arthropod bite	chiggers
+C0700590	Increased sweating	sweat
+C0424295	Hyperactive behavior	do everything
+C0015672	Fatigue	tired
+C0151836	Paranoid reaction	paranoid
+C0006370	Bulimia	bulimia
+C0028643	Numbness	numbness
+C0086769	Panic Attacks	panic attacks
+C0541854	Daytime sleepiness	walking zombie

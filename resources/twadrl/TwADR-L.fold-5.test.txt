@@ -1,0 +1,143 @@
+C0087169	Withdrawal Symptoms	Miss your Prozac does
+C0476273	Respiratory distress	asthma
+C2830004	Somnolence	asleep
+C0278061	Abnormal mental state	losing my mind
+C2939186	Disturbance in mood	had me in my feelings
+C0233632	Disturbance in thinking	expense of clear thinking
+C0149931	Migraine Disorders	migraines
+C0013146	Drug abuse	got me like
+C0043094	Weight Gain	10+lbs
+C0022107	Irritable Mood	hangry
+C0011071	Sudden death	sudden death
+C0455769	Energy increased	feeling something now,
+C2830004	Somnolence	sleepy
+C0013144	Drowsiness	intense yawns
+C0233459	Emotional disorder	have no emotions
+C0018801	Heart failure	heart attack
+C0022107	Irritable Mood	pissed off
+C0022107	Irritable Mood	sour mood
+C0013144	Drowsiness	drowsy
+C0234238	Ache	pain
+C0022107	Irritable Mood	cranky
+C0002957	Anger	monster
+C0018681	Headache	headaches
+C0423757	Skin thinness	thins the skin
+C0013144	Drowsiness	a zombie
+C0038990	Sweating	makes me sweat
+C0030318	Panic	shooting
+C0027497	Nausea	nauseous
+C0278061	Abnormal mental state	head feel very strange
+C0085633	Mood swings	mood swings
+C0877225	Bone density decreased	bones brittle
+C0392674	Exhaustion	exhausted
+C0086769	Panic Attacks	panic
+C0043096	Body Weight decreased	lose weight
+C0043012	Wakefulness	makes me more awake
+C0043096	Body Weight decreased	losing weight
+C0030193	Pain	pain
+C0235169	Excitability	in my feelings
+C0917801	Sleeplessness	awake until 8am
+C0917801	Sleeplessness	Keeps me up all night
+C1263846	Attention deficit hyperactivity disorder	ADHD
+C0424295	Hyperactive behavior	running up and down the stairs
+C0002957	Anger	rage
+C0520962	Pain localised	pain
+C0424295	Hyperactive behavior	fucked up
+C0233479	Elevated mood	feel great
+C2830004	Somnolence	drowsy
+C0027497	Nausea	nauseous
+C0043094	Weight Gain	gain more weight
+C0917801	Sleeplessness	terrified to fall asleep
+C0003467	Anxiety	anxiety
+C0917801	Sleeplessness	I'm wide awake once again after 1:00 a.m
+C0003467	Anxiety	anxious
+C0728899	Intoxication	jammed
+C0220870	Lightheadedness	dizzy
+C0010709	Cyst	cysts
+C0011551	Depersonalization	makes me a different person
+C0042571	Vertigo	vertigo
+C0043094	Weight Gain	gained 7 lbs
+C0039070	Syncope	fainting
+C1443060	Feeling abnormal	pretty terrible side effects
+C0233479	Elevated mood	feeling better
+C0235309	Upset stomach	Stomach messed up
+C0851444	Allergic conditions	allergic reaction
+C0917801	Sleeplessness	can't even keep you awake
+C0011570	Mental Depression	depressive emotins and thoughts
+C0344320	Vivid dreams	lucid dreamer
+C0151763	Liver damage	probs with my liver
+C0043012	Wakefulness	wide awake
+C0235169	Excitability	got me to the ceiling
+C0028643	Numbness	numb
+C2830004	Somnolence	fatigue
+C0013144	Drowsiness	drowsy
+C0233523	Antisocial behavior	need space &amp; to be alone
+C0038999	Swelling	swelling
+C0151825	Bone pain	bone pain
+C0151810	Lack of drug effect	immune
+C0043096	Body Weight decreased	lost so much weight
+C0424091	Decreased interest	careless
+C0013144	Drowsiness	fatigue
+C0497364	Localized rash	rash
+C0520962	Pain localised	butt pain
+C0085632	Indifferent mood	apathy
+C0022107	Irritable Mood	grumpy
+C0011570	Mental Depression	#fuckyoudepression
+C0344315	Depressed mood	makes you depress
+C0037763	Spasm	brain fart
+C2939186	Disturbance in mood	had me in my feelings
+C0003467	Anxiety	#anxiety
+C0042963	Vomiting	vomit
+C0026838	Muscle Spasticity	wiggling so much.
+C0013144	Drowsiness	sleepy
+C1386135	Acute depression	depression
+C0233514	Abnormal behavior	setting timers reminding me to eat every 30 minutes
+C0344315	Depressed mood	feel like
+C0152030	Skin irritation	itchy
+C0043094	Weight Gain	gained over 50 pounds
+C0393761	Middle insomnia	up all night
+C0152128	Drug withdrawal syndrome	venlafaxine withdrawal
+C2830004	Somnolence	fall asleep
+C0009676	Confusion	confused
+C0020175	Hunger	ridiculously hungry
+C0700031	Anxiety attack	panic attacks
+C0027497	Nausea	nauseous
+C0233715	Speech impairment	talk so fast
+C0087169	Withdrawal Symptoms	withdrawals
+C0917801	Sleeplessness	no sleep
+C0917801	Sleeplessness	incapable of sleep
+C0022107	Irritable Mood	bad mood
+C0392674	Exhaustion	exhausted
+C0424166	Social fear	quiet
+C0497365	Rash generalised	itchy rash
+C0455769	Energy increased	awake
+C0003469	Anxiety Disorders	anxious
+C0016512	Foot pain	foot feel worse
+C0455769	Energy increased	got me to the ceiling
+C1510472	Drug Dependence	is probably not meant to be taken everyday tbh
+C0003467	Anxiety	anxiety
+C0270458	Psychotic depression	soulless robot
+C1443060	Feeling abnormal	felt so so so awful
+C0424295	Hyperactive behavior	I feel like doing something
+C1456784	Paranoia	paranoid
+C0043012	Wakefulness	Still awake
+C0152030	Skin irritation	effect the skin
+C0037320	Night Terrors	night terrors
+C0028643	Numbness	numb
+C0233523	Antisocial behavior	makes me act like a devil
+C0233479	Elevated mood	feeling good
+C0018524	Hallucinations	1pm to 3am real quick
+C0027769	Nervousness	twitchy
+C0152128	Drug withdrawal syndrome	withdrawal symptoms
+C0393761	Middle insomnia	insomnia
+C0152128	Drug withdrawal syndrome	withdrawals
+C0600104	Obsessive compulsive behavior	have no choice but clean the house
+C0855242	Disturbance in sexual arousal	low libido
+C0087169	Withdrawal Symptoms	withdrawal
+C0013144	Drowsiness	ready for a nap
+C0041671	Attention Deficit Disorder	ADD
+C0003467	Anxiety	anxiety
+C0541799	Bad taste	mouth taste terrible
+C0006370	Bulimia	bulimia
+C0541854	Daytime sleepiness	walking zombie
+C0030193	Pain	pain

@@ -1,0 +1,143 @@
+C0030193	Pain	pain
+C0086132	Depressive Symptoms	hard days
+C0520962	Pain localised	butt pain
+C0278061	Abnormal mental state	brain fug
+C0043096	Body Weight decreased	making me.natural weight
+C0520962	Pain localised	muscular, joint, nerve pain
+C0917801	Sleeplessness	WIDE AWAKE
+C0917801	Sleeplessness	Insomnia
+C0409497	Joint injury	two cortisone injections to get my shoulder right
+C0027497	Nausea	dizzy
+C0233407	Disorientation	spins
+C0549249	Depressed Level of Consciousness	dopey
+C1443060	Feeling abnormal	ITS MAKING ME CRAZY
+C0011570	Mental Depression	Miss your Prozac does
+C0004936	Mental disorders	I hate doctors and meds
+C0240735	Personality change	not myself
+C0038435	Stress	stressed
+C0013144	Drowsiness	sleepy
+C0087169	Withdrawal Symptoms	Discontinuation
+C0410158	Muscle damage	rotted my muscles out
+C1971624	Loss of appetite (finding)	lose my appetite
+C0728899	Intoxication	groggy
+C0235146	Euphoric mood	pookied out
+C0424000	Feeling suicidal (finding)	the only reason I haven't downed all these antidepressants is because sertraline overdose rarely results in death
+C0917801	Sleeplessness	WIDE AWAKE
+C0344315	Depressed mood	hurt
+C0005586	Bipolar Disorder	mood swings
+C0012833	Dizziness	dizziness
+C0234458	Abnormal dreams	totally #weird
+C0455769	Energy increased	got me to the ceiling
+C0232461	Increased appetite (finding)	ate on it like crazy
+C0018681	Headache	mild headache
+C0751295	Memory Loss	wrecked my memory
+C0034634	Rage	rage
+C0751494	Convulsive Seizures	tremor
+C0004936	Mental disorders	Mental illness
+C0030193	Pain	pain
+C0002957	Anger	got me pissed
+C0917801	Sleeplessness	insomnia
+C0043094	Weight Gain	gained 7 lbs
+C0424295	Hyperactive behavior	hypomanic
+C0011551	Depersonalization	feel like you aren't a human anymore
+C1971624	Loss of appetite (finding)	suppressed appetite
+C0556446	Drug craving	addiction
+C0455769	Energy increased	got me to the ceiling
+C0917799	Hypersomnia	sleep
+C0087169	Withdrawal Symptoms	comedown
+C0392674	Exhaustion	exhausted
+C1971624	Loss of appetite (finding)	lost their appetite
+C0278061	Abnormal mental state	trippin
+C0240735	Personality change	makes me a different person
+C0234376	Action Tremor	tremor
+C0043012	Wakefulness	been this awake
+C0029445	Bone necrosis	bone loss
+C0018790	Cardiac Arrest	heart attack
+C0026858	Musculoskeletal Pain	pain
+C0018790	Cardiac Arrest	heart attack
+C0037763	Spasm	brain zaps
+C0021400	Influenza	plague
+C0000737	Abdominal Pain	nervous gut pain
+C0013144	Drowsiness	sleepy
+C0728899	Intoxication	fucked up
+C0008031	Chest Pain	hurt
+C0338908	Anxiety depression	depression/anxiety
+C0041671	Attention Deficit Disorder	inattentive
+C0600104	Obsessive compulsive behavior	makes you want to do stuff
+C0235169	Excitability	to the ceiling
+C0455769	Energy increased	got me to the ceiling
+C0040822	Tremor	tremor
+C0037317	Sleep disturbances	waking me up
+C2830004	Somnolence	tired
+C0043094	Weight Gain	gain 10kg
+C0232461	Increased appetite (finding)	munchies
+C0022107	Irritable Mood	highly irritated
+C0020175	Hunger	hungry
+C0162820	Dermatitis, Allergic Contact	allergic
+C0011551	Depersonalization	disassociation
+C0522224	Paralysed	entire arm feel paralyzed
+C0043012	Wakefulness	100% awake all the time
+C1263846	Attention deficit hyperactivity disorder	annoying
+C0021843	Intestinal Obstruction	functional obstructions
+C0278061	Abnormal mental state	CRAZY
+C0917801	Sleeplessness	not sleeping
+C0040822	Tremor	brain zaps
+C0231530	Muscle twitch	face twitch
+C0030319	Panic Disorder	anxiety
+C0393760	Initial insomnia	keeping me awake
+C0003123	Anorexia	I haven't eaten in 3 days
+C0042256	Vaginal itching	itches
+C2830004	Somnolence	knocked me on my ass last night
+C0018681	Headache	headaches
+C1704373	Compulsive Personality Disorder	neat freak mode
+C0043096	Body Weight decreased	Losing weight
+C0022107	Irritable Mood	be a fucking bitch
+C0043094	Weight Gain	10+lbs in two weeks
+C0009676	Confusion	confused
+C0917801	Sleeplessness	was up for 4 days
+C0011570	Mental Depression	Miss your Prozac dose
+C0455769	Energy increased	got meto the ceiling
+C0003044	Animal bite	chiggers bites
+C0917801	Sleeplessness	wide awake yet again past 1:00 a.m
+C0018790	Cardiac Arrest	heart attack
+C0424091	Decreased interest	intense apathy
+C2939186	Disturbance in mood	had me in my feelings
+C0524662	Opiate Addiction	addicted
+C0151911	Generalized Spasms	all my limbs are jumping on their own accord
+C0043012	Wakefulness	stay up all night
+C0003467	Anxiety	nervous wreck
+C0856081	Restlessness aggravated	restlessness
+C0740425	Altered Taste	couldn't taste anything
+C0030193	Pain	hurt really bad
+C0424295	Hyperactive behavior	way too hyper
+C0234428	Consciousness abnormal	brain fug
+C2830004	Somnolence	tired
+C0042963	Vomiting	always sick
+C0037763	Spasm	hasn't stopped shaking her leg the entire hour
+C0037274	Dermatologic disorders	thinning skin
+C0687133	Drug Interactions	feel terrible when I drink
+C0919661	Heart alternation	heart palpitations
+C0043096	Body Weight decreased	weight loss
+C0004936	Mental disorders	nervous wreck
+C0917801	Sleeplessness	#insomnia
+C0043096	Body Weight decreased	lose the 10 lbs
+C2939186	Disturbance in mood	had me in my feelings
+C0011570	Mental Depression	feel like crap
+C0917801	Sleeplessness	need sleep
+C0013144	Drowsiness	drowsiness
+C0455769	Energy increased	got me to the ceiling
+C3536794	Sad mood	loneliness
+C0034634	Rage	mad
+C0728899	Intoxication	groggy
+C0393761	Middle insomnia	insomniac
+C0233632	Disturbance in thinking	thinking it was 8pm
+C0393760	Initial insomnia	#insomnia
+C0027497	Nausea	dizziness
+C0344315	Depressed mood	miserable
+C0041671	Attention Deficit Disorder	ADD prevents me from focusing
+C0005586	Bipolar Disorder	#bipolar
+C0522172	Feeling drunk	feel drunk
+C0234987	Dizziness postural	not falling down dizzy
+C0393760	Initial insomnia	insomnia
+C0700031	Anxiety attack	panic attacks
+C0043012	Wakefulness	awake approx 36-38 hours

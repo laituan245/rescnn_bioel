@@ -1,0 +1,1001 @@
+C0000005	(131)i-maa	(131)i-macroaggregated albumin
+C0000039	1,2-dihexadecyl-sn-glycerophosphocholine	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide
+C0000039	dipalmitoylphosphatidylcholine 0102	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide
+C0000039	phosphatidylcholine, dipalmitoyl	dipalmitoylphosphatidylcholine
+C0000039	dppc	1,2 dihexadecyl sn glycerophosphocholine
+C0000039	phosphatidylcholine, dipalmitoyl	1,2-dipalmitoylphosphatidylcholine
+C0000039	dipalmitoyllecithin	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	1,2 dipalmitoyl glycerophosphocholine	dipalmitoylphosphatidylcholine (substance)
+C0000039	dipalmitoylglycerophosphocholine	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide
+C0000039	1,2-dipalmitoylphosphatidylcholine	dipalmitoylphosphatidylcholine (substance)
+C0000039	1,2 dipalmitoyl glycerophosphocholine	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	dipalmitoylphosphatidylcholine 0102	1,2-dihexadecyl-sn-glycerophosphocholine
+C0000039	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide	1,2 dihexadecyl sn glycerophosphocholine
+C0000039	1,2 dipalmitoyl glycerophosphocholine	dipalmitoylphosphatidylcholine
+C0000039	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide	dipalmitoyl phosphatidylcholine
+C0000039	1,2-dipalmitoyl-glycerophosphocholine	1,2 dihexadecyl sn glycerophosphocholine
+C0000039	dppc	dipalmitoylphosphatidylcholine
+C0000039	dipalmitoylphosphatidylcholine	dipalmitoyl phosphatidylcholine
+C0000039	1,2 dipalmitoyl glycerophosphocholine	dipalmitoyl phosphatidylcholine
+C0000039	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	dipalmitoylphosphatidylcholine 0102	1,2 dihexadecyl sn glycerophosphocholine
+C0000039	1,2-dipalmitoylphosphatidylcholine	dipalmitoylphosphatidylcholine 0102
+C0000039	dipalmitoyllecithin	dipalmitoylphosphatidylcholine (substance)
+C0000039	dipalmitoylphosphatidylcholine (substance)	dppc
+C0000039	dipalmitoyllecithin	dppc
+C0000039	1,2-dipalmitoylphosphatidylcholine	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide
+C0000039	phosphatidylcholine, dipalmitoyl	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide
+C0000039	dipalmitoylphosphatidylcholine (substance)	dipalmitoylphosphatidylcholine
+C0000039	1,2-dipalmitoylphosphatidylcholine	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	1,2-dipalmitoylphosphatidylcholine	dipalmitoylphosphatidylcholine
+C0000039	1,2 dipalmitoyl glycerophosphocholine	1,2-dihexadecyl-sn-glycerophosphocholine
+C0000039	dipalmitoylglycerophosphocholine	dipalmitoylphosphatidylcholine
+C0000039	1,2-dihexadecyl-sn-glycerophosphocholine	1,2 dihexadecyl sn glycerophosphocholine
+C0000039	dppc	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	dipalmitoylglycerophosphocholine	dipalmitoylphosphatidylcholine 0102
+C0000039	dipalmitoylglycerophosphocholine	dppc
+C0000039	dipalmitoylglycerophosphocholine	1,2-dipalmitoylphosphatidylcholine
+C0000039	phosphatidylcholine, dipalmitoyl	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	dipalmitoylphosphatidylcholine (substance)	3,5,9-trioxa-4-phosphapentacosan-1-aminium, 4-hydroxy-n,n,n-trimethyl-10-oxo-7-((1-oxohexadecyl)oxy)-, inner salt, 4-oxide
+C0000039	1,2 dipalmitoylphosphatidylcholine	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	dipalmitoyllecithin	1,2-dihexadecyl-sn-glycerophosphocholine
+C0000039	phosphatidylcholine, dipalmitoyl	dipalmitoyllecithin
+C0000039	dipalmitoylglycerophosphocholine	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	dipalmitoylphosphatidylcholine 0102	1,2-dipalmitoyl-glycerophosphocholine
+C0000039	dipalmitoylphosphatidylcholine 0102	dppc
+C0000039	1,2 dipalmitoylphosphatidylcholine	dppc
+C0000039	dipalmitoyllecithin	1,2-dipalmitoylphosphatidylcholine
+C0000039	1,2-dipalmitoylphosphatidylcholine	1,2-dihexadecyl-sn-glycerophosphocholine
+C0000039	1,2 dipalmitoylphosphatidylcholine	1,2 dihexadecyl sn glycerophosphocholine
+C0000039	1,2-dipalmitoylphosphatidylcholine	dipalmitoyl phosphatidylcholine
+C0000039	1,2-dipalmitoylphosphatidylcholine	1,2 dihexadecyl sn glycerophosphocholine
+C0000052	glycosyltransferase, branching	1,4-alpha-d-glucan:1,4-alpha-d-glucan 6-alpha-d-(1,4-alpha-d-glucano)-transferase
+C0000052	1,4-alpha-glucan branching enzyme	amylo-(1,4,6)-transglycosylase
+C0000052	enzyme, 1,4-alpha-glucan branching	branching glycosyltransferase
+C0000052	branching enzyme, 1,4-alpha-glucan	1,4-alpha-glucan branching enzyme (substance)
+C0000052	1,4-alpha-glucan branching enzyme	enzyme, 1,4-alpha-glucan branching
+C0000052	branching enzyme	amylo-(1,4->,6)-transglycosylase
+C0000052	1,4-alpha glucan branching enzyme	enzyme, 1,4-alpha-glucan branching
+C0000052	amylo-(1,4,6)-transglycosylase	1,4-alpha-d-glucan:1,4-alpha-d-glucan 6-alpha-d-(1,4-alpha-d-glucano)-transferase
+C0000052	branching enzyme	glucan branching enzyme
+C0000052	glucan branching enzyme	branching enzyme, starch
+C0000052	1,4 alpha glucan branching enzyme	branching glycosyltransferase
+C0000052	amylo-(1,4->,6)-transglycosylase	enzyme, starch branching
+C0000052	1,4-alpha-glucan branching enzyme	1,4 alpha glucan branching enzyme
+C0000052	alpha glucan branching enzyme 01 04	enzyme, branching
+C0000052	amylo-(1,4,6)-transglycosylase	branching glycosyltransferase
+C0000052	1,4 alpha glucan branching enzyme	enzyme, 1,4-alpha-glucan branching
+C0000052	starch branching enzyme	1,4-alpha-d-glucan:1,4-alpha-d-glucan 6-alpha-d-(1,4-alpha-d-glucano)-transferase
+C0000052	enzyme, branching	enzyme, 1,4-alpha-glucan branching
+C0000052	amylo-(1,4->,6)-transglycosylase	glycosyltransferase, branching
+C0000052	1,4-alpha-glucan branching enzyme	branching glycosyltransferase
+C0000052	branching enzyme, 1,4-alpha-glucan	branching glycosyltransferase
+C0000052	1,4-alpha-glucan branching enzyme	1,4-alpha glucan branching enzyme
+C0000052	branching enzyme, 1,4-alpha-glucan	branching enzyme, starch
+C0000052	glucan branching enzyme	1,4-alpha-glucan branching enzyme (substance)
+C0000052	starch branching enzyme	enzyme, starch branching
+C0000052	starch branching enzyme	1,4-alpha-glucan branching enzyme
+C0000052	starch branching enzyme	1,4 alpha glucan branching enzyme
+C0000052	amylo-(1,4,6)-transglycosylase	glycosyltransferase, branching
+C0000052	amylo-(1,4->,6)-transglycosylase	1,4 alpha glucan branching enzyme
+C0000052	1,4-alpha-d-glucan:1,4-alpha-d-glucan 6-alpha-d-(1,4-alpha-d-glucano)-transferase	branching glycosyltransferase
+C0000052	branching enzyme, 1,4-alpha-glucan	glucan branching enzyme
+C0000052	glycosyltransferase, branching	branching glycosyltransferase
+C0000052	1,4 alpha glucan branching enzyme	enzyme, branching
+C0000052	amylo-(1,4->,6)-transglycosylase	enzyme, 1,4-alpha-glucan branching
+C0000052	alpha glucan branching enzyme 01 04	enzyme, starch branching
+C0000052	1,4 alpha glucan branching enzyme	amylo-(1,4,6)-transglycosylase
+C0000052	amylo-(1,4,6)-transglycosylase	enzyme, starch branching
+C0000052	alpha glucan branching enzyme 01 04	branching glycosyltransferase
+C0000052	amylo-(1,4->,6)-transglycosylase	amylo-(1,4,6)-transglycosylase
+C0000052	1,4 alpha glucan branching enzyme	branching enzyme, 1,4-alpha-glucan
+C0000052	1,4 alpha glucan branching enzyme	enzyme, starch branching
+C0000052	amylo-(1,4->,6)-transglycosylase	1,4-alpha-d-glucan:1,4-alpha-d-glucan 6-alpha-d-(1,4-alpha-d-glucano)-transferase
+C0000052	branching enzyme, 1,4-alpha-glucan	glycosyltransferase, branching
+C0000052	branching enzyme	1,4-alpha glucan branching enzyme
+C0000052	starch branching enzyme	amylo-(1,4,6)-transglycosylase
+C0000052	1,4-alpha glucan branching enzyme	branching glycosyltransferase
+C0000052	enzyme, branching	1,4-alpha-d-glucan:1,4-alpha-d-glucan 6-alpha-d-(1,4-alpha-d-glucano)-transferase
+C0000052	amylo-(1,4->,6)-transglycosylase	branching enzyme, 1,4-alpha-glucan
+C0000052	amylo-(1,4->,6)-transglycosylase	enzyme, branching
+C0000052	amylo-(1,4,6)-transglycosylase	branching enzyme, 1,4-alpha-glucan
+C0000074	1-alkyl-2-acylphosphatidates	1 alkyl 2 acylphosphatidates
+C0000084	gamma carboxyglutamic acid	1 carboxyglutamic acid
+C0000084	1-carboxyglutamic acid	gamma carboxyglutamic acid
+C0000084	3-amino-1,1,3-propanetricarboxylic acid	1,1,3-propanetricarboxylic acid, 3-amino-
+C0000084	carboxyglutamic acid 01	gamma carboxyglutamic acid
+C0000084	1-carboxyglutamic acid	gamma-carboxyglutamic acid
+C0000084	carboxyglutamic acid 01	1 carboxyglutamic acid
+C0000084	3-amino-1,1,3-propanetricarboxylic acid	gamma carboxyglutamic acid
+C0000084	carboxyglutamic acid 01	gamma-carboxyglutamic acid
+C0000084	1-carboxyglutamic acid	1 carboxyglutamic acid
+C0000084	3-amino-1,1,3-propanetricarboxylic acid	gamma-carboxyglutamic acid
+C0000084	3-amino-1,1,3-propanetricarboxylic acid	1 carboxyglutamic acid
+C0000084	gamma carboxyglutamic acid	gamma-carboxyglutamic acid
+C0000084	gamma carboxyglutamic acid	1,1,3-propanetricarboxylic acid, 3-amino-
+C0000084	1,1,3-propanetricarboxylic acid, 3-amino-	1 carboxyglutamic acid
+C0000084	carboxyglutamic acid 01	1,1,3-propanetricarboxylic acid, 3-amino-
+C0000084	1-carboxyglutamic acid	carboxyglutamic acid 01
+C0000084	gamma-carboxyglutamic acid	1,1,3-propanetricarboxylic acid, 3-amino-
+C0000084	3-amino-1,1,3-propanetricarboxylic acid	carboxyglutamic acid 01
+C0000084	1-carboxyglutamic acid	1,1,3-propanetricarboxylic acid, 3-amino-
+C0000084	gamma-carboxyglutamic acid	1 carboxyglutamic acid
+C0000084	3-amino-1,1,3-propanetricarboxylic acid	1-carboxyglutamic acid
+C0000096	ibmx	1-methyl-3-isobutylxanthine
+C0000096	ibmx	mibx
+C0000096	1 methyl 3 isobutylxanthine	ibmx
+C0000096	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-	methylisobutylxanthine 01 03
+C0000096	isobutyltheophylline	1-methyl-3-isobutylxanthine
+C0000096	isobutyltheophylline	isobutylmethylxanthine 03 01
+C0000096	isobutylmethylxanthine 03 01	mibx
+C0000096	1 methyl 3 isobutylxanthine	isobutylmethylxanthine 03 01
+C0000096	isobutyltheophylline	mibx
+C0000096	3-isobutyl-1-methylxanthine	1-methyl-3-isobutylxanthine
+C0000096	isobutyltheophylline	ibmx
+C0000096	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-	isobutylmethylxanthine 03 01
+C0000096	ibmx	methylisobutylxanthine 01 03
+C0000096	isobutyltheophylline	methylisobutylxanthine 01 03
+C0000096	1 methyl 3 isobutylxanthine	methylisobutylxanthine 01 03
+C0000096	ibmx	3 isobutyl 1 methylxanthine
+C0000096	3-isobutyl-1-methylxanthine	1 methyl 3 isobutylxanthine
+C0000096	3 isobutyl 1 methylxanthine	isobutylmethylxanthine 03 01
+C0000096	isobutylmethylxanthine 03 01	1-methyl-3-isobutylxanthine
+C0000096	1 methyl 3 isobutylxanthine	mibx
+C0000096	methylisobutylxanthine 01 03	mibx
+C0000096	1 methyl 3 isobutylxanthine	isobutyltheophylline
+C0000096	1 methyl 3 isobutylxanthine	1-methyl-3-isobutylxanthine
+C0000096	ibmx	isobutylmethylxanthine 03 01
+C0000096	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-	1-methyl-3-isobutylxanthine
+C0000096	3 isobutyl 1 methylxanthine	1-methyl-3-isobutylxanthine
+C0000096	3-isobutyl-1-methylxanthine	3 isobutyl 1 methylxanthine
+C0000096	3-isobutyl-1-methylxanthine	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-
+C0000096	3-isobutyl-1-methylxanthine	ibmx
+C0000096	1 methyl 3 isobutylxanthine	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-
+C0000096	3-isobutyl-1-methylxanthine	mibx
+C0000096	3-isobutyl-1-methylxanthine	methylisobutylxanthine 01 03
+C0000096	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-	3 isobutyl 1 methylxanthine
+C0000096	methylisobutylxanthine 01 03	isobutylmethylxanthine 03 01
+C0000096	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-	mibx
+C0000096	1-methyl-3-isobutylxanthine	mibx
+C0000096	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-	ibmx
+C0000096	1h-purine-2,6-dione, 3,7-dihydro-1-methyl-3-(2-methylpropyl)-	isobutyltheophylline
+C0000096	3-isobutyl-1-methylxanthine	isobutylmethylxanthine 03 01
+C0000096	3-isobutyl-1-methylxanthine	isobutyltheophylline
+C0000096	methylisobutylxanthine 01 03	3 isobutyl 1 methylxanthine
+C0000096	3 isobutyl 1 methylxanthine	mibx
+C0000096	methylisobutylxanthine 01 03	1-methyl-3-isobutylxanthine
+C0000096	isobutyltheophylline	3 isobutyl 1 methylxanthine
+C0000096	1 methyl 3 isobutylxanthine	3 isobutyl 1 methylxanthine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (mptp)	pyridine, 1,2,3,6-tetrahydro-1-methyl-4-phenyl-
+C0000097	mptp	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	methylphenyltetrahydropyridine	n-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	methylphenyltetrahydropyridine (substance)	methylphenyltetrahydropyridine
+C0000097	methylphenyltetrahydropyridine 01 04 01 02 03 06	pyridine, 1,2,3,6-tetrahydro-1-methyl-4-phenyl-
+C0000097	methylphenyltetrahydropyridine (substance)	pyridine, 1,2,3,6-tetrahydro-1-methyl-4-phenyl-
+C0000097	mptp	methylphenyltetrahydropyridine (substance)
+C0000097	methylphenyltetrahydropyridine 01 04 01 02 03 06	methylphenyltetrahydropyridine
+C0000097	methylphenyltetrahydropyridine 01 04 01 02 03 06	methylphenyltetrahydropyridine (substance)
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	methylphenyltetrahydropyridine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (mptp)	n-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	mptp	n-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (mptp)	methylphenyltetrahydropyridine (substance)
+C0000097	mptp	pyridine, 1,2,3,6-tetrahydro-1-methyl-4-phenyl-
+C0000097	methylphenyltetrahydropyridine (substance)	n-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (mptp)	mptp
+C0000097	pyridine, 1,2,3,6-tetrahydro-1-methyl-4-phenyl-	n-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	mptp	methylphenyltetrahydropyridine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	n-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	methylphenyltetrahydropyridine 01 04 01 02 03 06	n-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	methylphenyltetrahydropyridine 01 04 01 02 03 06	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (mptp)	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (mptp)	methylphenyltetrahydropyridine
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	pyridine, 1,2,3,6-tetrahydro-1-methyl-4-phenyl-
+C0000097	methylphenyltetrahydropyridine	pyridine, 1,2,3,6-tetrahydro-1-methyl-4-phenyl-
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (mptp)	methylphenyltetrahydropyridine 01 04 01 02 03 06
+C0000097	methylphenyltetrahydropyridine 01 04 01 02 03 06	mptp
+C0000097	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	methylphenyltetrahydropyridine (substance)
+C0000098	n methyl 4 phenylpyridine	n methyl 4 phenylpyridinium
+C0000098	1-methyl-4-phenylpyridine	1-methyl-4-phenylpyridinium
+C0000098	n methyl 4 phenylpyridine	n-methyl-4-phenylpyridine
+C0000098	1 methyl 4 phenylpyridine	n-methyl-4-phenylpyridinium
+C0000098	1 methyl 4 phenylpyridinium ion	methylphenylpyridinium 01 04
+C0000098	n methyl 4 phenylpyridine	cyperquat
+C0000098	methylphenylpyridinium 01 04	1-methyl-4-phenylpyridinium
+C0000098	1-methyl-4-phenylpyridine	n-methyl-4-phenylpyridine
+C0000098	1-methyl-4-phenylpyridinium ion	1-methyl-4-phenylpyridinium
+C0000098	1-methyl-4-phenylpyridine	pyridinium, 1-methyl-4-phenyl-
+C0000098	n-methyl-4-phenylpyridinium	1-methyl-4-phenylpyridinium
+C0000098	1 methyl 4 phenylpyridine	1-methyl-4-phenylpyridinium
+C0000098	1-methyl-4-phenylpyridine	n methyl 4 phenylpyridine
+C0000098	1 methyl 4 phenylpyridine	n-methyl-4-phenylpyridine
+C0000098	mpp+	1-methyl-4-phenylpyridinium
+C0000098	1 methyl 4 phenylpyridine	pyridinium, 1-methyl-4-phenyl-
+C0000098	n methyl 4 phenylpyridinium	mpp+
+C0000098	pyridinium, 1-methyl-4-phenyl-	cyperquat
+C0000098	1-methyl-4-phenylpyridine	1 methyl 4 phenylpyridine
+C0000098	1-methyl-4-phenylpyridine	n methyl 4 phenylpyridinium
+C0000098	1-methyl-4-phenylpyridine	1 methyl 4 phenylpyridinium
+C0000098	n-methyl-4-phenylpyridinium	mpp+
+C0000098	n methyl 4 phenylpyridine	mpp+
+C0000098	1-methyl-4-phenylpyridine	1-methyl-4-phenylpyridinium ion
+C0000098	n methyl 4 phenylpyridine	pyridinium, 1-methyl-4-phenyl-
+C0000098	1 methyl 4 phenylpyridinium	n-methyl-4-phenylpyridine
+C0000098	n methyl 4 phenylpyridinium	methylphenylpyridinium 01 04
+C0000098	n methyl 4 phenylpyridine	1-methyl-4-phenylpyridinium
+C0000098	pyridinium, 1-methyl-4-phenyl-	1-methyl-4-phenylpyridinium ion
+C0000098	n-methyl-4-phenylpyridine	1 methyl 4 phenylpyridinium ion
+C0000098	n-methyl-4-phenylpyridine	n methyl 4 phenylpyridinium
+C0000098	1 methyl 4 phenylpyridine	1 methyl 4 phenylpyridinium
+C0000098	n-methyl-4-phenylpyridine	mpp+
+C0000098	pyridinium, 1-methyl-4-phenyl-	mpp+
+C0000098	mpp+	methylphenylpyridinium 01 04
+C0000098	1 methyl 4 phenylpyridine	1 methyl 4 phenylpyridinium ion
+C0000098	1-methyl-4-phenylpyridinium ion	n methyl 4 phenylpyridinium
+C0000098	1 methyl 4 phenylpyridinium	1 methyl 4 phenylpyridinium ion
+C0000098	1 methyl 4 phenylpyridine	n methyl 4 phenylpyridine
+C0000098	n methyl 4 phenylpyridine	methylphenylpyridinium 01 04
+C0000098	1-methyl-4-phenylpyridinium ion	cyperquat
+C0000098	n-methyl-4-phenylpyridine	methylphenylpyridinium 01 04
+C0000098	n-methyl-4-phenylpyridinium	cyperquat
+C0000098	1-methyl-4-phenylpyridinium ion	n-methyl-4-phenylpyridine
+C0000098	1 methyl 4 phenylpyridinium	1-methyl-4-phenylpyridinium
+C0000098	cyperquat	methylphenylpyridinium 01 04
+C0000098	1 methyl 4 phenylpyridinium	1-methyl-4-phenylpyridinium ion
+C0000098	pyridinium, 1-methyl-4-phenyl-	n methyl 4 phenylpyridinium
+C0000098	n-methyl-4-phenylpyridinium	1 methyl 4 phenylpyridinium ion
+C0000098	1 methyl 4 phenylpyridinium	n methyl 4 phenylpyridinium
+C0000102	naphthalidine	a- naphthylamine
+C0000102	1 aminonaphthalene	1-aminonaphthalene
+C0000102	alpha naphthylamine	a- naphthylamine
+C0000102	1-naththylamine (substance)	a- naphthylamine
+C0000102	naphthylamine 01	1 naphthylamine
+C0000102	aminonaphthalene 01	a- naphthylamine
+C0000102	1-aminonaphthalene	a- naphthylamine
+C0000102	8-aminonaphthalene	alpha-naphthylamine
+C0000102	1-naththylamine	1 naphthylamine
+C0000102	1 aminonaphthalene	1 naphthylamine
+C0000102	aminonaphthalene 01	alpha naphthylamine
+C0000102	1-naphthylamine	naphthylamine 01
+C0000102	1-naphthylamine	1 aminonaphthalene
+C0000102	1-aminonaphthalene	alpha naphthylamine
+C0000102	1-naphthylamine	a- naphthylamine
+C0000102	1-naphthylamine	8 aminonaphthalene
+C0000102	1-naththylamine (substance)	8 aminonaphthalene
+C0000102	aminonaphthalene 01	1-aminonaphthalene
+C0000102	naphthalidine	1 aminonaphthalene
+C0000102	1-naphthylamine	1-naphthalenamine
+C0000102	1 naphthylamine	alpha naphthylamine
+C0000102	1-naphthalenamine	8 aminonaphthalene
+C0000102	naphthylamine 01	a- naphthylamine
+C0000102	1-naththylamine (substance)	alpha naphthylamine
+C0000102	1 naphthylamine	8-aminonaphthalene
+C0000102	aminonaphthalene 01	8 aminonaphthalene
+C0000102	aminonaphthalene 01	1-naphthylamine
+C0000102	8-aminonaphthalene	8 aminonaphthalene
+C0000102	1-aminonaphthalene	1-naththylamine (substance)
+C0000102	1 aminonaphthalene	8 aminonaphthalene
+C0000102	1-naphthylamine	alpha naphthylamine
+C0000102	naphthalidine	1-naphthalenamine
+C0000102	1-naphthylamine	1-naththylamine
+C0000102	1 aminonaphthalene	alpha-naphthylamine
+C0000102	1 naphthylamine	a- naphthylamine
+C0000102	1-naphthalenamine	alpha naphthylamine
+C0000102	1-naththylamine	8-aminonaphthalene
+C0000102	1 aminonaphthalene	naphthylamine 01
+C0000102	1 naphthylamine	1-naththylamine (substance)
+C0000102	naphthalidine	alpha naphthylamine
+C0000102	1-naththylamine	1 aminonaphthalene
+C0000102	alpha naphthylamine	alpha-naphthylamine
+C0000102	1-naththylamine	1-aminonaphthalene
+C0000102	1-naphthylamine	alpha-naphthylamine
+C0000102	1-naphthalenamine	alpha-naphthylamine
+C0000102	naphthalidine	1 naphthylamine
+C0000102	aminonaphthalene 01	1-naththylamine
+C0000102	aminonaphthalene 01	1 naphthylamine
+C0000102	a- naphthylamine	8 aminonaphthalene
+C0000102	1 naphthylamine	1-aminonaphthalene
+C0000103	naphthalene, 1-isothiocyanato-	1 naphthylisothiocyanate
+C0000103	alpha naphthylisothiocyanate	naphthylisothiocyanate 01
+C0000103	1-naphthylisothiocyanate	1 naphthylisothiocyanate
+C0000103	1-naphthylisothiocyanate	naphthalene, 1-isothiocyanato-
+C0000103	alpha naphthylisothiocyanate	alpha-naphthylisothiocyanate
+C0000103	alpha-naphthylisothiocyanate	naphthylisothiocyanate 01
+C0000103	1-naphthylisothiocyanate	alpha-naphthylisothiocyanate
+C0000103	alpha-naphthylisothiocyanate	1 naphthylisothiocyanate
+C0000103	alpha-naphthylisothiocyanate	naphthalene, 1-isothiocyanato-
+C0000103	naphthalene, 1-isothiocyanato-	naphthylisothiocyanate 01
+C0000103	alpha naphthylisothiocyanate	naphthalene, 1-isothiocyanato-
+C0000103	1-naphthylisothiocyanate	naphthylisothiocyanate 01
+C0000103	naphthylisothiocyanate 01	1 naphthylisothiocyanate
+C0000103	alpha naphthylisothiocyanate	1-naphthylisothiocyanate
+C0000103	alpha naphthylisothiocyanate	1 naphthylisothiocyanate
+C0000107	sar iso ang	1-sar-8-ile angiotensin ii
+C0000107	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii	angiotensin ii, 1-sar-8-ile
+C0000107	sar ile angiotensin 02 01 08	1-sar-8-ile angiotensin ii
+C0000107	1 sar 8 ile angiotensin ii	1-sarcosine-8-isoleucine angiotensin ii
+C0000107	1-sar-8-ile angiotensin ii	1-sarcosine-8-isoleucine angiotensin ii
+C0000107	sar iso ang	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii
+C0000107	sarcosineisoleucineangiotensin 02 01 08	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	1-sar-8-ile angiotensin ii	1 sarcosine 8 isoleucine angiotensin ii
+C0000107	sar iso ang	1-sarcosine-8-isoleucine angiotensin ii
+C0000107	sar ile angiotensin 02 01 08	1 sarcosine 8 isoleucine angiotensin ii
+C0000107	sarcosineisoleucineangiotensin 02 01 08	angiotensin ii, 1-sar-8-ile
+C0000107	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	sar ile angiotensin 02 01 08	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	sar ile angiotensin 02 01 08	1-sarcosine-8-isoleucine angiotensin ii
+C0000107	1-sar-8-ile angiotensin ii	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-
+C0000107	sar ile angiotensin 02 01 08	sarcosineisoleucineangiotensin 02 01 08
+C0000107	sar ile angiotensin 02 01 08	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii
+C0000107	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-	angiotensin ii, 1-sar-8-ile
+C0000107	1 sarcosine 8 isoleucine angiotensin ii	angiotensin ii, 1-sar-8-ile
+C0000107	1-sarcosine-8-isoleucine angiotensin ii	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-
+C0000107	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-	sarile
+C0000107	sar iso ang	1 sarcosine 8 isoleucine angiotensin ii
+C0000107	sar iso ang	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	sarcosineisoleucineangiotensin 02 01 08	1 sarcosine 8 isoleucine angiotensin ii
+C0000107	sarcosineisoleucineangiotensin 02 01 08	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii
+C0000107	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii	1 sarcosine 8 isoleucine angiotensin ii
+C0000107	sarile	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	1 sar 8 ile angiotensin ii	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	angiotensin ii, 1-sar-8-ile	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	1-sarcosine-8-isoleucine angiotensin ii	1 sarcosine 8 isoleucine angiotensin ii
+C0000107	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	sarcosineisoleucineangiotensin 02 01 08	1-sar-8-ile angiotensin ii
+C0000107	1 sar 8 ile angiotensin ii	angiotensin ii, 1-sar-8-ile
+C0000107	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-	1 sarcosine 8 isoleucine angiotensin ii
+C0000107	sar iso ang	sar ile angiotensin 02 01 08
+C0000107	sar ile angiotensin 02 01 08	angiotensin ii, 1-sar-8-ile
+C0000107	1-sar-8-ile angiotensin ii	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-
+C0000107	sar ile angiotensin 02 01 08	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-
+C0000107	angiotensin ii, 1-sar-8-ile	sarile
+C0000107	1 sar 8 ile angiotensin ii	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii
+C0000107	1 sar 8 ile angiotensin ii	1-sar-8-ile angiotensin ii
+C0000107	sar iso ang	sarcosineisoleucineangiotensin 02 01 08
+C0000107	1-sar-8-ile angiotensin ii	angiotensin ii, 1-sar-8-ile
+C0000107	1-sar-8-ile angiotensin ii	1-(n-methylglycine)-8-l-isoleucine-angiotensin ii
+C0000107	1-sarcosine-8-isoleucine angiotensin ii	sarile
+C0000107	1-sar-8-ile angiotensin ii	sarile
+C0000107	sarcosineisoleucineangiotensin 02 01 08	sarile
+C0000107	1 sarcosine 8 isoleucine angiotensin ii	angiotensin ii, 1-sarcosine-8-isoleucine
+C0000107	sar iso ang	angiotensin ii, 1-(n-methylglycine)-8-l-isoleucine-
+C0000119	11 hydroxycorticosteroids	hydroxycorticosteroids a 11
+C0000119	11 hydroxycorticosteroids	11-hydroxycorticosteroids
+C0000119	11-hydroxycorticosteroids	hydroxycorticosteroids a 11
+C0000132	hydrolase, 15-ketosteryl oleate	15-ketosteryl oleate hydrolase
+C0000132	15 ketosteryl oleate hydrolase	hydrolase, 15-ketosteryl oleate
+C0000132	15 ketosteryl oleate hydrolase	15-ketosteryl oleate hydrolase
+C0000137	15s rna	rna, 15s
+C0000139	e2, 16,16-dimethylprostaglandin	16,16 dimethylprostaglandin e2
+C0000139	e2, 16,16-dimethylprostaglandin	dimethylprostaglandin e 02 16 16
+C0000139	16,16-dimethyl-pge2	16,16 dimethyl pge2
+C0000139	dimethylpge2	16,16-dimethylprostaglandin e2
+C0000139	dimethylpge2	dimethylprostaglandin e 02 16 16
+C0000139	dimethylprostaglandin e 02 16 16	16,16 dimethyl pge2
+C0000139	e2, 16,16-dimethylprostaglandin	16,16-dimethyl-pge2
+C0000139	dimethylpge2	16,16-dimethyl-pge2
+C0000139	16,16-dimethyl-pge2	16,16 dimethylprostaglandin e2
+C0000139	prosta-5,13-dien-1-oic acid, 11,15-dihydroxy-16,16-dimethyl-9-oxo-, (5z,11alpha,13e,15r)-	16,16-dimethylprostaglandin e2
+C0000139	16,16-dimethyl-pge2	16,16-dimethylprostaglandin e2
+C0000139	dimethylprostaglandin e 02 16 16	16,16-dimethylprostaglandin e2
+C0000139	dimethylpge2	e2, 16,16-dimethylprostaglandin
+C0000139	dimethylpge2	16,16 dimethylprostaglandin e2
+C0000139	16,16-dimethyl-pge2	prosta-5,13-dien-1-oic acid, 11,15-dihydroxy-16,16-dimethyl-9-oxo-, (5z,11alpha,13e,15r)-
+C0000139	dimethylpge2	prosta-5,13-dien-1-oic acid, 11,15-dihydroxy-16,16-dimethyl-9-oxo-, (5z,11alpha,13e,15r)-
+C0000139	e2, 16,16-dimethylprostaglandin	16,16 dimethyl pge2
+C0000139	e2, 16,16-dimethylprostaglandin	prosta-5,13-dien-1-oic acid, 11,15-dihydroxy-16,16-dimethyl-9-oxo-, (5z,11alpha,13e,15r)-
+C0000139	prosta-5,13-dien-1-oic acid, 11,15-dihydroxy-16,16-dimethyl-9-oxo-, (5z,11alpha,13e,15r)-	dimethylprostaglandin e 02 16 16
+C0000139	16,16 dimethylprostaglandin e2	dimethylprostaglandin e 02 16 16
+C0000139	16,16 dimethylprostaglandin e2	16,16-dimethylprostaglandin e2
+C0000139	prosta-5,13-dien-1-oic acid, 11,15-dihydroxy-16,16-dimethyl-9-oxo-, (5z,11alpha,13e,15r)-	16,16 dimethyl pge2
+C0000139	dimethylpge2	16,16 dimethyl pge2
+C0000139	16,16 dimethylprostaglandin e2	16,16 dimethyl pge2
+C0000139	16,16-dimethyl-pge2	dimethylprostaglandin e 02 16 16
+C0000139	16,16 dimethylprostaglandin e2	prosta-5,13-dien-1-oic acid, 11,15-dihydroxy-16,16-dimethyl-9-oxo-, (5z,11alpha,13e,15r)-
+C0000139	e2, 16,16-dimethylprostaglandin	16,16-dimethylprostaglandin e2
+C0000139	16,16-dimethylprostaglandin e2	16,16 dimethyl pge2
+C0000151	17 beta-hydroxy-5 beta-androstan-3-one	17 beta hydroxy 5 beta androstan 3 one
+C0000151	beta-hydroxy-5 beta-androstan-3-one, 17	17 beta-hydroxy-5 beta-androstan-3-one
+C0000151	beta-hydroxy-5 beta-androstan-3-one, 17	17 beta hydroxy 5 beta androstan 3 one
+C0000152	beta hydroxysteroid dehydrogenases a 17	17 beta hydroxysteroid dehydrogenases
+C0000152	17 beta-hydroxysteroid dehydrogenases	dehydrogenases, 17 beta-hydroxysteroid
+C0000152	17 beta-hydroxysteroid dehydrogenases	17 beta hydroxysteroid dehydrogenases
+C0000152	beta hydroxysteroid dehydrogenases a 17	dehydrogenases, 17 beta-hydroxysteroid
+C0000152	17 beta hydroxysteroid dehydrogenases	dehydrogenases, 17 beta-hydroxysteroid
+C0000152	17 beta-hydroxysteroid dehydrogenases	beta hydroxysteroid dehydrogenases a 17
+C0000163	17-hydrocorticosteroid	17-ketogenic steroids, nos
+C0000163	17 hydroxycorticoids	17-hydroxycorticoid
+C0000163	17-hydrocorticosteroid	17-ketogenic steroids
+C0000163	17 hydroxycorticosteroids	17-ketogenic steroids, nos
+C0000163	17-hydrocorticosteroid	17-ketogenic steroid (substance)
+C0000163	17-hydrocorticosteroids	17-oxogenic steroids
+C0000163	17-hydrocorticosteroids	17 hydroxycorticosteroids
+C0000163	17-ketogenic steroid	17-ketogenic steroids, nos
+C0000163	17-hydroxycorticosteroid	17-ketogenic steroids, nos
+C0000163	17-hydroxycorticoid	17-hydroxycorticosteroids
+C0000163	17-hydroxycorticoid	17-ketogenic steroid (substance)
+C0000163	17-hydrocorticosteroids	17-ketogenic steroids, nos
+C0000163	17-ketogenic steroid	17-oxogenic steroids
+C0000163	17-hydrocorticosteroid	17-hydroxycorticoids, nos
+C0000163	17-hydrocorticosteroids	17-oxogenic steroid
+C0000163	17-hydroxycorticosteroid (substance)	17 hydroxycorticosteroids
+C0000163	17-oxogenic steroids	17 hydroxycorticoids
+C0000163	17-hydroxycorticoid	17-hydroxycorticoids, nos
+C0000163	17-ketogenic steroid	17-ketogenic steroids
+C0000163	17-ketogenic steroids, nos	17-hydroxycorticoids, nos
+C0000163	17-ketogenic steroid (substance)	17-hydroxycorticosteroids
+C0000163	17-hydroxycorticosteroid (substance)	17-hydroxycorticoid
+C0000163	17-oxogenic steroids	17-hydrocorticosteroid
+C0000163	17-hydroxycorticosteroid (substance)	17-hydroxycorticoids, nos
+C0000163	17 hydroxycorticosteroid	17-hydroxycorticosteroids
+C0000163	17 hydroxycorticoids	17-ketogenic steroid (substance)
+C0000163	17 hydroxycorticosteroids	17-hydroxycorticosteroid
+C0000163	17-ketogenic steroid	17-hydrocorticosteroid
+C0000163	17-hydrocorticosteroids	17-ketogenic steroid (substance)
+C0000163	17-hydroxycorticosteroid -retired-	17-hydrocorticosteroid
+C0000163	17-hydroxycorticosteroid -retired-	17 hydroxycorticosteroids
+C0000163	17-oxogenic steroids	17-hydroxycorticosteroids
+C0000163	17-oxogenic steroids	17-hydroxycorticosteroid
+C0000163	17-hydroxycorticosteroid -retired-	17 hydroxycorticoids
+C0000163	17kgs - 17-ketogenic steroids	17-hydroxycorticoids, nos
+C0000163	17-oxogenic steroids	17-hydroxycorticoids, nos
+C0000163	17-hydroxycorticosteroid (substance)	17kgs - 17-ketogenic steroids
+C0000163	17-ketogenic steroid	17-hydroxycorticosteroid (substance)
+C0000163	17-ketogenic steroid (substance)	17-hydroxycorticoids, nos
+C0000163	17kgs - 17-ketogenic steroids	17 hydroxycorticosteroid
+C0000163	17-hydroxycorticosteroid (substance)	17-hydrocorticosteroid
+C0000163	17 hydroxycorticosteroids	17-hydroxycorticoids, nos
+C0000163	hydroxycorticosteroids a 17	17-ketogenic steroid (substance)
+C0000163	17-ketogenic steroids, nos	17-ketogenic steroid (substance)
+C0000163	17-hydroxycorticoid	17-ketogenic steroids, nos
+C0000163	17-oxogenic steroids	17 hydroxycorticosteroids
+C0000163	17-ketogenic steroid	17kgs - 17-ketogenic steroids
+C0000163	hydroxycorticosteroids a 17	17-hydroxycorticosteroid
+C0000163	17-oxogenic steroid	17-hydroxycorticoids, nos
+C0000163	17-ketogenic steroid	17-hydroxycorticosteroids
+C0000165	dehydrogenases, 17-hydroxysteroid	17 hydroxysteroid dehydrogenases
+C0000165	17 ketosteroid reductases	hydroxysteroid dehydrogenases 17
+C0000165	dehydrogenases, 17-hydroxysteroid	17 ketosteroid reductases
+C0000165	17 ketosteroid reductases	17-hydroxysteroid dehydrogenases
+C0000165	17-hydroxysteroid dehydrogenases	17 hydroxysteroid dehydrogenases
+C0000165	17 ketosteroid reductases	17 hydroxysteroid dehydrogenases
+C0000165	17 ketosteroid reductases	reductases, 17-ketosteroid
+C0000165	dehydrogenases, 17-hydroxysteroid	hydroxysteroid dehydrogenases 17
+C0000165	hydroxysteroid dehydrogenases 17	17-hydroxysteroid dehydrogenases
+C0000165	17-ketosteroid reductases	17 hydroxysteroid dehydrogenases
+C0000165	17-hydroxysteroid dehydrogenases	reductases, 17-ketosteroid
+C0000165	17-hydroxysteroid dehydrogenase	reductases, 17-ketosteroid
+C0000165	hydroxysteroid dehydrogenases 17	reductases, 17-ketosteroid
+C0000165	17-ketosteroid reductases	17-hydroxysteroid dehydrogenase
+C0000165	dehydrogenases, 17-hydroxysteroid	17-hydroxysteroid dehydrogenase
+C0000165	17-hydroxysteroid dehydrogenases	17-hydroxysteroid dehydrogenase
+C0000165	dehydrogenases, 17-hydroxysteroid	17-ketosteroid reductases
+C0000165	17-ketosteroid reductases	hydroxysteroid dehydrogenases 17
+C0000165	dehydrogenases, 17-hydroxysteroid	17-hydroxysteroid dehydrogenases
+C0000165	17 hydroxysteroid dehydrogenases	reductases, 17-ketosteroid
+C0000165	hydroxysteroid dehydrogenases 17	17-hydroxysteroid dehydrogenase
+C0000165	17 hydroxysteroid dehydrogenases	17-hydroxysteroid dehydrogenase
+C0000165	17 ketosteroid reductases	17-hydroxysteroid dehydrogenase
+C0000165	17-ketosteroid reductases	reductases, 17-ketosteroid
+C0000165	hydroxysteroid dehydrogenases 17	17 hydroxysteroid dehydrogenases
+C0000165	17-ketosteroid reductases	17-hydroxysteroid dehydrogenases
+C0000165	dehydrogenases, 17-hydroxysteroid	reductases, 17-ketosteroid
+C0000165	17-ketosteroid reductases	17 ketosteroid reductases
+C0000167	17-ketosteroids, nos	17 ketosteroid
+C0000167	oxosteroids 17	17-oxosteroid
+C0000167	17-ketosteroid (substance)	17 oxosteroids
+C0000167	17-ketosteroids	17-ketosteroid (substance)
+C0000167	17-ketosteroids	17-ketosteroid
+C0000167	17-oxosteroid (substance)	17-oxosteroids (substance)
+C0000167	17-oxosteroids	17-oxosteroid
+C0000167	17-ketosteroids, nos	17-oxosteroids (substance)
+C0000167	17-ketosteroids	17 oxosteroids
+C0000167	17-ketosteroid (substance)	17 ketosteroid
+C0000167	17-ketosteroids	oxosteroids 17
+C0000167	17-oxosteroids (substance)	ketosteroids 17
+C0000167	17-ketosteroid	17 ketosteroid
+C0000167	ketosteroids 17	17-oxosteroids
+C0000167	17-oxosteroids (substance)	17 ketosteroid
+C0000167	17-oxosteroids	17 ketosteroids
+C0000167	17-ketosteroid	17-oxosteroid
+C0000167	17-oxosteroid (substance)	17 oxosteroids
+C0000167	17-oxosteroid (substance)	17-oxosteroids
+C0000167	17-ketosteroid (substance)	oxosteroids 17
+C0000167	17 ketosteroids	17-oxosteroid
+C0000167	17-ketosteroids, nos	17 ketosteroids
+C0000167	17-oxosteroids	17 ketosteroid
+C0000167	17-ketosteroids	17 ketosteroid
+C0000167	17-ketosteroid (substance)	17 ketosteroids
+C0000167	17-ketosteroids, nos	17-oxosteroid
+C0000167	17-oxosteroid (substance)	17-oxosteroid
+C0000167	17-ketosteroids	17-oxosteroids (substance)
+C0000167	17-ketosteroids	17 ketosteroids
+C0000167	17-oxosteroids (substance)	17-oxosteroid
+C0000167	17-ketosteroid	oxosteroids 17
+C0000167	17-ketosteroids, nos	17-ketosteroid
+C0000167	17-ketosteroids, nos	17 oxosteroids
+C0000167	17-ketosteroid (substance)	17-oxosteroid (substance)
+C0000167	17-oxosteroids (substance)	oxosteroids 17
+C0000167	17-ketosteroids, nos	oxosteroids 17
+C0000167	17-ketosteroid (substance)	17-oxosteroid
+C0000167	17-oxosteroids (substance)	17 ketosteroids
+C0000167	17 ketosteroids	17 ketosteroid
+C0000167	17 ketosteroids	17 oxosteroids
+C0000167	ketosteroids 17	17 ketosteroids
+C0000167	17-ketosteroids	ketosteroids 17
+C0000167	ketosteroids 17	17 oxosteroids
+C0000167	ketosteroids 17	oxosteroids 17
+C0000167	17-ketosteroid	17-oxosteroids
+C0000167	17-oxosteroids	17 oxosteroids
+C0000167	17-oxosteroids (substance)	17-oxosteroids
+C0000167	17-ketosteroid	17 oxosteroids
+C0000167	17-ketosteroids, nos	17-ketosteroid (substance)
+C0000167	17 ketosteroid	17 oxosteroids
+C0000172	18-hydrocorticosterone	18-hydroxycorticosterone (substance)
+C0000172	18 hydrocorticosterone	18-hydroxycorticosterone
+C0000172	hydroxycorticosterone, 18	hydroxycorticosterone 18
+C0000172	hydroxycorticosterone, 18	18 hydrocorticosterone
+C0000172	18 hydrocorticosterone	18-hydroxycorticosterone (substance)
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	18 hydroxycorticosterone
+C0000172	18 hydrocorticosterone	18 hydroxycorticosterone
+C0000172	hydrocorticosterone 18	hydroxycorticosterone 18
+C0000172	hydroxycorticosterone, 18	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione
+C0000172	18 hydroxycorticosterone	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	18 hydrocorticosterone	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	hydroxycorticosterone, 18	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	hydroxycorticosterone, 18	18-hydrocorticosterone
+C0000172	18-hydroxycorticosterone	hydroxycorticosterone 18
+C0000172	18-hydroxycorticosterone	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	18 hydrocorticosterone	18-hydrocorticosterone
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	18-hydrocorticosterone
+C0000172	18-hydroxycorticosterone (substance)	hydroxycorticosterone 18
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	18 hydrocorticosterone
+C0000172	hydroxycorticosterone, 18	18 hydroxycorticosterone
+C0000172	hydrocorticosterone 18	18-hydroxycorticosterone (substance)
+C0000172	18 hydroxycorticosterone	18-hydroxycorticosterone
+C0000172	hydrocorticosterone 18	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	18 hydrocorticosterone	hydroxycorticosterone 18
+C0000172	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-	hydroxycorticosterone 18
+C0000172	18-hydroxycorticosterone	18-hydroxycorticosterone (substance)
+C0000172	hydrocorticosterone 18	18-hydrocorticosterone
+C0000172	18-hydrocorticosterone	hydroxycorticosterone 18
+C0000172	18-hydroxycorticosterone (substance)	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	hydroxycorticosterone, 18	18-hydroxycorticosterone (substance)
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	hydroxycorticosterone 18
+C0000172	18-hydrocorticosterone	18-hydroxycorticosterone
+C0000172	hydrocorticosterone 18	18 hydroxycorticosterone
+C0000172	18 hydroxycorticosterone	18-hydrocorticosterone
+C0000172	hydroxycorticosterone, 18	18-hydroxycorticosterone
+C0000172	hydroxycorticosterone, 18	hydrocorticosterone 18
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	18-hydroxycorticosterone (substance)
+C0000172	hydrocorticosterone 18	18-hydroxycorticosterone
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	hydrocorticosterone 18
+C0000172	18 hydroxycorticosterone	hydroxycorticosterone 18
+C0000172	18-hydrocorticosterone	pregn-4-ene-3,20-dione, 11,18,21-trihydroxy-, (11beta)-
+C0000172	hydrocorticosterone 18	18 hydrocorticosterone
+C0000172	18 hydroxycorticosterone	18-hydroxycorticosterone (substance)
+C0000172	11-beta,18,21-trihydroxypregn-4-ene-3,20-dione	18-hydroxycorticosterone
+C0000173	hydroxydesoxycorticosterone 18	18 hydroxy 11 deoxycorticosterone
+C0000173	hydroxydesoxycorticosterone, 18	18-hydroxydesoxycorticosterone
+C0000173	hydroxydesoxycorticosterone 18	18 hydroxydesoxycorticosterone
+C0000173	hydroxydesoxycorticosterone 18	hydroxydesoxycorticosterone, 18
+C0000173	18-hydroxy-11-deoxycorticosterone	18 hydroxydesoxycorticosterone
+C0000173	18-hydroxy-11-desoxycorticosterone	hydroxydesoxycorticosterone 18
+C0000173	18-hydroxy-11-desoxycorticosterone	18 hydroxy 11 desoxycorticosterone
+C0000173	hydroxydesoxycorticosterone 18	18-hydroxy-11-deoxycorticosterone
+C0000173	18 hydroxy 11 desoxycorticosterone	18-hydroxydesoxycorticosterone
+C0000173	hydroxydesoxycorticosterone, 18	18 hydroxydesoxycorticosterone
+C0000173	18 hydroxy 11 deoxycorticosterone	18-hydroxydesoxycorticosterone
+C0000173	hydroxydesoxycorticosterone, 18	18 hydroxy 11 desoxycorticosterone
+C0000173	18 hydroxydesoxycorticosterone	18-hydroxydesoxycorticosterone
+C0000173	18-hydroxy-11-desoxycorticosterone	hydroxydesoxycorticosterone, 18
+C0000173	hydroxydesoxycorticosterone, 18	18-hydroxy-11-deoxycorticosterone
+C0000173	18-hydroxy-11-desoxycorticosterone	18 hydroxydesoxycorticosterone
+C0000173	18-hydroxy-11-deoxycorticosterone	18-hydroxydesoxycorticosterone
+C0000173	18 hydroxy 11 deoxycorticosterone	18 hydroxydesoxycorticosterone
+C0000173	hydroxydesoxycorticosterone, 18	18 hydroxy 11 deoxycorticosterone
+C0000173	hydroxydesoxycorticosterone 18	18-hydroxydesoxycorticosterone
+C0000173	18-hydroxy-11-desoxycorticosterone	18 hydroxy 11 deoxycorticosterone
+C0000173	18-hydroxy-11-desoxycorticosterone	18-hydroxydesoxycorticosterone
+C0000173	18-hydroxy-11-desoxycorticosterone	18-hydroxy-11-deoxycorticosterone
+C0000173	hydroxydesoxycorticosterone 18	18 hydroxy 11 desoxycorticosterone
+C0000173	18 hydroxy 11 deoxycorticosterone	18-hydroxy-11-deoxycorticosterone
+C0000173	18 hydroxy 11 desoxycorticosterone	18 hydroxydesoxycorticosterone
+C0000173	18-hydroxy-11-deoxycorticosterone	18 hydroxy 11 desoxycorticosterone
+C0000173	18 hydroxy 11 deoxycorticosterone	18 hydroxy 11 desoxycorticosterone
+C0000176	19-iodocholesterol	iodocholesterol 19
+C0000176	19-iodocholesterol	19 iodocholesterol
+C0000176	19 iodocholesterol	cholest-5-en-3-ol, 19-(iodo-125i)-, (3beta)-
+C0000176	iodocholesterol 19	cholest-5-en-3-ol, 19-(iodo-125i)-, (3beta)-
+C0000176	19-iodocholesterol	cholest-5-en-3-ol, 19-(iodo-125i)-, (3beta)-
+C0000176	19 iodocholesterol	iodocholesterol 19
+C0000184	2',3' cyclic nucleotide phosphodiesterases	nucleotide phosphodiesterases, 2,3-cyclic
+C0000184	nucleotide phosphodiesterases, 2',3'-cyclic	2,3 cyclic nucleotide phosphodiesterases
+C0000184	nucleotide phosphodiesterase, 2',3'-cyclic	2'3' cyclic nucleotide phosphodiesterase
+C0000184	phosphodiesterases, 2',3'-cyclic nucleotide	phosphodiesterase, 2,3-cyclic nucleotide
+C0000184	phosphodiesterases, 2,3-cyclic nucleotide	phosphodiesterases, 2',3'-cyclic-nucleotide
+C0000184	2,3-cyclic nucleotide phosphodiesterases	2,3-cyclic nucleotide phosphodiesterase
+C0000184	phosphodiesterase, 2',3'-cyclic nucleotide	2,3-cyclic nucleotide phosphodiesterases
+C0000184	nucleotide phosphodiesterase, 2',3'-cyclic	2,3 cyclic nucleotide phosphodiesterase
+C0000184	2,3-cyclic nucleotide phosphodiesterases	2'3' cyclic nucleotide phosphodiesterase
+C0000184	cyclic nucleotide phosphodiesterases 02 03	2,3-cyclic nucleotide phosphodiesterases
+C0000184	nucleotide phosphodiesterase, 2',3'-cyclic	nucleotide phosphodiesterase, 2,3-cyclic
+C0000184	2 3 cycl npd	cyclic 2',3'-nucleotide phosphodiesterase
+C0000184	2 3 cycl nucleotide phosphodiesterase	phosphodiesterases, 2',3'-cyclic-nucleotide
+C0000184	2,3 cyclic nucleotide phosphodiesterases	phosphodiesterases, 2,3-cyclic nucleotide
+C0000184	cyclic nucleotide phosphodiesterases 02 03	phosphodiesterases, 2,3-cyclic nucleotide
+C0000184	phosphodiesterases, 2',3'-cyclic nucleotide	2,3 cyclic nucleotide phosphodiesterase
+C0000184	nucleotide phosphodiesterase, 2',3'-cyclic	2,3-cyclic nucleotide phosphodiesterase
+C0000184	nucleotide phosphodiesterase, 2,3-cyclic	2,3-cyclic nucleotide phosphodiesterase
+C0000184	cyclic nucleotide phosphodiesterases 02 03	2,3 cyclic nucleotide phosphodiesterase
+C0000184	2,3-cyclic nucleotide phosphodiesterases	cyclic 2',3'-nucleotide phosphodiesterase
+C0000184	cyclic nucleotide phosphodiesterases 02 03	nucleotide phosphodiesterase, 2',3'-cyclic
+C0000184	cyclic nucleotide phosphodiesterases 02 03	2'3' cyclic nucleotide phosphodiesterase
+C0000184	2,3 cyclic nucleotide phosphodiesterases	2,3 cyclic nucleotide phosphodiesterase
+C0000184	2 3 cycl npd	2'3' cyclic nucleotide phosphodiesterase
+C0000184	nucleotide phosphodiesterases, 2',3'-cyclic	2'3' cyclic nucleotide phosphodiesterase
+C0000184	2',3'-cyclic nucleotide phosphodiesterases	2'3' cyclic nucleotide phosphodiesterase
+C0000184	2',3' cyclic nucleotide phosphodiesterases	phosphodiesterases, 2,3-cyclic nucleotide
+C0000184	2',3'-cyclic-nucleotide phosphodiesterases	2,3-cyclic nucleotide phosphodiesterase
+C0000184	2',3'-cyclic-nucleotide phosphodiesterases	phosphodiesterases, 2,3-cyclic nucleotide
+C0000184	phosphodiesterases, 2',3'-cyclic-nucleotide	2,3-cyclic nucleotide phosphodiesterase
+C0000184	2,3 cyclic nucleotide phosphodiesterases	2 3 cycl npd
+C0000184	2,3-cyclic nucleotide phosphodiesterases	2',3'-cyclic-nucleotide phosphodiesterases
+C0000184	cyclic nucleotide phosphodiesterases 02 03	cnpase
+C0000184	phosphodiesterases, 2',3'-cyclic-nucleotide	cyclic 2',3'-nucleotide phosphodiesterase
+C0000184	2',3' cyclic nucleotide phosphodiesterase	2',3'-cyclic nucleotide phosphodiesterase
+C0000184	nucleotide phosphodiesterase, 2',3'-cyclic	2',3'-cyclic nucleotide phosphodiesterase
+C0000184	cyclic nucleotide phosphodiesterases 02 03	nucleotide phosphodiesterase, 2,3-cyclic
+C0000184	2',3' cyclic nucleotide phosphodiesterases	cyclic nucleotide phosphodiesterases 02 03
+C0000184	2'3' cyclic nucleotide phosphodiesterase	nucleotide phosphodiesterase, 2,3-cyclic
+C0000184	nucleotide phosphodiesterase, 2',3'-cyclic	2',3'-cyclic-nucleotide phosphodiesterases
+C0000184	2',3' cyclic nucleotide phosphodiesterases	2',3' cyclic nucleotide phosphodiesterase
+C0000184	nucleotide phosphodiesterase, 2,3-cyclic	cyclic 2',3'-nucleotide phosphodiesterase
+C0000184	nucleotide phosphodiesterase, 2',3'-cyclic	2 3 cycl npd
+C0000184	nucleotide phosphodiesterase, 2,3-cyclic	phosphodiesterases, 2',3'-cyclic-nucleotide
+C0000184	cyclic nucleotide phosphodiesterases 02 03	nucleotide phosphodiesterases, 2',3'-cyclic
+C0000184	2,3-cyclic nucleotide phosphodiesterases	2 3 cycl npd
+C0000184	phosphodiesterase, 2',3'-cyclic nucleotide	phosphodiesterases, 2',3'-cyclic nucleotide
+C0000184	2',3'-cyclic nucleotide phosphodiesterases	phosphodiesterases, 2',3'-cyclic-nucleotide
+C0000184	phosphodiesterase, 2',3'-cyclic nucleotide	2,3 cyclic nucleotide phosphodiesterase
+C0000184	2 3 cycl nucleotide phosphodiesterase	phosphodiesterases, 2,3-cyclic nucleotide
+C0000189	oligoadenylate synthetase, 2,5	2',5'-oligoadenylate polymerase
+C0000189	oligoadenylate polymerase 02 05	synthetase 02 05a
+C0000189	oligoadenylate synthetase, 2,5	2-5a synthetase
+C0000189	synthetase, 2',5'-oligoadenylate	2',5'-oligoadenylate synthetase
+C0000189	2',5'-oligo(a) polymerase	2,5 oligoadenylate polymerase
+C0000189	2-5a synthetase	2',5'-oligo(a) synthetase
+C0000189	2,5 oligoadenylate synthetase	synthetase, 2',5'-oligoadenylate
+C0000189	2',5'-oligo(a) polymerase	atp-(2'-5')oligo(a)adenylyltransferase
+C0000189	(2'-5')an polymerase	2',5' oligoadenylate synthetase
+C0000189	(2'-5')an polymerase	polymerase, 2,5 oligoadenylate
+C0000189	polymerase, 2',5'-oligoadenylate	oligoadenylate synthetase 02 05
+C0000189	2,5 oligoadenylate polymerase	2',5'-oligo(a) synthetase
+C0000189	2',5'-oligo(a) polymerase	2',5'-oligoadenylate polymerase
+C0000189	oligoadenylate synthetase, 2,5	oligoadenylate synthetase 02 05
+C0000189	polymerase, 2,5 oligoadenylate	polymerase, 2',5'-oligoadenylate
+C0000189	synthetase 02 05a	polymerase, 2',5'-oligoadenylate
+C0000189	oligoadenylate synthetase, 2,5	oligoadenylate polymerase, 2,5
+C0000189	atp-(2'-5')oligo(a)adenylyltransferase	2-5a synthetase
+C0000189	oligoadenylate polymerase 02 05	atp-(2'-5')oligo(a)adenylyltransferase
+C0000189	(2'-5')an polymerase	2',5' oligoadenylate polymerase
+C0000189	2',5'-oligo(a) polymerase	2',5'-oligoadenylate synthetase
+C0000189	synthetase 02 05a	2',5' oligoadenylate polymerase
+C0000189	oligoadenylate synthetase, 2,5	synthetase, 2',5'-oligoadenylate
+C0000189	atp-(2'-5')oligo(a)adenylyltransferase	polymerase, 2,5 oligoadenylate
+C0000189	oligoadenylate synthetase, 2,5	2',5' oligoadenylate polymerase
+C0000189	synthetase 02 05a	2',5'-oligoadenylate synthetase
+C0000189	2-5a synthetase	polymerase, 2,5 oligoadenylate
+C0000189	polymerase, 2,5 oligoadenylate	synthetase, 2,5 oligoadenylate
+C0000189	synthetase, 2',5'-oligoadenylate	2',5'-oligoadenylate polymerase
+C0000189	2-5a synthetase	oligoadenylate synthetase 02 05
+C0000189	2',5'-oligoadenylate polymerase	synthetase, 2,5 oligoadenylate
+C0000189	oligoadenylate synthetase, 2,5	2',5'-oligoadenylate synthetase
+C0000189	2',5' oligoadenylate polymerase	synthetase, 2,5 oligoadenylate
+C0000189	oligoadenylate synthetase, 2,5	synthetase 02 05a
+C0000189	oligoadenylate synthetase, 2,5	polymerase, 2,5 oligoadenylate
+C0000189	2,5 oligoadenylate polymerase	oligoadenylate synthetase 02 05
+C0000189	(2'-5')an polymerase	synthetase 02 05a
+C0000189	atp-(2'-5')oligo(a)adenylyltransferase	oligoadenylate polymerase, 2,5
+C0000189	oligoadenylate polymerase 02 05	2-5a synthetase
+C0000189	oligoadenylate polymerase 02 05	oligoadenylate synthetase 02 05
+C0000189	(2'-5')an polymerase	synthetase, 2,5 oligoadenylate
+C0000189	2,5 oligoadenylate synthetase	2',5'-oligoadenylate polymerase
+C0000189	atp-(2'-5')oligo(a)adenylyltransferase	polymerase, 2',5'-oligoadenylate
+C0000189	2,5 oligoadenylate polymerase	polymerase, 2',5'-oligoadenylate
+C0000189	oligoadenylate polymerase, 2,5	2',5'-oligoadenylate synthetase
+C0000189	synthetase, 2',5'-oligoadenylate	synthetase 02 05a
+C0000189	2,5 oligoadenylate synthetase	2-5a synthetase
+C0000189	2,5 oligoadenylate polymerase	synthetase, 2',5'-oligoadenylate
+C0000189	2-5a synthetase	synthetase 02 05a
+C0000189	2,5 oligoadenylate polymerase	2',5' oligoadenylate synthetase
+C0000190	2' cmp	2'-cmp
+C0000194	dipyridyl, 2,2'	2,2-bipyridine
+C0000194	2,2 dipyridyl	2,2' bipyridine
+C0000194	dipyridyl, 2,2'	dipyridyl 02 02
+C0000194	2,2 bipyridyl	2,2-bipyridyl
+C0000194	2,2'-bipyridine	alpha,alpha-dipyridyl
+C0000194	dipyridyl, 2,2'	2,2-dipyridyl
+C0000194	2,2' dipyridyl	dipyridyl 02 02
+C0000194	2,2' bipyridine	2,2'-dipyridyl
+C0000194	2,2 dipyridyl	2,2' dipyridyl
+C0000194	alpha,alpha-dipyridyl	2,2-bipyridyl
+C0000194	2,2-dipyridyl	2,2' bipyridine
+C0000194	dipyridyl, 2,2'	2,2 dipyridyl
+C0000194	dipyridyl, 2,2'	dipyridyl
+C0000194	dipyridyl	dipyridyl, 2,2
+C0000194	2,2'-bipyridine	alpha,alpha dipyridyl
+C0000194	dipyridyl, 2,2'	alpha,alpha dipyridyl
+C0000194	bipyridine 02 02	dipyridyl, 2,2
+C0000194	dipyridyl, 2,2'	bipyridine 02 02
+C0000194	bipyridine 02 02	2,2' bipyridine
+C0000194	2,2 dipyridyl	bipyridine 02 02
+C0000194	2,2' bipyridine	dipyridyl 02 02
+C0000194	dipyridyl	2,2-bipyridine
+C0000194	dipyridyl, 2,2'	2,2-bipyridyl
+C0000194	2,2 bipyridine	dipyridyl 02 02
+C0000194	2,2' bipyridine	2,2-bipyridine
+C0000194	alpha,alpha-dipyridyl	dipyridyl 02 02
+C0000194	alpha,alpha dipyridyl	dipyridyl, 2,2
+C0000194	dipyridyl, 2,2'	alpha,alpha-dipyridyl
+C0000194	2,2'-bipyridine	dipyridyl
+C0000194	2,2'-bipyridine	2,2' dipyridyl
+C0000194	2,2'-bipyridine	2,2' bipyridine
+C0000194	2,2'-bipyridine	2,2-dipyridyl
+C0000194	dipyridyl 02 02	2,2-bipyridyl
+C0000194	2,2'-bipyridine	dipyridyl 02 02
+C0000194	2,2 dipyridyl	2,2 bipyridine
+C0000194	2,2-dipyridyl	2,2-bipyridyl
+C0000194	bipyridine 02 02	2,2-bipyridine
+C0000194	2,2' dipyridyl	2,2-bipyridine
+C0000194	dipyridyl	2,2' bipyridine
+C0000194	bipyridine 02 02	alpha,alpha-dipyridyl
+C0000194	2,2'-bipyridine	2,2 bipyridine
+C0000194	2,2' dipyridyl	2,2'-dipyridyl
+C0000194	dipyridyl	2,2-dipyridyl
+C0000194	alpha,alpha dipyridyl	2,2 bipyridine
+C0000194	2,2 bipyridine	2,2 bipyridyl
+C0000194	2,2-dipyridyl	bipyridine 02 02
+C0000194	2,2 dipyridyl	dipyridyl
+C0000194	2,2-dipyridyl	dipyridyl, 2,2
+C0000194	alpha,alpha-dipyridyl	dipyridyl, 2,2
+C0000194	2,2-bipyridyl	2,2-bipyridine
+C0000204	threo-2,3-hexodiulosonic acid	acid, 2,3-diketogulonic
+C0000204	acid, 2,3-diketogulonic	2,3-diketogulonic acid
+C0000204	diketogulonic acid 02 03	threo-2,3-hexodiulosonic acid
+C0000204	threo-2,3-hexodiulosonic acid	2,3 diketogulonic acid
+C0000204	threo-2,3-hexodiulosonic acid	2,3-diketogulonic acid
+C0000204	diketogulonic acid 02 03	2,3 diketogulonic acid
+C0000204	2,3 diketogulonic acid	2,3-diketogulonic acid
+C0000204	diketogulonic acid 02 03	acid, 2,3-diketogulonic
+C0000204	diketogulonic acid 02 03	2,3-diketogulonic acid
+C0000204	2,3 diketogulonic acid	acid, 2,3-diketogulonic
+C0000215	2,4,5-t	2,4,5-trichlorophenoxyacetic acid (substance)
+C0000215	2,4,5-trichlorophenoxyacetic acid (substance)	2,4,5 t
+C0000215	2,4,5-trichlorophenoxyacetic acid (substance)	2,4,5-trichlorophenoxyacetic acid -retired-
+C0000215	trichlorophenoxyacetic acid 020405	2,4,5-trichlorophenoxyacetic acid
+C0000215	2,4,5-trichlorophenoxyacetic acid (substance)	trichlorophenoxyacetic acid
+C0000215	2,4,5-t	2,4,5-trichlorophenoxyacetic acid -retired-
+C0000215	2,4,5 t	2,4,5-trichloroacetophenol (substance)
+C0000215	2,4,5-trichlorophenoxyacetic acid (substance)	acetic acid, (2,4,5-trichlorophenoxy)-
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	acetic acid, (2,4,5-trichlorophenoxy)-
+C0000215	2,4,5-trichlorophenoxyacetic acid -retired-	trichlorophenoxyacetic acid
+C0000215	trichlorophenoxyacetic acid	2,4,5-trichlorophenoxyacetic acid
+C0000215	2,4,5-trichlorophenoxyacetic acid -retired-	2,4,5-trichlorophenoxyacetic acid
+C0000215	2,4,5-trichloroacetophenol	2,4,5-trichlorophenoxyacetic acid (substance)
+C0000215	acetic acid, (2,4,5-trichlorophenoxy)-	trichlorophenoxyacetic acid
+C0000215	2,4,5-t	acetic acid, (2,4,5-trichlorophenoxy)-
+C0000215	trichlorophenoxyacetic acid 020405	2,4,5-trichlorophenoxyacetic acid (substance)
+C0000215	t a 02 04 05	2,4,5-trichlorophenoxyacetic acid
+C0000215	2,4,5-trichlorophenoxyacetic acid	2,4,5-trichloroacetophenol (substance)
+C0000215	2,4,5-trichlorophenoxyacetic acid (substance)	2,4,5-trichloroacetophenol (substance)
+C0000215	2,4,5-trichloroacetophenol	acetic acid, (2,4,5-trichlorophenoxy)-
+C0000215	2,4,5 t	2,4,5-trichlorophenoxyacetic acid -retired-
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	trichlorophenoxyacetic acid
+C0000215	trichlorophenoxyacetic acid 020405	2,4,5-trichlorophenoxyacetic acid -retired-
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	2,4,5-trichloroacetophenol
+C0000215	trichlorophenoxyacetic acid 020405	t a 02 04 05
+C0000215	2,4,5-t	2,4,5-trichloroacetophenol (substance)
+C0000215	2,4,5-trichloroacetophenol	2,4,5-trichlorophenoxyacetic acid -retired-
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	2,4,5-trichloroacetophenol (substance)
+C0000215	2,4,5-t	trichlorophenoxyacetic acid 020405
+C0000215	trichlorophenoxyacetic acid	t a 02 04 05
+C0000215	2,4,5 t	trichlorophenoxyacetic acid
+C0000215	acetic acid, (2,4,5-trichlorophenoxy)-	2,4,5-trichloroacetophenol (substance)
+C0000215	trichlorophenoxyacetic acid 020405	2,4,5 t
+C0000215	acetic acid, (2,4,5-trichlorophenoxy)-	2,4,5-trichlorophenoxyacetic acid -retired-
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	2,4,5-trichlorophenoxyacetic acid -retired-
+C0000215	trichlorophenoxyacetic acid 020405	acetic acid, (2,4,5-trichlorophenoxy)-
+C0000215	2,4,5-trichloroacetophenol	2,4,5 t
+C0000215	2,4,5-trichloroacetophenol	2,4,5-trichlorophenoxyacetic acid
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	2,4,5-trichlorophenoxyacetic acid (substance)
+C0000215	acetic acid, (2,4,5-trichlorophenoxy)-	2,4,5 t
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	trichlorophenoxyacetic acid 020405
+C0000215	trichlorophenoxyacetic acid 020405	2,4,5-trichloroacetophenol (substance)
+C0000215	2,4,5-trichloroacetophenol	trichlorophenoxyacetic acid
+C0000215	trichlorophenoxyacetic acid 020405	2,4,5-trichloroacetophenol
+C0000215	2,4,5-trichlorophenoxyacetic acid -retired-	t a 02 04 05
+C0000215	2,4,5-trichloroacetophenol	2,4,5-trichloroacetophenol (substance)
+C0000215	t a 02 04 05	2,4,5-trichloroacetophenol (substance)
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	t a 02 04 05
+C0000215	2,4,5-t - 2,4,5-trichlorophenoxyacetic acid	2,4,5-trichlorophenoxyacetic acid
+C0000215	2,4,5 t	t a 02 04 05
+C0000220	2,4-dichlorophenoxyacetic acid	2,4-d - 2,4-dichlorophenoxyacetic acid
+C0000220	2,4-dichlorophenoxyacetic acid	2,4 dichlorophenoxyacetic acid
+C0000220	d a 002 004	2,4-d
+C0000220	d a 002 004	2,4 dichlorophenoxyacetic acid
+C0000220	d a 002 004	dichlorophenoxyacetic acid 0204
+C0000220	2,4-dichlorophenoxyacetic acid (substance)	2,4 dichlorophenoxyacetic acid
+C0000220	2,4 dichlorophenoxyacetic acid	2,4-d
+C0000220	2,4-dichlorophenoxyacetic acid	2,4-d
+C0000220	acetic acid, (2,4-dichlorophenoxy)-	dichlorophenoxyacetic acid 0204
+C0000220	2,4-dichlorophenoxyacetic acid (substance)	2,4-dichlorophenoxyacetic acid
+C0000220	2,4 dichlorophenoxyacetic acid	2,4-d - 2,4-dichlorophenoxyacetic acid
+C0000220	d a 002 004	2,4-d - 2,4-dichlorophenoxyacetic acid
+C0000220	2,4-dichlorophenoxyacetic acid (substance)	dichlorophenoxyacetic acid 0204
+C0000220	2,4-dichlorophenoxyacetic acid (substance)	2,4-d
+C0000220	d a 002 004	acetic acid, (2,4-dichlorophenoxy)-
+C0000220	2,4-dichlorophenoxyacetic acid (substance)	d a 002 004
+C0000220	2,4-dichlorophenoxyacetic acid	acetic acid, (2,4-dichlorophenoxy)-
+C0000220	2,4-d - 2,4-dichlorophenoxyacetic acid	dichlorophenoxyacetic acid 0204
+C0000220	2,4-dichlorophenoxyacetic acid	dichlorophenoxyacetic acid 0204
+C0000220	acetic acid, (2,4-dichlorophenoxy)-	2,4-d - 2,4-dichlorophenoxyacetic acid
+C0000220	2,4-dichlorophenoxyacetic acid (substance)	2,4-d - 2,4-dichlorophenoxyacetic acid
+C0000220	2,4 dichlorophenoxyacetic acid	acetic acid, (2,4-dichlorophenoxy)-
+C0000220	2,4-dichlorophenoxyacetic acid	d a 002 004
+C0000220	2,4-d	2,4-d - 2,4-dichlorophenoxyacetic acid
+C0000220	2,4-d	acetic acid, (2,4-dichlorophenoxy)-
+C0000220	2,4-dichlorophenoxyacetic acid (substance)	acetic acid, (2,4-dichlorophenoxy)-
+C0000220	2,4 dichlorophenoxyacetic acid	dichlorophenoxyacetic acid 0204
+C0000220	2,4-d	dichlorophenoxyacetic acid 0204
+C0000232	indophenol, dichlorophenol	2,6-dichlorophenolindophenol
+C0000232	dichlorophenolindophenol	dichloroindophenol, 2,6
+C0000232	2,6 dichloroindophenol	2,6-dichloroindophenol
+C0000232	dichlorophenolindophenol	2,6-dichloroindophenol
+C0000232	dichlorophenolindophenol o2 o6	2,6 dichloroindophenol
+C0000232	dichlorophenolindophenol	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-
+C0000232	dichloroindophenol, 2,6	dye, 2,6-dichlorobenzenoneindophenol
+C0000232	dichlorophenolindophenol o2 o6	dichloroindophenol 02 06
+C0000232	2,6-dichlorobenzenoneindophenol dye	2,6 dichlorobenzenoneindophenol dye
+C0000232	2,6 dichlorobenzenoneindophenol dye	dichlorophenolindophenol o2 o6
+C0000232	2,6-dichlorobenzenoneindophenol dye	2,6-dichloroindophenol
+C0000232	2,6 dichlorobenzenoneindophenol dye	2,6 dichloroindophenol
+C0000232	dichloroindophenol, 2,6	indophenol, dichlorophenol
+C0000232	indophenol, dichlorophenol	dichloroindophenol 02 06
+C0000232	dichlorophenolindophenol	2,6 dichlorobenzenoneindophenol dye
+C0000232	dichlorophenol indophenol	indophenol, dichlorophenol
+C0000232	2,6 dichlorobenzenoneindophenol dye	dichloroindophenol 02 06
+C0000232	2,6 dichlorophenolindophenol	2,6-dichloroindophenol
+C0000232	dichloroindophenol, 2,6	dichlorophenolindophenol o2 o6
+C0000232	2,6 dichlorobenzenoneindophenol dye	2,6-dichlorophenolindophenol
+C0000232	dichlorophenolindophenol	dichloroindophenol 02 06
+C0000232	2,6-dichlorophenolindophenol	2,6-dichloroindophenol
+C0000232	2,6 dichlorobenzenoneindophenol dye	indophenol, dichlorophenol
+C0000232	dichlorophenol indophenol	dichloroindophenol 02 06
+C0000232	indophenol, dichlorophenol	2,6-dichloroindophenol
+C0000232	dichlorophenolindophenol o2 o6	2,6-dichloroindophenol
+C0000232	2,6-dichlorobenzenoneindophenol dye	dye, 2,6-dichlorobenzenoneindophenol
+C0000232	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-	dichloroindophenol 02 06
+C0000232	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-	2,6-dichlorophenolindophenol
+C0000232	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-	indophenol, dichlorophenol
+C0000232	2,6 dichlorophenolindophenol	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-
+C0000232	2,6 dichlorobenzenoneindophenol dye	dichloroindophenol, 2,6
+C0000232	dichloroindophenol, 2,6	dichlorophenol indophenol
+C0000232	2,6 dichlorophenolindophenol	dye, 2,6-dichlorobenzenoneindophenol
+C0000232	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-	dichlorophenol indophenol
+C0000232	dichlorophenolindophenol	dichlorophenolindophenol o2 o6
+C0000232	2,6 dichlorophenolindophenol	indophenol, dichlorophenol
+C0000232	2,6 dichlorophenolindophenol	dichlorophenol indophenol
+C0000232	dichloroindophenol, 2,6	2,6-dichloroindophenol
+C0000232	2,6 dichlorobenzenoneindophenol dye	dye, 2,6-dichlorobenzenoneindophenol
+C0000232	dichlorophenolindophenol o2 o6	2,6-dichlorophenolindophenol
+C0000232	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-	dye, 2,6-dichlorobenzenoneindophenol
+C0000232	dichloroindophenol 02 06	2,6-dichloroindophenol
+C0000232	2,6 dichlorophenolindophenol	2,6-dichlorobenzenoneindophenol dye
+C0000232	2,6 dichlorobenzenoneindophenol dye	dichlorophenol indophenol
+C0000232	2,6 dichloroindophenol	dichloroindophenol 02 06
+C0000232	dichlorophenol indophenol	2,6 dichloroindophenol
+C0000232	2,6-dichlorobenzenoneindophenol dye	2,5-cyclohexadien-1-one, 2,6-dichloro-4-((4-hydroxyphenyl)imino)-
+C0000232	dichlorophenolindophenol	2,6 dichloroindophenol
+C0000232	indophenol, dichlorophenol	dye, 2,6-dichlorobenzenoneindophenol
+C0000246	reductoisomerase, acetohydroxy acid	acetohydroxy acid reductoisomerase
+C0000246	acetohydroxy ketoacid isomeroreductase 2 3	2 acetolactate mutase
+C0000246	mutase, 2-acetolactate	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	2-acetolactate mutase (substance)	2-acetolactate mutase
+C0000246	2-acetolactate methylmutase	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	2 acetohydroxy 3 ketoacid isomeroreductase	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	2-acetolactate mutase (substance)	reductoisomerase, acetohydroxy acid
+C0000246	2 acetolactate mutase	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	mutase, 2-acetolactate	2-acetolactate mutase
+C0000246	mutase, 2-acetolactate	2 acetolactate mutase
+C0000246	acetolactate mutase 02	acid reductoisomerase, acetohydroxy
+C0000246	acetohydroxy ketoacid isomeroreductase 2 3	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	acetolactate mutase 02	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	2-acetolactate mutase (substance)	2 acetohydroxy 3 ketoacid isomeroreductase
+C0000246	acetolactate mutase 02	2 acetolactate mutase
+C0000246	acetolactate mutase 02	2-acetolactate mutase
+C0000246	acetolactate mutase 02	2 acetohydroxy 3 ketoacid isomeroreductase
+C0000246	2-acetolactate methylmutase	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	2 acetohydroxy 3 ketoacid isomeroreductase	acid reductoisomerase, acetohydroxy
+C0000246	mutase, 2-acetolactate	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	2-acetolactate mutase	2 acetolactate mutase
+C0000246	2-acetolactate mutase (substance)	acid reductoisomerase, acetohydroxy
+C0000246	reductoisomerase, acetohydroxy acid	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	acetohydroxy ketoacid isomeroreductase 2 3	acetolactate mutase 02
+C0000246	2-acetolactate methylmutase	2 acetolactate mutase
+C0000246	2 acetolactate mutase	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	2 acetolactate mutase	acid reductoisomerase, acetohydroxy
+C0000246	mutase, 2-acetolactate	acetohydroxy acid reductoisomerase
+C0000246	2-acetolactate methylmutase	2-acetolactate mutase
+C0000246	acetohydroxy ketoacid isomeroreductase 2 3	2-acetolactate mutase
+C0000246	acetohydroxy acid reductoisomerase	2 acetohydroxy 3 ketoacid isomeroreductase
+C0000246	reductoisomerase, acetohydroxy acid	2 acetohydroxy 3 ketoacid isomeroreductase
+C0000246	acetohydroxy acid reductoisomerase	2 acetolactate mutase
+C0000246	2-acetolactate mutase	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	2-acetolactate mutase (substance)	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	2-acetolactate mutase	acetohydroxy acid reductoisomerase
+C0000246	mutase, 2-acetolactate	acetolactate mutase 02
+C0000246	reductoisomerase, acetohydroxy acid	acid reductoisomerase, acetohydroxy
+C0000246	2-acetolactate mutase	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	acetohydroxy ketoacid isomeroreductase 2 3	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	2-acetolactate methylmutase	acetolactate mutase 02
+C0000246	acetolactate mutase 02	acetohydroxy acid reductoisomerase
+C0000246	2-acetolactate methylmutase	acid reductoisomerase, acetohydroxy
+C0000246	mutase, 2-acetolactate	2-acetolactate mutase (substance)
+C0000246	2-acetolactate mutase (substance)	isomeroreductase, 2-acetohydroxy-3-ketoacid
+C0000246	2-acetolactate methylmutase	2-acetolactate mutase (substance)
+C0000246	isomeroreductase, 2-acetohydroxy-3-ketoacid	acid reductoisomerase, acetohydroxy
+C0000246	acetolactate mutase 02	reductoisomerase, acetohydroxy acid
+C0000246	acetohydroxy acid reductoisomerase	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000246	reductoisomerase, acetohydroxy acid	2-acetohydroxy-3-ketoacid isomeroreductase
+C0000248	fluoren 2 ylacetamide	acetamidofluorene 02
+C0000248	aminofluorene aaf	aaf, aminofluorene
+C0000248	2-faa	n-acetyl-2-aminofluorene
+C0000248	acetylaminofluorene 02	n acetyl 2 aminofluorene
+C0000248	aminofluorene aaf	fluorenylacetamide 02
+C0000248	2 acetylaminofluorene	n 2 fluorenylacetamide
+C0000248	aminofluorene aaf	2 fluorenylacetamide
+C0000248	2-acetamidofluorene	2 acetylaminofluorene
+C0000248	aminofluorene aaf	n-2-fluorenylacetamide
+C0000248	aminofluorene aaf	n-9h-fluoren-2-ylacetamide
+C0000248	2 acetylaminofluorene	n-acetyl-2-aminofluorene
+C0000248	2-acetamidofluorene (substance)	n-9h-fluoren-2-ylacetamide
+C0000248	aaf, aminofluorene	n-9h-fluoren-2-ylacetamide
+C0000248	2 fluorenylacetamide	2 acetamidofluorene
+C0000248	fluoren 2 ylacetamide	2-aaf
+C0000248	n-2-fluorenylacetamide	n-acetyl-2-aminofluorene
+C0000248	fluoren 2 ylacetamide	fluoren-2-ylacetamide
+C0000248	2-fluorenylacetamide	fluorenylacetamide 02
+C0000248	n-2-fluorenylacetamide	n 2 fluorenylacetamide
+C0000248	aminofluorene aaf	n-acetyl-2-aminofluorene
+C0000248	aminofluorene aaf	2-acetamidofluorene (substance)
+C0000248	acetylaminofluorene 02	2-acetamidofluorene
+C0000248	fluorenylacetamide 02	n-acetyl-2-aminofluorene
+C0000248	2 fluorenylacetamide	fluoren-2-ylacetamide
+C0000248	2 fluorenylacetamide	2-fluorenylacetamide
+C0000248	fluorenylacetamide 02	2-aaf
+C0000248	acetamide, n-9h-fluoren-2-yl-	2 acetamidofluorene
+C0000248	2 fluorenylacetamide	aaf, aminofluorene
+C0000248	2 acetamidofluorene	2-faa
+C0000248	acetamidofluorene 02	n 2 fluorenylacetamide
+C0000248	aminofluorene aaf	acetamidofluorene 02
+C0000248	2-acetylaminofluorene	fluorenylacetamide 02
+C0000248	2-aaf	n 2 fluorenylacetamide
+C0000248	2-fluorenylacetamide	n 2 fluorenylacetamide
+C0000248	aminofluorene aaf	2 acetylaminofluorene
+C0000248	fluoren 2 ylacetamide	fluorenylacetamide 02
+C0000248	aaf, aminofluorene	n-acetyl-2-aminofluorene
+C0000248	n acetyl 2 aminofluorene	2-faa
+C0000248	acetamide, n-9h-fluoren-2-yl-	n-9h-fluoren-2-ylacetamide
+C0000248	fluoren 2 ylacetamide	n 2 fluorenylacetamide
+C0000248	2 acetamidofluorene	n-acetyl-2-aminofluorene
+C0000248	aminofluorene aaf	2-faa
+C0000248	2-acetylaminofluorene	n-acetyl-2-aminofluorene
+C0000248	n-2-fluorenylacetamide	2-aaf
+C0000248	2-acetamidofluorene (substance)	n-acetyl-2-aminofluorene
+C0000248	acetamide, n-9h-fluoren-2-yl-	n acetyl 2 aminofluorene
+C0000248	n-2-fluorenylacetamide	acetamidofluorene 02
+C0000248	acetylaminofluorene 02	2 acetylaminofluorene
+C0000248	2 acetylaminofluorene	2-aaf
+C0000248	n acetyl 2 aminofluorene	2-acetamidofluorene (substance)

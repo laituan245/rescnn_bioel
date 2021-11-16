@@ -1,0 +1,114 @@
+C0043012	Wakefulness	wake up
+C0424295	Hyperactive behavior	unnecessarily wipe for 20 minutes
+C0003123	Anorexia	I haven't eaten in 3 days
+C0034634	Rage	angry
+C0043094	Weight Gain	10+lbs
+C0027497	Nausea	dizzy
+C2830004	Somnolence	sleepy
+C2830004	Somnolence	sleepy
+C0043096	Body Weight decreased	losing weight
+C0013144	Drowsiness	drowsy
+C0235169	Excitability	had me in my feelings
+C0042963	Vomiting	vomiting
+C0013144	Drowsiness	my eyes won't stay open
+C0455769	Energy increased	worked out more
+C0018681	Headache	mild headache
+C0392674	Exhaustion	exhausted
+C0003467	Anxiety	anxiety
+C0003467	Anxiety	#anxiety
+C1963951	Acute overdose	30-day adderall supply lasts me like a week
+C0853348	Arthropod bite	Can't wait for fall so the mosquitoes will go away and I can stop using cortisone cream as lotion all over my legs
+C1443060	Feeling abnormal	feel weird
+C0278061	Abnormal mental state	trippin
+C0151911	Generalized Spasms	random shoulder spasms
+C1263846	Attention deficit hyperactivity disorder	ADHD
+C2830004	Somnolence	make me sleepy
+C2939186	Disturbance in mood	had me in my feelings
+C0553668	Labored breathing	Stops your breathing
+C2830004	Somnolence	groggy
+C0235890	Migraine aggravated	migraines
+C0393760	Initial insomnia	insomniac
+C1291077	Abdominal bloating	ballooning
+C0233479	Elevated mood	feel great
+C1971624	Loss of appetite (finding)	lost their appetite
+C0043094	Weight Gain	gain more weight
+C0917801	Sleeplessness	terrified to fall asleep
+C0028643	Numbness	a damn zombie
+C0240735	Personality change	makes me a different person
+C0234376	Action Tremor	tremor
+C0522224	Paralysed	paralyzed
+C0851444	Allergic conditions	allergic
+C0003467	Anxiety	anxious
+C0424295	Hyperactive behavior	uncontrollable
+C0043094	Weight Gain	weight gain
+C0027497	Nausea	nauseous
+C0037763	Spasm	brain zaps
+C0235169	Excitability	meinmy feelings
+C0043094	Weight Gain	gained 7 lbs
+C0043094	Weight Gain	gain weight
+C0087169	Withdrawal Symptoms	sertraline withdrawal
+C0005586	Bipolar Disorder	bi polar
+C0030252	Palpitations	heart race 100mph
+C2830004	Somnolence	falling asleep
+C2939186	Disturbance in mood	making me insane
+C0455769	Energy increased	got me to the ceiling
+C0013144	Drowsiness	drowsy
+C2830004	Somnolence	fatigue
+C0043012	Wakefulness	wide awake
+C0016658	Fracture	top of my femur got fractured
+C0043012	Wakefulness	still haven't slept
+C0033975	Psychotic Disorders	crazy
+C0042109	Urticaria	hives
+C0497365	Rash generalised	rash
+C0917801	Sleeplessness	I'm still awake
+C0018681	Headache	headaches
+C0037011	Shoulder Pain	hurt his shoulder
+C0917801	Sleeplessness	not sleeping
+C0013144	Drowsiness	sleepy
+C0015672	Fatigue	zombie
+C0424295	Hyperactive behavior	hyper
+C0233459	Emotional disorder	zombie like emotionwise
+C0162298	Joint stiffness	joint pain
+C0853619	Local swelling	lower extremities swelling up
+C0043096	Body Weight decreased	Losing weight
+C0013146	Drug abuse	Addicted
+C0235146	Euphoric mood	feel like I have super powers
+C0012833	Dizziness	dizziness
+C0424295	Hyperactive behavior	feel like doing something
+C0009676	Confusion	confused
+C0037317	Sleep disturbances	it's feeling like the same day
+C0012833	Dizziness	dizziness
+C0233514	Abnormal behavior	absolutely uncontrollable
+C0010709	Cyst	ulcers
+C0020175	Hunger	ridiculously hungry
+C2939186	Disturbance in mood	had me in my feelings
+C0027497	Nausea	nauseous
+C0549259	Anxiety aggravated	anxiety
+C0042963	Vomiting	puking
+C0541854	Daytime sleepiness	fell asleep
+C0006370	Bulimia	bulimia
+C0233479	Elevated mood	feel like this
+C2939186	Disturbance in mood	got me in my feelings
+C1443060	Feeling abnormal	feel ill and shitty 24/7
+C0012833	Dizziness	dizziness
+C0043096	Body Weight decreased	weight loss
+C0012833	Dizziness	dizziness
+C0235169	Excitability	got me to the ceiling
+C0042963	Vomiting	vomiting
+C1456784	Paranoia	paranoid
+C0011570	Mental Depression	feel like crap
+C0028643	Numbness	numb
+C0020604	Hypochondriasis	up for 4 days
+C0018524	Hallucinations	1pm to 3am real quick
+C0022107	Irritable Mood	resting bitch face
+C0018524	Hallucinations	permanent hallucinations
+C0015672	Fatigue	tired
+C0039971	Thirst	dry
+C0040822	Tremor	shaking
+C2939186	Disturbance in mood	had me in my feelings
+C0013144	Drowsiness	ready for a nap
+C0027497	Nausea	sick
+C0278061	Abnormal mental state	fucks me up
+C0235169	Excitability	in my feelings
+C0000737	Abdominal Pain	pain in the pit of my stomach
+C0344315	Depressed mood	shitty

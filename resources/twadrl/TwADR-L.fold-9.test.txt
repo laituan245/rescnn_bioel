@@ -1,0 +1,142 @@
+C0028643	Numbness	paraplegic
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0034634	Rage	angry
+C0028643	Numbness	my pinky toe feel like it was chopped clean off
+C0043012	Wakefulness	wide awake
+C0235169	Excitability	hyped
+C0232461	Increased appetite (finding)	eating to survive
+C0241934	Hypomania	hypomanic
+C0011991	Diarrhea	very mild diarrhea
+C0520962	Pain localised	makes my fingers hurt
+C0278061	Abnormal mental state	completely bonkers
+C0556446	Drug craving	addicted
+C0003467	Anxiety	anxiety
+C2937350	Abnormal ejaculation	nut came out like water
+C0011570	Mental Depression	depression
+C0455769	Energy increased	got me to the ceiling
+C0003467	Anxiety	anxiety
+C0043094	Weight Gain	the 10 lbs I gained
+C3536794	Sad mood	feel like shit
+C2830004	Somnolence	fall asleep
+C0233401	Psychiatric symptom	feeling proper psycho
+C0013144	Drowsiness	weak and woozy
+C0151836	Paranoid reaction	paranoid
+C2830004	Somnolence	tired
+C0012833	Dizziness	dizzy
+C2830004	Somnolence	sleepy
+C0700031	Anxiety attack	panic attacks
+C0858899	Attention concentration difficulty	focus like a wimp
+C0233488	Feeling despair	feeling like shit
+C2830004	Somnolence	take naps
+C0043094	Weight Gain	30lbs that I gained
+C0003864	Arthritis	Arthritis
+C0039971	Thirst	thirsty
+C0042963	Vomiting	puking
+C0853348	Arthropod bite	Can't wait for fall so the mosquitoes will go away and I can stop using cortisone cream as lotion all over my legs
+C0455769	Energy increased	got me to the ceiling
+C0751494	Convulsive Seizures	seizure
+C0015672	Fatigue	zombie
+C0012833	Dizziness	dizzy
+C0751295	Memory Loss	screwing with my short term memory
+C0700031	Anxiety attack	anxiety
+C0235169	Excitability	got me to the ceiling
+C0235890	Migraine aggravated	migraines
+C0278061	Abnormal mental state	this mindset
+C0541798	Early Awakening	I'm up
+C0152128	Drug withdrawal syndrome	I forgot to take Zoloft for like 2 days and now I'm getting brain zaps
+C0043012	Wakefulness	wake you up
+C0013144	Drowsiness	slows me down
+C0022107	Irritable Mood	makes me an asshole
+C0917801	Sleeplessness	I was up at 6 am
+C0041671	Attention Deficit Disorder	ADD
+C0043094	Weight Gain	weight gain
+C0004096	Asthma	gulp air randomly
+C0917801	Sleeplessness	insomnia
+C0424295	Hyperactive behavior	uncontrollable
+C0855242	Disturbance in sexual arousal	kills libido
+C0278061	Abnormal mental state	bazaar thoughts
+C0235169	Excitability	meinmy feelings
+C0234369	Trembling	shaking
+C0596170	Binge eating disorder	Prednisone munchies
+C0043094	Weight Gain	gaining weight
+C1510472	Drug Dependence	reliant
+C0232462	Decrease in appetite	eaten less
+C0087169	Withdrawal Symptoms	withdrawal
+C0020175	Hunger	hungry
+C2939186	Disturbance in mood	FUCKED UP feelings
+C0034634	Rage	rage
+C0549209	Feeling jittery	jitters
+C0278079	Dependence psychological	useless without
+C0013144	Drowsiness	drowsy
+C0851444	Allergic conditions	allergic reaction
+C0022107	Irritable Mood	sour mood
+C0043012	Wakefulness	still haven't slept
+C0917801	Sleeplessness	insomnia
+C0233459	Emotional disorder	emotional fasting
+C0013144	Drowsiness	drowsy
+C0235169	Excitability	in my feelings
+C0005586	Bipolar Disorder	bipolar
+C0028643	Numbness	numbness
+C0858899	Attention concentration difficulty	concentration issues
+C0424166	Social fear	~public~ friendly
+C0233488	Feeling despair	despair
+C0030193	Pain	pain
+C1971624	Loss of appetite (finding)	not hungry
+C0232461	Increased appetite (finding)	hungry/thirsty
+C0600104	Obsessive compulsive behavior	incredibly anal
+C0003123	Anorexia	not eating
+C0036973	Shivering	shaking
+C0152128	Drug withdrawal syndrome	crashing
+C0853619	Local swelling	lower extremities swelling up
+C0344315	Depressed mood	feel like shit
+C0234376	Action Tremor	tremor
+C0034634	Rage	monster
+C0041657	Unconscious State	knocked me out
+C0027497	Nausea	dry heaving
+C0344315	Depressed mood	depressed
+C0851578	Sleep Disorders	knock you out
+C2830004	Somnolence	sleepy
+C0241934	Hypomania	hypomania
+C0152128	Drug withdrawal syndrome	withdrawal brain zaps
+C0233459	Emotional disorder	Drove me mad
+C0424295	Hyperactive behavior	up all morning
+C0012833	Dizziness	dizziness
+C0043094	Weight Gain	making me fat
+C0455769	Energy increased	got me to the ceiling
+C0392674	Exhaustion	tired
+C0028643	Numbness	numbness in my limbs
+C0859023	Talkativeness	cant shut up for the whole day
+C0520962	Pain localised	muscular, joint, nerve pain
+C0917801	Sleeplessness	insomnia
+C0034634	Rage	Satan
+C0541854	Daytime sleepiness	fell asleep
+C0034634	Rage	angry
+C0858899	Attention concentration difficulty	focused
+C0087169	Withdrawal Symptoms	withdrawal
+C0087169	Withdrawal Symptoms	Discontinuation symptoms
+C2830004	Somnolence	I lost my Adderall so I fell asleep super quick
+C0038999	Swelling	urticaria
+C0022107	Irritable Mood	rantful
+C0917801	Sleeplessness	sleep-deprived
+C0043096	Body Weight decreased	weight loss
+C0455769	Energy increased	got me to the ceiling
+C0018681	Headache	headaches
+C0917801	Sleeplessness	feeling like the same day
+C0018524	Hallucinations	mad hallucinations
+C0235195	Sedated state	docile
+C0018681	Headache	migraines
+C0853348	Arthropod bite	chiggers
+C0030252	Palpitations	heart palpitations
+C0018524	Hallucinations	permanent hallucinations
+C0030193	Pain	get rid of the pain
+C0235146	Euphoric mood	GETTING HIGH
+C0455769	Energy increased	strengthens me
+C0424295	Hyperactive behavior	do everything
+C0030583	Parotitis	parotid gland swelling
+C0278061	Abnormal mental state	feel weird
+C0027497	Nausea	sick
+C0522224	Paralysed	paralyzed
+C0235195	Sedated state	calms me down
+C0235169	Excitability	got me to the ceiling
+C0043012	Wakefulness	trying to get tired
+C0030193	Pain	feel like I was hit by a train.

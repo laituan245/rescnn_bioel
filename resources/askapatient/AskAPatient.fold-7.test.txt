@@ -1,0 +1,866 @@
+162221009	Restlessness	restless
+161891005	Backache	muscle pain in back
+250084002	Cramp in calf	Cramps in calves
+22253000	Pain	pain
+271681002	Stomach ache	stomach is still sore
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	Lipitor
+267032009	Tired all the time	always tired
+55300003	Muscle cramp	night muscle cramps
+76948002	Severe pain	severe intense left arm and shoulder pain
+4969004	Sinus pain	sinus pain
+77422011000036109	pyridoxine	B6
+68962001	Myalgia	muscles in my chest started aching
+267031002	Tiredness symptom	tiredness
+309774006	Weakness of limb	weakness in legs
+426206001	Constant pain	constant pain
+4031011000036106	Crestor	Crestor
+26544005	Muscle weakness	muscle weakness
+399153001	Vertigo	vertigo
+55300003	Muscle cramp	cramping
+76948002	Severe pain	horriable crippeling pain hit both knees at same moment
+267044007	Impaired exercise tolerance	exercise intolerance
+84229001	Fatigue	feel fatigued
+70733008	Limitation of joint movement	movement restriction
+51197009	Stomach cramps	sever stomach cramps
+370143000	Major depressive disorder	major depression
+55300003	Muscle cramp	cramps
+13791008	Asthenia	Debilitating
+3877011000036101	Lipitor	Lipitor
+40733004	Infection	infections
+3877011000036101	Lipitor	Lipitor
+62507009	Pins and needles	Tingling in toes and feet
+10601006	Pain in lower limb	leg pains
+3877011000036101	Lipitor	Lipitor
+235856003	Liver disease	liver problems
+88092000	Muscle atrophy	muscle wasting in the shoulders
+249931001	Weakness of neck	weakness in neck
+286641001	Moody	moody
+162031009	Indigestion	indegestion
+235856003	Liver disease	liver damage
+22253000	Pain	pain
+235594008	Bowel dysfunction	dysfunctional bowel
+399114005	Adhesive capsulitis of shoulder	frozen shoulder
+300043006	Reduction of bulk of muscle	muscles of whole body dilution in size
+49218002	Hip pain	SEVERE muscle pain in hip joints
+9126005	Menstrual spotting	spotting problems
+74323005	Pain in elbow	pain in elbow
+3877011000036101	Lipitor	Lipitor
+161891005	Backache	back pain
+48694002	Anxiety	anxiety
+62476001	Disorientated	disorientation
+162059005	Upset stomach	stomach upset
+161891005	Backache	back pain
+95891005	Influenza-like illness	flu-like symptoms
+309774006	Weakness of limb	weak legs
+404640003	Dizziness	dizziness
+57676002	Arthralgia	Joint Pain
+165232002	Urinary incontinence	urinary incontinence
+282145008	Unable to walk	Unable to walk
+26544005	Muscle weakness	muscle weakness
+10601006	Pain in lower limb	pain in both legs
+51197009	Stomach cramps	sporadic lower abdominal cramping
+43116000	Eczema	eczema
+57676002	Arthralgia	joint pain
+161891005	Backache	back pain
+55300003	Muscle cramp	muscles cramp
+3877011000036101	Lipitor	Lipitor
+79890006	Loss of appetite	loss of appetite
+3210011000036104	Lexapro	Lexapro
+36031001	Burning feet	Burning feet
+248255005	Cannot sleep at all	Could not sleep
+3877011000036101	Lipitor	lipitor
+258155009	Photosensitisation due to sun	sun sensitivity
+160685001	Bed-ridden	bedridden
+3877011000036101	Lipitor	Lipitor
+35489007	Depression	depression
+18193002	Hypochondriasis	Hyprochondria
+77435011000036104	ascorbic acid	vitamin C
+41652007	Eye pain	eye pain
+197321007	Steatosis of liver	fatty liver
+162076009	Excessive upper gastrointestinal gas	gas
+162076009	Excessive upper gastrointestinal gas	gas
+26544005	Muscle weakness	muscle weakness
+202480001	Elbow joint pain	Joint pain (elbows!)
+21417011000036105	fenofibrate	Tricor
+46991000	Absent minded	Absentminded
+35489007	Depression	Depression
+161891005	Backache	pains in her back
+62507009	Pins and needles	tingling of feet
+22253000	Pain	pain
+69896004	Rheumatoid arthritis	rheumatoid arthriitis
+22253000	Pain	pain
+22253000	Pain	pain
+84229001	Fatigue	fatigue
+224960004	Tired	tired
+3877011000036101	Lipitor	Lipitor
+75694006	Pancreatitis	Pancreatitis
+3723001	Arthritis	arthritis
+363499005	Malignant tumour of spleen	Spleen Cancer
+21885011000036105	ibuprofen	iubrofen
+3877011000036101	Lipitor	Lipitor
+10601006	Pain in lower limb	Lower legs have been hurting
+271587009	Stiffness	stiffness
+35489007	Depression	Depression
+68962001	Myalgia	muscles hurt
+288939007	Difficulty swallowing	Difficulty in swallowing
+3877011000036101	Lipitor	Lipitor
+386705008	Lightheadedness	lightheadedness
+404640003	Dizziness	dizziness
+282299006	Unable to balance	un-balanced-type feeling
+3877011000036101	Lipitor	Lipitor
+76948002	Severe pain	Extreme back pain
+299037003	Swelling of hand	sever swelling of hands
+386033004	Neuropathy	neuropathy
+3877011000036101	Lipitor	Lipitor
+8392000	Non-smoker	don't smoke
+267031002	Tiredness symptom	tiredness
+91019004	Paraesthesia	tingle
+3904011000036106	Zocor	Zocor
+289530006	Vaginal bleeding	vaginal bleeding
+21433011000036107	paracetamol	Paracetamol
+90708001	Kidney disease	kidney problems
+248096004	Lack of libido	sex drive became non-existant
+22253000	Pain	pain
+84229001	Fatigue	fatigue
+13791008	Asthenia	Weak
+267052005	Flatulence/wind	mild flatuelence
+50219008	Hoarse	dry throat/hoarseness
+62315008	Diarrhoea	diahhrea
+65124004	Swelling	swelling
+131148009	Bleeding	bleeding
+77692006	Hypersomnia	INCREASE IN SLEEP REQUIREMENT
+21242011000036102	simvastatin	Simvistatin
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	Lipitor
+30989003	Knee pain	knee pain
+386033004	Neuropathy	NEUROPATHY
+315642008	Influenza-like symptoms	coming down with the flu
+3723001	Arthritis	arthritis
+166830008	Serum cholesterol raised	cholesterol climbed
+26889001	Myositis	inflammation of my foot muscles
+82991003	Generalised aches and pains	pains all over body
+21930011000036101	ezetimibe	ezetimbe
+4249000	Poor peripheral circulation	poor circulation
+162059005	Upset stomach	sick to stomach
+62315008	Diarrhoea	diarrhoea
+13791008	Asthenia	extreme fatigue
+55300003	Muscle cramp	severe cramping
+250082003	Hand cramps	serious cramping hands
+61777011000036104	codeine + ibuprofen	Ibuprofen plus
+449917004	Cramp in lower limb	leg cramps
+8357008	Reduced libido	decreased libido
+3877011000036101	Lipitor	Lipitor
+57676002	Arthralgia	joint pain
+161891005	Backache	back pain
+21417011000036105	fenofibrate	tricor
+22253000	Pain	pain
+22253000	Pain	pain
+16386004	Dry skin	skin is so dry
+68962001	Myalgia	muscle pain
+193462001	Insomnia	can't sleep
+62507009	Pins and needles	tingling
+90673000	Burning sensation	elbows burning
+53057004	Hand pain	PAIN IN MY HANDS
+923927011000036105	melatonin	melatonin
+271587009	Stiffness	stiffness in whole body
+386807006	Memory impairment	memory difficulties
+22253000	Pain	pain
+282475008	Unable to run	unable to run
+22253000	Pain	pain
+3877011000036101	Lipitor	Lipitor
+84229001	Fatigue	fatigue
+279093005	Cramping pain	cramping pain
+247347003	Discomfort	discomfort
+68962001	Myalgia	terrible musche aches
+225609009	Stiff legs	Stiffness in Leg Joint
+80449002	Muscle fatigue	fatigue in legs
+195967001	Asthma	asthma
+162076009	Excessive upper gastrointestinal gas	extreme gas
+35489007	Depression	DEPRESSION
+3723001	Arthritis	arthritis
+228158008	Walking disability	cannot walk more than 5 yards
+57676002	Arthralgia	joint pain
+248255005	Cannot sleep at all	not sleeping
+419723007	Mentally dull	Brain fog
+3877011000036101	Lipitor	Lipitor
+62315008	Diarrhoea	Diarrhea
+35489007	Depression	depression
+3877011000036101	Lipitor	Lipitor
+55533009	Forgetful	forget things all the time
+62507009	Pins and needles	tingling and sunny sensation on my face
+3877011000036101	Lipitor	Lipitor
+26544005	Muscle weakness	Muscle weakness
+271596009	Mental distress	mental distress
+60032008	Unable to concentrate	cannot concentrate
+162076009	Excessive upper gastrointestinal gas	general malaise
+84229001	Fatigue	extreme tiredness
+69791001	Increased venous pressure	HIGH BLOOD PRESSURE
+55300003	Muscle cramp	muscle spasams in face and neck
+3877011000036101	Lipitor	Lipitor
+86044005	Amyotrophic lateral sclerosis	als
+13791008	Asthenia	extreme fatigue
+248491001	Swollen knee	Swollen knees
+3877011000036101	Lipitor	lipitor
+32398004	Bronchitis	bronchitis
+162076009	Excessive upper gastrointestinal gas	gas
+249912007	Ankle stiff	ankles seized up
+25064002	Headache	Severe headache
+416675009	Furuncle	my skin in boils
+129565002	Disorder of muscle	myopathy
+16331000	Heartburn	heart burn
+48694002	Anxiety	anxiety
+129565002	Myopathy	muscle problem
+249913002	Knee stiff	knees seized up
+62315008	Diarrhoea	diarreha
+213257006	Generally unwell	Felt very unwell
+28551000168108	Voltaren	VOLTAREN
+275319005	Swollen legs	SWELLING OF THE LEGS AND FEET
+309521004	Numbness of hand	numbness and tingling in my hands
+3877011000036101	Lipitor	Lipitor
+386705008	Lightheadedness	lightheaded
+68962001	Myalgia	muscle pain
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	Lipitor
+22253000	Pain	pain
+76948002	Severe pain	severe abdonimal pain
+419076005	Allergic reaction	allergic reaction
+284143002	Difficulty moving arm	could not lift arm
+76948002	Severe pain	severe pain in shoulder
+449917004	Cramp in lower limb	cramping in both quads (above knee, back of leg)
+49218002	Hip pain	pain in my hip
+49218002	Hip pain	hip pain
+3877011000036101	Lipitor	lipitor
+202472008	Hand joint pain	joints in my hands hurt
+300954003	Pain in calf	calf pain
+102556003	Pain in upper limb	pain in my arm and shoulder
+22253000	Pain	pain
+3877011000036101	Lipitor	Lipitor
+271787007	Collapse	collapades in the floor
+84229001	Fatigue	feelings of fatigue
+284146005	Unable to move hand	could not open my hands
+64206003	Hypomenorrhoea	Bleeding mini periods
+162059005	Upset stomach	Stomach distress
+3877011000036101	Lipitor	lipitol
+90560007	Gout	gout
+288231001	Myalgia/myositis - lower leg	pain in leg muscles
+405729008	Haematochezia	passing blood and clots with stoals
+28551000168108	Voltaren	voltaren
+165247006	Unable to climb stairs	limits my ability climb stairs
+248255005	Cannot sleep at all	couldn't sleep at night
+3702011000036109	Oxycontin	oxycotin
+53523011000036100	Diovan	Diovan
+3877011000036101	Lipitor	lipitor
+22253000	Pain	pain
+428281000	Malignant neoplasm of bone	bone cancer
+55300003	Muscle cramp	Cramps
+22253000	Pain	pain
+3877011000036101	Lipitor	Lipitor
+3559011000036109	Zoloft	zoloft
+237130006	Bleeding between periods	bleeding and I was on day 12 of my cycle
+63102001	Visual disturbance	vision problems - seeing two or three of everything
+13791008	Asthenia	very weak
+288885009	Unable to eat	Could not eat
+39104002	Illness	sick
+419581008	Bizarre dreams	weird dreams
+422587007	Nausea	nausea
+129565002	Myopathy	muscle problem
+3877011000036101	Lipitor	Lipitor
+48694002	Anxiety	ANXIETY
+248490000	Bloating symptom	bloating
+21496011000036106	prednisone	Prednisone
+23520002	Decreased venous pressure	BP was very low
+128139000	Inflammatory disorder	inflammation
+47268002	Reflux	reflux
+299322007	Swelling of knee joint	Right knee always swollen
+60119000	Exhaustion	exhaustion
+162076009	Excessive upper gastrointestinal gas	general overal weakness
+13791008	Asthenia	weakness
+62315008	Diarrhoea	diarrhea
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	lipitor
+60238002	Muscle twitch	Muscle twitches
+162059005	Upset stomach	stomach upsets
+25064002	Headache	headaches
+3877011000036101	Lipitor	Lipitor
+57676002	Arthralgia	joint pain
+26544005	Muscle weakness	loss of muscle strength
+422587007	Nausea	nausea
+21779011000036103	cortisone	cortisone injection
+419723007	Mentally dull	Brain fog
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	Lipitor
+36031001	Burning feet	burning feet
+238810007	Flushing	hot flashes
+68962001	Myalgia	muscle aches
+129565002	Myopathy	muscle problems
+3904011000036106	Zocor	zocor
+214264003	Lethargy	lethargy
+386705008	Lightheadedness	lightheadedness
+22253000	Pain	pain
+60032008	Unable to concentrate	loss of concentration
+80449002	Muscle fatigue	weariness of the leg muscles
+35209006	Sensitivity	sensitivity
+267953003	Arthralgia of the lower leg	sore leg joints
+8708008	Sharp pain	major sharp pain in the side
+55929007	Feeling irritable	irritability
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	Lipitor
+161891005	Backache	back pain
+288231001	Myalgia/myositis - lower leg	muscle pain in legs
+48167000	Amnesia	memory loss
+22253000	Pain	pain
+81680005	Neck pain	very sore neck
+35489007	Depression	depressed
+86651002	Pulse fast	pulse is still extremely high
+397541004	Severe visual impairment	Vision severe impairment
+74323005	Pain in elbow	elbow pain
+214264003	Lethargy	leathargy
+35489007	Depression	Depression
+3877011000036101	Lipitor	Lipitor
+230145002	Difficulty breathing	difficulty/shallow breathing
+10601006	Pain in lower limb	shin pain
+418363000	Itching of skin	pruritus
+8357008	Reduced libido	Lack libido
+76948002	Severe pain	severe muscle pain
+4344011000036106	Neurontin	neurontin
+84229001	Fatigue	fatigue
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	Lipitor
+84229001	Fatigue	fatigue
+81680005	Neck pain	neck pain up to the back of the head
+62507009	Pins and needles	tingling
+3723001	Arthritis	Arthritis
+22298006	Myocardial infarction	Heart attack
+699376002	Lip swelling	lips started to swell
+282145008	Unable to walk	unable to walk
+3877011000036101	Lipitor	Lipitor
+288939007	Difficulty swallowing	difficulty swallowing
+45326000	Shoulder pain	shouldar ache
+284140004	Unable to move arm	couldn't use my arm
+309521004	Numbness of hand	prickling,numbness in hand
+22253000	Pain	pain
+44077006	Numbness	numb
+282145008	Unable to walk	unable to walk
+161876008	Gland symptom	neck swollen
+267950000	Arthralgia of the upper arm	arm joints sore
+48532005	Muscle strain	muscle pull
+166717003	Serum creatinine raised	Elevated CPK levels
+129565002	Myopathy	muscle damage
+228158008	Walking disability	couldn't walk
+26544005	Muscle weakness	Weak muscles
+3877011000036101	Lipitor	Lipitor
+289903006	Menopause present	menopause
+3877011000036101	Lipitor	LIPITOR
+55929007	Feeling irritable	crabby
+24700007	Multiple sclerosis	Multiple Sclerosis
+3384011000036100	Arthrotec	arthrotec
+57676002	Arthralgia	joint pain
+3080011000036109	Tylenol	Tylenol
+43498006	Body fluid retention	fluid retention
+22253000	Pain	pain
+22253000	Pain	pain
+422587007	Nausea	Stomach queasy
+3877011000036101	Lipitor	Lipitor
+77424011000036100	ubidecarenone	CoQ10
+248274002	Lack of energy	Decreased energy
+271137009	Bad circulation - vasomotor change	circulatory problems
+57676002	Arthralgia	joint pain
+399114005	Adhesive capsulitis of shoulder	Frozen Shoulder
+68962001	Myalgia	muscle ache
+3877011000036101	Lipitor	Lipitor
+65124004	Swelling	swelling
+68962001	Myalgia	muscle pains
+247441003	Erythema	erithema
+162076009	Excessive upper gastrointestinal gas	gas
+249898006	Slow on legs	MOVE SLOW
+161891005	Backache	back pain
+4422011000036109	Noten	noten
+8357008	Reduced libido	taking one's appetite for sex away
+14760008	Constipation	constipation
+102551008	Cramp in foot	cramping in toes
+60032008	Unable to concentrate	could'nt concentrate
+271801002	Taste sense altered	altered taste
+16046003	Muscle rigidity	Muscle Stiffness
+22253000	Pain	PAIN
+3877011000036101	Lipitor	Litpitor
+248490000	Bloating symptom	bloating
+76948002	Severe pain	extreme pain in thigh muscles
+3877011000036101	Lipitor	Liptor
+95418008	Muscle spasms of head AND/OR neck	cramping neck muscels
+36031001	Burning feet	burning in the soles of my feet
+419723007	Mentally dull	brain fog
+48167000	Amnesia	memory loss
+102551008	Cramp in foot	feet are cramping
+35489007	Depression	DEPRESSED
+21885011000036105	ibuprofen	ibuprofen
+404640003	Dizziness	dizziness
+422400008	Vomiting	throw up
+309536001	Numbness of finger	Numbness in fingers
+62507009	Pins and needles	tingling in my arms
+225624000	Panic attack	panic attacks
+267949000	Shoulder joint pain	joint pain in my shoulders
+62315008	Diarrhoea	diarrhea
+422587007	Nausea	Nausea
+931804011000036107	omega-3-acid ethyl esters-90	omega 3
+247373008	Ankle pain	ankles started aching
+28551000168108	Voltaren	voltaren
+56317004	Alopecia	Alopecia
+50219008	Hoarse	hoarseness/coughing
+3877011000036101	Lipitor	Lipitor
+47933007	Foot pain	sore feet
+288231001	Myalgia/myositis - lower leg	leg muscle inflamed
+8943002	Weight gain	Weight gain
+419723007	Mentally dull	fogginess
+288228002	Myalgia/myositis - forearm	muscle soreness in my forearms
+419723007	Mentally dull	Mental fogginess
+124054003	Increased cholesterol esters	high cholesteral
+3877011000036101	Lipitor	Lipitor
+77692006	Hypersomnia	excessive sleep requirements
+13791008	Asthenia	extreme fatigue
+25064002	Headache	headaches
+3877011000036101	Lipitor	Lipitor
+49049000	Parkinson's disease	Parkinson's
+16386004	Dry skin	skin is so dry
+25064002	Headache	headaches
+399153001	Vertigo	VERTIGO LIKE SYMPTONS
+309774006	Weakness of limb	weak legs
+288332005	Unable to lift	limits my ability lift anything
+25064002	Headache	headaches
+16269008	Neuralgia	neuralgia
+62315008	Diarrhoea	diarrhea
+35489007	Depression	DEPRESSION
+95891005	Influenza-like illness	flu-like symptoms
+57676002	Arthralgia	JOINT PAIN
+68962001	Myalgia	Muscle pain
+22253000	Pain	pain
+45326000	Shoulder pain	B/L shoulder pain
+278040002	Loss of hair	hair loss
+22253000	Pain	pain
+3877011000036101	Lipitor	Lipitor
+282299006	Unable to balance	loss of balance
+47933007	Foot pain	my feet hurt
+53458011000036102	Aleve	Aleve
+310497006	Severe depression	extreme depression
+62507009	Pins and needles	tingly
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	lipitor
+57676002	Arthralgia	pain in major joints
+367391008	Malaise	GENERAL MALAISE
+22253000	Pain	pain
+22253000	Pain	increasing pain
+14151009	Hyperaesthesia	senistivity in the palms and soles of my feet
+26544005	Muscle weakness	Muscle weakness
+288230000	Myalgia/myositis -pelvis/thigh	MUSCLE PAINS IN MY HIPS
+49218002	Hip pain	hip pain
+931804011000036107	omega-3-acid ethyl esters-90	omega 3 fish oil
+267949000	Shoulder joint pain	aching joints shoulders
+278040002	Loss of hair	hair loss
+76948002	Severe pain	extreme pain
+274663001	Acute pain	sudden horriable grabbing pain in one ankle
+16973004	Limping	limp
+275319005	Swollen legs	swollen legs
+60862001	Tinnitus	tinnitus
+56731001	Hypertonia	tightening of neck muscles
+68962001	Myalgia	muscle pains
+80313002	Palpitations	heart palputations
+271681002	Stomach ache	stomach aches
+10601006	Pain in lower limb	pain in my lower legs and feet
+49049000	Parkinson's disease	parkinson's
+47933007	Foot pain	pain in their feet
+55300003	Muscle cramp	severe muscle spasms in my legs
+298941006	Swelling of wrist joint	swelling wrists
+21522001	Abdominal pain	abdominal pain
+309774006	Weakness of limb	legs were so weak and tired
+404640003	Dizziness	dizzy
+267036007	Dyspnoea	breathlessness
+3877011000036101	Lipitor	LIPITOR
+55929007	Feeling irritable	irritable
+55300003	Muscle cramp	increase in cramping
+4031011000036106	Crestor	Crestor
+23388006	Visual field scotoma	blind spot
+161874006	Heavy feeling	feet felt like led
+48167000	Amnesia	memory loss
+286641001	Moody	moody
+3877011000036101	Lipitor	Lipitor
+279039007	Low back pain	LOWER BACK PAIN
+77436011000036106	fish oil natural	fish oil capsules
+285305004	Spots on skin	spots on my body
+128139000	Inflammatory disorder	inflamation
+224960004	Tired	very tired
+77424011000036100	ubidecarenone	CoQ10
+161891005	Backache	back pain
+36971009	Sinusitis	sinus infection
+88092000	Muscle atrophy	muscle atrophy
+3877011000036101	Lipitor	lipitor
+13791008	Asthenia	Extreme fatigue
+203095000	Spasm of back muscles	muscle cramps in ribs
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	lipitor
+16046003	Muscle rigidity	tightened muscles in neck
+3877011000036101	Lipitor	lipitor
+367391008	Malaise	malaisse
+224960004	Tired	tired
+3877011000036101	Lipitor	lipitor
+387603000	Impairment of balance	lost some body balance
+52448006	Dementia	dementia
+3877011000036101	Lipitor	Lipitor
+69322001	Psychotic disorder	Psychosis
+363346000	Malignant neoplastic disease	CANCER
+3877011000036101	Lipitor	Lipitor
+422587007	Nausea	EXTREME nausea
+161898004	Falls	falling over
+21522001	Abdominal pain	abdominal pain
+22253000	Pain	pain
+224960004	Tired	extremely tired
+161891005	Backache	pains in my back
+105504002	Dependance on walking stick	had to use a cane to walk
+77547008	Degeneration of intervertebral disc	degenerative disk
+62315008	Diarrhoea	diarrhoa
+35489007	Depression	depression
+68962001	Myalgia	muscle pain
+8392000	Non-smoker	do not smoke and have never smoked
+3877011000036101	Lipitor	Lipitor
+22253000	Pain	pain
+55300003	Muscle cramp	cramps
+57676002	Arthralgia	joint pain
+68962001	Myalgia	muscle pain
+26544005	Muscle weakness	extreme muscle weakness
+122481008	Hammer toe	hammer toe
+193093009	Bell's palsy	Bell's palsy
+2764000	Joint crepitus	joints poping and cracking
+275319005	Swollen legs	swollen legs
+51197009	Stomach cramps	stomach cramps
+77424011000036100	ubidecarenone	CO Q 10
+3877011000036101	Lipitor	Lipitor
+21930011000036101	ezetimibe	Zetia
+55300003	Muscle cramp	Muscle spasms
+3877011000036101	Lipitor	Liptor
+68962001	Myalgia	muscle aches and pains
+81680005	Neck pain	pains neck
+59050008	Initial insomnia	Can't get to sleep
+88092000	Muscle atrophy	Muscle atrophy
+8943002	Weight gain	gaining excess weight
+82991003	Generalised aches and pains	HURT EVERY WHERE
+36031001	Burning feet	burning feet
+82991003	Generalised aches and pains	aches and pains
+57676002	Arthralgia	Chronic pain in all my joints
+55300003	Muscle cramp	muscle cramps
+49218002	Hip pain	hip pains
+22253000	Pain	pain
+449917004	Cramp in lower limb	leg cramps
+62507009	Pins and needles	tingling extremities
+13791008	Asthenia	weakness
+386807006	Memory impairment	couldn't remember who I had dinner with last night
+3877011000036101	Lipitor	Lipitor
+22253000	Pain	pain
+404640003	Dizziness	dizziness
+267032009	Tired all the time	feeling tired all the time
+286369003	Unable to speak	could'nt talk
+24184005	Finding of increased blood pressure	Increased BP
+278040002	Loss of hair	losing my hair
+3877011000036101	Lipitor	lipitor
+22253000	Pain	aches
+248490000	Bloating symptom	bloating
+21885011000036105	ibuprofen	ibuprofen
+225609009	Stiff legs	stiffness in both legs
+34840004	Tendonitis	tendinitis
+3723001	Arthritis	arthritis
+60238002	Muscle twitch	muscle twitches
+13791008	Asthenia	feeling weak
+386807006	Memory impairment	barely remember anything that has happened recently
+13791008	Asthenia	Weakness
+309536001	Numbness of finger	Numbness in all of my finger tips
+22253000	Pain	pain
+49049000	Parkinson's disease	Parkinsons
+68962001	Myalgia	MUSCLES ACHED
+230145002	Difficulty breathing	hard to breathe
+24700007	Multiple sclerosis	MS
+267039000	Swollen ankle	Swollen ankles
+3877011000036101	Lipitor	lipitor
+3904011000036106	Zocor	Zochor
+134407002	Chronic back pain	chronic and acute back pain
+90708001	Kidney disease	kidney damage
+236423003	Renal impairment	KIDNEY READINGS BECAME BAD
+28551000168108	Voltaren	voltaren
+68962001	Myalgia	muscle pain
+3848011000036104	Pravachol	Pravachol
+281016006	Incoordination	poor coordination while walking (kept bumping into things)
+129565002	Myopathy	muscle damage
+25064002	Headache	Low grade headache
+3877011000036101	Lipitor	Lipitor
+271681002	Stomach ache	stomach pain
+230690007	Cerebrovascular accident	strokes
+225581002	Sight deteriorating	diminished eyesight
+13791008	Asthenia	declining physical ability
+24184005	Finding of increased blood pressure	high blood pressure
+425423002	Pain provoked by movement	Hurt to get up
+3877011000036101	Lipitor	Lipitor
+404640003	Dizziness	dizzyness
+288228002	Myalgia/myositis - forearm	MUSCLE PAIN IN LEFT ARM
+238810007	Flushing	flushing
+68962001	Myalgia	muscle aches
+3877011000036101	Lipitor	Lipitor
+250084002	Cramp in calf	calf leg cramps
+248490000	Bloating symptom	bloating
+14760008	Constipation	constipated
+193462001	Insomnia	insommnia
+289530006	Vaginal bleeding	vaginal bleeding
+22253000	Pain	pain
+25064002	Headache	headache
+49218002	Hip pain	hip pain
+13791008	Asthenia	weak
+52702003	Chronic fatigue syndrome	chronic fatigue
+271681002	Stomach ache	stomach pain
+82991003	Generalised aches and pains	aches and pains
+53057004	Hand pain	Pain in my hands
+3848011000036104	Pravachol	Provachol
+25064002	Headache	headache
+271681002	Stomach ache	stomach discomfort
+3384011000036100	Arthrotec	Arthotec
+3877011000036101	Lipitor	lipitor
+386807006	Memory impairment	problems with memory
+371405004	Disorder of eye	eye problems
+3877011000036101	Lipitor	Lipitor
+57676002	Arthralgia	arthritic pain
+88092000	Muscle atrophy	atrophy
+371632003	Coma	coma
+4106009	Rotator cuff syndrome	torn rotator cuff
+195967001	Asthma	asthmatic
+73211009	Diabetes mellitus	diabetic
+24693007	Fibromyalgia	fibromyalgia
+3877011000036101	Lipitor	Lipitor
+3723001	Arthritis	arthritis
+3877011000036101	Lipitor	Lipitor
+22253000	Pain	pain
+49218002	Hip pain	hip pain
+449917004	Cramp in lower limb	leg cramps
+18963009	Mood swings	mood swings
+24693007	Fibromyalgia	fibromyalgia
+129565002	Myopathy	muscle problems
+249966004	Spasmodic movement	twitching
+3877011000036101	Lipitor	Lipitor
+367391008	Malaise	malaise
+22253000	Pain	pain
+21522001	Abdominal pain	abdominal pain
+3877011000036101	Lipitor	lipitor
+26544005	Muscle weakness	strength depletion
+3904011000036106	Zocor	Zocor
+246676003	Hyperaemia of surface of eye	eyes are bloodshot
+3904011000036106	Zocor	Zocor
+4031011000036106	Crestor	Crestor
+404640003	Dizziness	dizzy spells
+22253000	Pain	pain
+419723007	Mentally dull	Foggy mental state
+55300003	Muscle cramp	cramps
+3877011000036101	Lipitor	Lipitor
+55300003	Muscle cramp	cramping
+271807003	Rash	rash
+26544005	Muscle weakness	Muscle weakness from the pevis down to my toes
+3080011000036109	Tylenol	Tylenol 3
+54981004	Charleyhorse	Charley horses in feet
+248490000	Bloating symptom	bloated
+3877011000036101	Lipitor	lipitor
+248490000	Bloating symptom	bloating
+25064002	Headache	head aches
+3877011000036101	Lipitor	Lipitor
+249914008	Hip stiff	stiffness in hips
+3877011000036101	Lipitor	Lipitor
+449918009	Cramp in lower leg	Ackey leg cramps
+68962001	Myalgia	muscle pains
+102608004	Excessive appetite	voracious hunger
+271782001	Drowsy	bit drowsy
+22253000	Pain	pain
+57676002	Arthralgia	pain in joints
+288227007	Myalgia/myositis - upper arm	muscular soreness in arms and shoulders
+287047008	Pain in left leg	pain in my left leg and foot
+55533009	Forgetful	forgetful
+166702002	Raised serum calcium level	elevated calcium
+22253000	Pain	pain
+21930011000036101	ezetimibe	ezetimibe
+14760008	Constipation	constipation
+397540003	Visual impairment	Sight loss
+30989003	Knee pain	knee pain
+299042006	Weakness of hand	hand weakness (constantly dropping things)
+3877011000036101	Lipitor	lipitor
+3904011000036106	Zocor	Zocar
+47933007	Foot pain	acute pain in both feet
+271681002	Stomach ache	moderate stomach pain
+84229001	Fatigue	fatigue
+3877011000036101	Lipitor	Lipitor
+56018004	Wheezing	wheezing
+67015007	Abnormal large bowel motility	dys-motility
+419723007	Mentally dull	feeling like my mind is fading away
+29857009	Chest pain	chest pain
+3384011000036100	Arthrotec	Arthrotec
+3877011000036101	Lipitor	Lipitor
+162076009	Excessive upper gastrointestinal gas	GI bleed
+386705008	Lightheadedness	lightheaded foggy brain (like being in a stupor)
+22253000	Pain	pain
+309774006	Weakness of limb	Weakness in my right arm
+3384011000036100	Arthrotec	Arthrotec
+3877011000036101	Lipitor	Lipitor
+161891005	Backache	back aches
+55929007	Feeling irritable	crabbiness
+271807003	Rash	rashes
+55929007	Feeling irritable	irritability
+248490000	Bloating symptom	terrible bloating
+73211009	Diabetes mellitus	diabetes
+21522001	Abdominal pain	abdominal pain
+3877011000036101	Lipitor	lipitor
+76948002	Severe pain	Severe back pain
+35489007	Depression	Depression
+13791008	Asthenia	debilitating
+3877011000036101	Lipitor	lipitor
+22253000	Pain	pain
+84229001	Fatigue	fatigue
+48167000	Amnesia	memory loss
+62315008	Diarrhoea	diarrhea
+228158008	Walking disability	barely walk
+84229001	Fatigue	fatigue
+53057004	Hand pain	very bad pains in hands
+3481000168101	Nasonex Aqueous	Nasonex
+3384011000036100	Arthrotec	arthrotec
+55300003	Muscle cramp	cramping
+286641001	Moody	moodiness
+300895004	Anxiety attack	intense anxiety attacks
+195967001	Asthma	asthma flare-ups
+22253000	Pain	pain
+84229001	Fatigue	persistent fatigue
+49218002	Hip pain	pains in hips
+8357008	Reduced libido	Low Libido
+203095000	Spasm of back muscles	severe back spasm
+3877011000036101	Lipitor	liptor
+21522001	Abdominal pain	abdominal pain
+431416001	Menstrual cramp	severe mentrual cramps
+267052005	Flatulence/wind	flatulence
+80313002	Palpitations	heart palpitations
+62315008	Diarrhoea	Diarrehea
+22253000	Pain	pain
+288231001	Myalgia/myositis - lower leg	muscle pain in the legs
+3877011000036101	Lipitor	LIPITOR
+3877011000036101	Lipitor	lipitor
+65124004	Swelling	swelling
+387603000	Impairment of balance	balance problems
+300306001	Stomach problem	stomach problems
+193462001	Insomnia	Insomnia
+3848011000036104	Pravachol	Pravachol
+76948002	Severe pain	severe joint pains
+267036007	Dyspnoea	shortness of breath
+267052005	Flatulence/wind	flatulence
+55300003	Muscle cramp	cramps in chest
+288230000	Myalgia/myositis -pelvis/thigh	muscle aches in thighs
+84229001	Fatigue	fatigue
+299037003	Swelling of hand	swelling hands
+26544005	Muscle weakness	Extreme muscle weakness
+22298006	Myocardial infarction	heart attact
+13791008	Asthenia	extreme fatigue
+3877011000036101	Lipitor	Lipitor
+247592009	Poor short-term memory	short term memory is terrible
+3904011000036106	Zocor	Zocor
+161891005	Backache	"back labor" pains
+247323005	Tightness in throat	throat tightness
+25064002	Headache	headaches
+68962001	Myalgia	muscle pain
+82971005	Impaired mobility	mobility has DECREASED
+250082003	Hand cramps	cramps in hands
+88092000	Muscle atrophy	loss of muscle structure in the calf muscles
+22253000	Pain	pain
+44077006	Numbness	numbness
+162076009	Excessive upper gastrointestinal gas	geting bad swets
+60032008	Unable to concentrate	lack of concentration
+14760008	Constipation	constipation
+421262002	Tongue swelling	swollen tongue
+111516008	Blurring of visual image	vision became blurry
+418092006	Respiratory tract congestion	congestion
+76948002	Severe pain	extreme leg pain in the calves
+68962001	Myalgia	muscle ache
+122481008	Hammer toe	hammer toe
+418092006	Respiratory tract congestion	congestion
+39575007	Urine looks dark	darkness in urine
+51197009	Stomach cramps	stomach cramping
+68962001	Myalgia	muscle pain
+387603000	Impairment of balance	Difficult to keep balance
+193462001	Insomnia	sleeplessness
+449917004	Cramp in lower limb	leg cramping
+3877011000036101	Lipitor	Lipitor
+22253000	Pain	pain
+84229001	Fatigue	fatigued
+25064002	Headache	headaches
+62507009	Pins and needles	tingling
+3877011000036101	Lipitor	Lipitor
+34840004	Tendonitis	tendonitis
+51197009	Stomach cramps	stomach cramps
+25064002	Headache	headaches
+22253000	Pain	pain
+55300003	Muscle cramp	severe muscle cramps
+22253000	Pain	pain
+13791008	Asthenia	extreme fatique
+102556003	Pain in upper limb	pain in my arm
+3877011000036101	Lipitor	Lipitor
+62315008	Diarrhoea	diarrhea
+3877011000036101	Lipitor	Lipitor
+449917004	Cramp in lower limb	cramps in legs
+78514002	Thigh pain	pain in my left thigh
+249917001	Elbow stiff	stiff elbows
+62507009	Pins and needles	Tingling toes
+21821011000036104	codeine	codine
+3877011000036101	Lipitor	Lipitor
+3848011000036104	Pravachol	Pravachol
+34840004	Tendonitis	flared up tendenitis
+63102001	Visual disturbance	vision problems
+3877011000036101	Lipitor	Lipitor
+228158008	Walking disability	hard to walk
+22253000	Pain	pains
+162076009	Excessive upper gastrointestinal gas	Gas
+22298006	Myocardial infarction	heart attack
+129565002	Myopathy	leg muscle and thigh problems
+76948002	Severe pain	intense pain
+278040002	Loss of hair	hair loss
+373931001	Sensation of heaviness in limbs	heavy legs and arms
+57676002	Arthralgia	Joint pain
+286381004	Unable to find words	unable to find words or remember names
+162076009	Excessive upper gastrointestinal gas	gastro effects
+197321007	Steatosis of liver	fatty liver
+3877011000036101	Lipitor	Lipitor
+57676002	Arthralgia	joint aches
+25064002	Headache	headache
+419723007	Mentally dull	foggy brain
+49218002	Hip pain	hip thigh pain
+26544005	Muscle weakness	muscle weakness
+398032003	Loose stool	loose bowels
+419723007	Mentally dull	I feel like I'm in a fog
+10601006	Pain in lower limb	pain in their shins
+404640003	Dizziness	dizziness
+282872002	Unable to stand up	no power to standup himself
+23924001	Tight chest	Tight chest
+47933007	Foot pain	bottoms of my feet hurt
+68962001	Myalgia	Severe muscle pain
+30989003	Knee pain	knee pain
+57676002	Arthralgia	joints hurt
+86044005	Amyotrophic lateral sclerosis	ALS
+3877011000036101	Lipitor	Lipitor
+3877011000036101	Lipitor	lipitor
+3572011000036102	Mobic	mobic
+3877011000036101	Lipitor	Lipitor
+10601006	Pain in lower limb	leg pains
+289530006	Vaginal bleeding	vaginal bleeding
+73211009	Diabetes mellitus	diabetic
+3877011000036101	Lipitor	lipitor
+49218002	Hip pain	muscle pain in hips
+288332005	Unable to lift	hardly able to lift things
+449917004	Cramp in lower limb	leg cramps
+278040002	Loss of hair	hair loss
+39592011000036106	Cozaar	Cozaar
+76948002	Severe pain	severe muscle pain in neck
+284140004	Unable to move arm	Unable to raise my left arm
+3848011000036104	Pravachol	Pravachol
+88092000	Muscle atrophy	atrophy
+248255005	Cannot sleep at all	could not sleep
+30989003	Knee pain	pain in my knee
+3877011000036101	Lipitor	Lipitor
+22253000	Pain	aching
+79015004	Worried	always worrying
+193462001	Insomnia	insomnia
+3877011000036101	Lipitor	Lipitor

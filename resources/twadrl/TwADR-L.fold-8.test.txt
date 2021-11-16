@@ -1,0 +1,142 @@
+C0424295	Hyperactive behavior	unnecessarily wipe for 20 minutes
+C0424295	Hyperactive behavior	FUCKED UP
+C0424295	Hyperactive behavior	hyper
+C0085633	Mood swings	VOLATILE
+C0455769	Energy increased	productive
+C0424091	Decreased interest	makes motivation hard
+C0037011	Shoulder Pain	hurt his shoulder
+C0917801	Sleeplessness	LACKING SEVERELY IN SLEEP
+C0043012	Wakefulness	wake you up
+C0027497	Nausea	nauseous
+C0030193	Pain	hurt
+C0043096	Body Weight decreased	losing weight
+C0028643	Numbness	Foot numb
+C0043096	Body Weight decreased	weight loss
+C0043096	Body Weight decreased	losing weight
+C0086769	Panic Attacks	panic attacks
+C0235195	Sedated state	a mellow zombie
+C0030193	Pain	throbbing!
+C0233523	Antisocial behavior	anti social
+C0344315	Depressed mood	bummed
+C0858899	Attention concentration difficulty	focused
+C0042109	Urticaria	#hivewatch
+C0232461	Increased appetite (finding)	hungry at night
+C0014488	Epicondylitis	#tennis elbow
+C0235169	Excitability	had me in my feelings
+C0037383	Sneezing	sneezing fits
+C0085633	Mood swings	odramatic
+C0235169	Excitability	got me to the ceiling
+C0233514	Abnormal behavior	I'm crazy
+C0424295	Hyperactive behavior	fast as @RealPaigeWWE talks
+C0013144	Drowsiness	my eyes won't stay open
+C0553668	Labored breathing	makes me gag when I cough
+C0003467	Anxiety	anxiety
+C0235146	Euphoric mood	feel great
+C0006325	Bruxism	clench my jaws
+C1443060	Feeling abnormal	feel weird
+C0011570	Mental Depression	depression
+C0278061	Abnormal mental state	trippin
+C0596170	Binge eating disorder	I'm determined to not become a ravenous asshole
+C0235195	Sedated state	quiet
+C2830004	Somnolence	make me sleepy
+C0151767	Liver tenderness	gut pain
+C2830004	Somnolence	groggy
+C0917801	Sleeplessness	awake approx 36-38 hours
+C1291077	Abdominal bloating	ballooning
+C0041671	Attention Deficit Disorder	attention deficit disorder
+C1443060	Feeling abnormal	feeling like shit
+C0232462	Decrease in appetite	don't hunger or thirst
+C0005586	Bipolar Disorder	bipolar
+C0221100	Hangover from any Alcohol or Other Drugs substance	hangover
+C0086769	Panic Attacks	panic attack
+C0043094	Weight Gain	gained over 50 pounds
+C2830004	Somnolence	I take an hour nap right away
+C0220870	Lightheadedness	lightheaded
+C0010200	Coughing	cough
+C0086769	Panic Attacks	panic attack
+C2939186	Disturbance in mood	about to lose my mind
+C0016204	Flatulence	gas
+C0278061	Abnormal mental state	different person
+C0085633	Mood swings	mood swings
+C0242350	Erectile dysfunction	dick been limp all day
+C1269683	Major Depressive Disorder	suicide thoughts
+C0043096	Body Weight decreased	get too skinny
+C0027497	Nausea	nauseous
+C0013144	Drowsiness	I am falling asleep
+C0002957	Anger	rage
+C0087169	Withdrawal Symptoms	withdrawals
+C0037317	Sleep disturbances	trouble sleeping
+C0035078	Kidney Failure	kidneys shut down
+C0917801	Sleeplessness	insomnia
+C0233479	Elevated mood	feeling good
+C0043012	Wakefulness	wide awake
+C2939186	Disturbance in mood	had me in my feelings
+C0851444	Allergic conditions	allergic
+C0018681	Headache	headache
+C0087169	Withdrawal Symptoms	#withdrawals
+C0232602	Retching	dry heaving
+C0917801	Sleeplessness	I'm still awake
+C0234428	Consciousness abnormal	wired
+C0087169	Withdrawal Symptoms	seroquel withdrawal
+C0037011	Shoulder Pain	hurt his shoulder
+C0016927	Gagging	gag
+C2830004	Somnolence	14 hours of it daily
+C0086769	Panic Attacks	panic attacks
+C0424295	Hyperactive behavior	hyper
+C1443060	Feeling abnormal	feel like I have super powers
+C1611174	Post-traumatic pain	pain
+C0424295	Hyperactive behavior	like
+C0556446	Drug craving	actually went ok my hands and knees trying to find a half
+C1443060	Feeling abnormal	feeling very different
+C0344232	Blurred vision	blurry vision
+C0393760	Initial insomnia	won't sleep
+C0013144	Drowsiness	sleepy
+C0235240	Pounding heart	heart race 100mph
+C0497364	Localized rash	Rash
+C0917801	Sleeplessness	wide awake
+C0278061	Abnormal mental state	stupid brain
+C0314719	Dryness of eye	eyes burn
+C0030193	Pain	hurts!
+C0455769	Energy increased	got me to the ceiling
+C0010709	Cyst	ulcers
+C0030193	Pain	pain
+C0232462	Decrease in appetite	not being able to eat
+C1268766	Blood pressure alteration (finding)	blood pressure thing
+C2830004	Somnolence	drowsy
+C0087169	Withdrawal Symptoms	withdrawal
+C0392674	Exhaustion	exhausted
+C0231749	Knee pain	need cortisone shots for my knees
+C0917801	Sleeplessness	LACKING SEVERELY IN SLEEP
+C0241157	Pustule	pimples
+C0344232	Blurred vision	blurry vision both eyes
+C0030319	Panic Disorder	anxiety
+C0006370	Bulimia	bulimia
+C0344315	Depressed mood	miserable
+C0234428	Consciousness abnormal	an empty brain
+C0700590	Increased sweating	makes me sweat so much
+C1443060	Feeling abnormal	feel ill and shitty 24/7
+C0043012	Wakefulness	awake
+C0087169	Withdrawal Symptoms	Miss your Prozac dose
+C1291077	Abdominal bloating	bloated
+C0235169	Excitability	got me to the ceiling
+C0030193	Pain	hit by a train
+C0393760	Initial insomnia	wide awake yet again past 1:00 a.m
+C0087169	Withdrawal Symptoms	withdrawal
+C0233632	Disturbance in thinking	feeling like the same day
+C2830004	Somnolence	fell asleep
+C0020175	Hunger	ridiculously hungry
+C2830004	Somnolence	knocked me out
+C0027932	Neurotic Disorders	neurotic mess
+C0006370	Bulimia	I can't fucking purge
+C0700590	Increased sweating	sweat
+C0234894	Dermatitis acneiform	acne
+C0497364	Localized rash	Rash
+C0039971	Thirst	dry
+C2939186	Disturbance in mood	today i think i'm hilarious
+C0423757	Skin thinness	thinning skin
+C0233459	Emotional disorder	emotionally numb
+C1510472	Drug Dependence	my mom wont let me not take adderall i hate this
+C0220870	Lightheadedness	dizziness
+C0917801	Sleeplessness	Still awake
+C0004604	Back Pain	back ache
+C0087169	Withdrawal Symptoms	withdrawals

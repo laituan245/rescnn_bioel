@@ -1,0 +1,143 @@
+C0043012	Wakefulness	wake up
+C0235165	Mania acute	mania
+C0022107	Irritable Mood	unnecessarily impatient
+C0003467	Anxiety	anxiety
+C2939186	Disturbance in mood	had me in my feelings
+C0162298	Joint stiffness	joints are also hurting
+C0011551	Depersonalization	feel like a zombie
+C2939186	Disturbance in mood	had me in my feelings
+C0555724	On examination - dry lips	dry mouth
+C0424295	Hyperactive behavior	wast tired
+C1963951	Acute overdose	doubling up on my adderall
+C0018681	Headache	headaches
+C1443060	Feeling abnormal	feel weird
+C0344315	Depressed mood	miserable
+C0232459	Abnormal digestive tract function	Stomach messed up
+C0022107	Irritable Mood	pissed off about everything
+C0541854	Daytime sleepiness	sleep the day away
+C0018681	Headache	mild headache
+C1971624	Loss of appetite (finding)	not being able to eat
+C0270549	Generalized Anxiety Disorder	anxiety
+C0027497	Nausea	Finna thrown up
+C0281774	Acute psychosis	psychosis
+C0235890	Migraine aggravated	migraines
+C0003467	Anxiety	ANXIOUS
+C0424295	Hyperactive behavior	hyper
+C0476273	Respiratory distress	can't breathe
+C0235169	Excitability	had me in my feelings
+C0233514	Abnormal behavior	crazy
+C0409497	Joint injury	tennis elbow
+C0030486	Paraplegia	paraplegic
+C2830004	Somnolence	sleepy
+C0522172	Feeling drunk	feel drunk
+C0004096	Asthma	asthma
+C0233414	Disturbance in attention	being distracted
+C0043094	Weight Gain	30 lbs in 6 weeks
+C0233973	Painful erection	painful b..
+C0011551	Depersonalization	zombie
+C0149931	Migraine Disorders	headache
+C0917801	Sleeplessness	sleep deprivation
+C0005586	Bipolar Disorder	bipolar
+C0004936	Mental disorders	#mentalhealth
+C0043012	Wakefulness	wide awake
+C0424295	Hyperactive behavior	hyperactive
+C0002957	Anger	Anger
+C0278061	Abnormal mental state	about to lose my mind
+C1262141	Poor quality sleep	wrecking my sleep
+C0085633	Mood swings	so dramatic
+C0234238	Ache	Achy
+C0455769	Energy increased	got me to the ceiling
+C0455769	Energy increased	like a caffeine overdose
+C0087169	Withdrawal Symptoms	come down
+C0522224	Paralysed	paralyzed
+C0851444	Allergic conditions	allergic
+C0034634	Rage	Rage
+C0232461	Increased appetite (finding)	appetite on 10
+C0917801	Sleeplessness	thinking it was 8pm
+C0233715	Speech impairment	blurted out every answer
+C0234458	Abnormal dreams	wicked weird dreams
+C0424295	Hyperactive behavior	walking up and down broad
+C0235196	Suicidal tendency	Not sure Im going to be willing to go for a week feeling like this
+C0853619	Local swelling	My knee has gotten all swollen
+C0087169	Withdrawal Symptoms	sertraline withdrawal
+C0037383	Sneezing	sneezing
+C0030252	Palpitations	heart race 100mph
+C0220870	Lightheadedness	dizziness
+C0553721	Sweating decreased	reduced sweating
+C0085633	Mood swings	odramatic
+C0455769	Energy increased	wide awake
+C0012833	Dizziness	dizzy
+C2830004	Somnolence	sleepy
+C0034634	Rage	irrational rage
+C0393761	Middle insomnia	insomnia
+C0013144	Drowsiness	sleepy
+C0036973	Shivering	hives
+C1456784	Paranoia	paranoid
+C0022107	Irritable Mood	cranky
+C0235146	Euphoric mood	high
+C0003873	Rheumatoid Arthritis	RHEUMATOID ARTHRITIS
+C0003467	Anxiety	anxiety
+C0038999	Swelling	swelled
+C0003467	Anxiety	Anxiety
+C0851578	Sleep Disorders	makes me sleepy
+C0152128	Drug withdrawal syndrome	withdrawal
+C0043096	Body Weight decreased	weight loss
+C0015672	Fatigue	zombie
+C0013182	Drug Allergy	allergic reaction
+C0161479	Nerve injury	Pinched nerve still tingling
+C0028084	Nightmares	nightmares
+C0427086	Involuntary Movements	wiggling
+C0040822	Tremor	tremor
+C0085633	Mood swings	VOLATILE
+C0231530	Muscle twitch	face twitch
+C0028084	Nightmares	nightmares
+C0003467	Anxiety	anxiety
+C0012833	Dizziness	dizziness
+C0041671	Attention Deficit Disorder	ADD
+C0151602	Swelling face	face is swollen
+C0233514	Abnormal behavior	absolutely uncontrollable
+C0917801	Sleeplessness	I highly doubt it
+C0003873	Rheumatoid Arthritis	RHEUMATOID ARTHRITIS
+C0455769	Energy increased	got me to the ceiling
+C0043096	Body Weight decreased	I lost 10 lbs in a day from not eating
+C0030193	Pain	pain
+C0234458	Abnormal dreams	insane and crazy af dreams
+C0006444	Bursitis	Inflamed bursa
+C0235169	Excitability	in my feelings
+C0700361	Emotional distress	meltdown
+C0851444	Allergic conditions	allergic reaction
+C0233794	Memory impairment	wrecked my memory
+C0424166	Social fear	Freaking out
+C0162298	Joint stiffness	clench my jaws
+C0018790	Cardiac Arrest	heart attack
+C0424295	Hyperactive behavior	unstoppable
+C0393761	Middle insomnia	insomnia
+C0021368	Inflammation	swollen
+C0022107	Irritable Mood	cranky
+C0344320	Vivid dreams	lucid dreamer
+C0012833	Dizziness	dizziness
+C0087169	Withdrawal Symptoms	withdrawal.
+C0233401	Psychiatric symptom	hypomanic
+C0520962	Pain localised	painful b..
+C0338614	Psychotic episode	psychotic break
+C0235169	Excitability	in my feelings
+C0151474	Alcohol intolerance	feel terrible when I drink
+C0018790	Cardiac Arrest	heart attack
+C0030193	Pain	pain
+C0003467	Anxiety	anxiety
+C0221170	Muscular stiffness	numbness
+C0018524	Hallucinations	bazaar thoughts
+C0036974	Shock	Weird full body electrical shocks
+C0393760	Initial insomnia	wide awake
+C0393760	Initial insomnia	Insomnia
+C0022107	Irritable Mood	cranky
+C0022107	Irritable Mood	mean
+C0013144	Drowsiness	still tired
+C0151786	Muscle Weakness	weak
+C0015672	Fatigue	Moving immensely slow
+C0085633	Mood swings	had me in my feelings
+C1971624	Loss of appetite (finding)	barley eating
+C0043387	Yawning	yawns
+C0004936	Mental disorders	MY MIND IS GONE
+C0086769	Panic Attacks	panic attacks
+C0003467	Anxiety	I'm scared

@@ -1,0 +1,119 @@
+C0028643	Numbness	paraplegic
+C1443060	Feeling abnormal	feel like a malnourished toe
+C0235165	Mania acute	mania
+C0022107	Irritable Mood	unnecessarily impatient
+C0152128	Drug withdrawal syndrome	crashing
+C0011570	Mental Depression	depression
+C0003467	Anxiety	anxious
+C0235169	Excitability	hyped
+C2939186	Disturbance in mood	had me in my feelings
+C0043012	Wakefulness	would go 48 hours
+C0541854	Daytime sleepiness	making myself get out of bed
+C0344315	Depressed mood	miserable
+C0018801	Heart failure	heart attack
+C0022107	Irritable Mood	pissed off
+C0030193	Pain	throbbing!
+C0043094	Weight Gain	the 10 lbs I gained
+C0013144	Drowsiness	drowsy
+C0233794	Memory impairment	screwing with my short term memory
+C0344315	Depressed mood	bummed
+C0281774	Acute psychosis	psychosis
+C0002957	Anger	monster
+C2830004	Somnolence	sleepy
+C0030318	Panic	shooting
+C0018790	Cardiac Arrest	heart attack
+C0234458	Abnormal dreams	wicked weird dreams
+C0085633	Mood swings	mood swings
+C0030193	Pain	throbbing
+C2830004	Somnolence	take naps
+C0917801	Sleeplessness	I can't remember the last time I slept
+C0042963	Vomiting	vomiting
+C0013144	Drowsiness	my eyes won't stay open
+C0220870	Lightheadedness	dizzy
+C0087169	Withdrawal Symptoms	withdrawals
+C2830004	Somnolence	tired
+C0553668	Labored breathing	need to gulp air randomly
+C0011570	Mental Depression	depression
+C0016512	Foot pain	my foot feel worse
+C0344232	Blurred vision	messing with my visio
+C0694563	Excessive daytime somnolence	sleeping standing up
+C0234238	Ache	Achy
+C0012833	Dizziness	dizzy
+C0520962	Pain localised	pain
+C0917801	Sleeplessness	awake approx 36-38 hours
+C0085632	Indifferent mood	it's feeling like the same thing
+C0497364	Localized rash	itchy rash
+C0038999	Swelling	swelling
+C0087169	Withdrawal Symptoms	my adderall got cut in half and now I'm dying
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0027497	Nausea	nausea
+C0003467	Anxiety	anxious
+C0086769	Panic Attacks	panic attack
+C0424295	Hyperactive behavior	uncontrollable
+C0233715	Speech impairment	blurted out every answer
+C0235165	Mania acute	manic episode
+C1456784	Paranoia	paranoid
+C0028643	Numbness	can't feel limbs
+C1269683	Major Depressive Disorder	suicide thoughts
+C0037383	Sneezing	sneezing
+C0235309	Upset stomach	Stomach messed up
+C2830004	Somnolence	tired
+C0030252	Palpitations	heart race 100mph
+C0034634	Rage	rage
+C0549209	Feeling jittery	jitters
+C0542476	Forgetfulness	forgot
+C0026821	Muscle Cramp	cramps
+C0043096	Body Weight decreased	weight loss
+C0018681	Headache	headache
+C2939186	Disturbance in mood	got me in my feelings
+C0042963	Vomiting	puking everywhere
+C0917801	Sleeplessness	awake
+C0037011	Shoulder Pain	hurt his shoulder
+C0424166	Social fear	~public~ friendly
+C0152128	Drug withdrawal syndrome	withdrawal
+C2830004	Somnolence	14 hours of it daily
+C0476273	Respiratory distress	Stops your breathing
+C0235234	Dry throat	dry mouth
+C0037763	Spasm	brain fart
+C1611174	Post-traumatic pain	pain
+C0424166	Social fear	scared
+C0003467	Anxiety	#anxiety
+C0162298	Joint stiffness	joint pain
+C0853619	Local swelling	lower extremities swelling up
+C0344315	Depressed mood	feel like
+C0087169	Withdrawal Symptoms	cigarette withdrawal
+C0423757	Skin thinness	thins the skin
+C0030193	Pain	hurts!
+C0455769	Energy increased	got me to the ceiling
+C2830004	Somnolence	sleepy
+C0728899	Intoxication	trippin
+C0027497	Nausea	nauseous
+C0392674	Exhaustion	exhausted
+C0859023	Talkativeness	cant shut up for the whole day
+C2830004	Somnolence	drowsy
+C0344232	Blurred vision	blurry vision both eyes
+C0038999	Swelling	parotid gland swelling
+C0455769	Energy increased	awake
+C0003469	Anxiety Disorders	anxious
+C0011551	Depersonalization	zombie like state
+C0240735	Personality change	changed my personality
+C0030193	Pain	pain
+C0043096	Body Weight decreased	weight loss
+C0042963	Vomiting	vomiting
+C0338614	Psychotic episode	psychotic break
+C0455769	Energy increased	got me to the ceiling
+C0455769	Energy increased	got me to the ceiling
+C0013144	Drowsiness	sleepy
+C0027932	Neurotic Disorders	neurotic mess
+C0235169	Excitability	in my feelings
+C0424295	Hyperactive behavior	has me like
+C0018524	Hallucinations	permanent hallucinations
+C0018834	Heartburn	heartburn
+C0393760	Initial insomnia	wide awake
+C0393760	Initial insomnia	Insomnia
+C0015672	Fatigue	tired
+C2939186	Disturbance in mood	mood swings
+C0040822	Tremor	shaking
+C2939186	Disturbance in mood	had me in my feelings
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0003467	Anxiety	I'm scared

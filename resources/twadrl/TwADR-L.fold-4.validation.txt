@@ -1,0 +1,120 @@
+C0424295	Hyperactive behavior	hyper
+C0034634	Rage	angry
+C0022107	Irritable Mood	I feel like
+C0011570	Mental Depression	depression
+C0043096	Body Weight decreased	making me.natural weight
+C0917801	Sleeplessness	WIDE AWAKE
+C2939186	Disturbance in mood	had me in my feelings
+C0409497	Joint injury	two cortisone injections to get my shoulder right
+C0043012	Wakefulness	wake you up
+C0022107	Irritable Mood	hangry
+C0520962	Pain localised	makes my fingers hurt
+C0232462	Decrease in appetite	haven't eaten since like 9
+C0541854	Daytime sleepiness	make you a zombie
+C0455769	Energy increased	got me to the ceiling
+C0344320	Vivid dreams	gives me man vivid dreams
+C0003467	Anxiety	anxiety
+C0233407	Disorientation	very stupid
+C0030193	Pain	throbbing!
+C0042963	Vomiting	puking
+C0087169	Withdrawal Symptoms	Discontinuation
+C0233523	Antisocial behavior	anti social
+C0233794	Memory impairment	screwing with my short term memory
+C0270458	Psychotic depression	bipolar
+C2830004	Somnolence	tired
+C0085633	Mood swings	mood swings
+C0003467	Anxiety	anxious
+C2830004	Somnolence	sleepy
+C0030318	Panic	shooting
+C2830004	Somnolence	your brain is still sleepy
+C0424295	Hyperactive behavior	fast as @RealPaigeWWE talks
+C0086769	Panic Attacks	panic
+C0087169	Withdrawal Symptoms	venlafaxine withdrawal
+C0232431	Cold sweat	scold sweat
+C0034634	Rage	rage
+C0751494	Convulsive Seizures	tremor
+C1963951	Acute overdose	30-day adderall supply lasts me like a week
+C0151827	Eye pain	eyes burn from lack of blinking
+C0424295	Hyperactive behavior	literally tweeted non stop from like 7pm to 8am the next day
+C0424295	Hyperactive behavior	hypomanic
+C0087169	Withdrawal Symptoms	withdrawal
+C0700031	Anxiety attack	anxiety
+C2939186	Disturbance in mood	had me in my feelings
+C0520962	Pain localised	hip pain
+C0917801	Sleeplessness	awake approx 36-38 hours
+C0151821	Accidental overdose	accidentally double dosed
+C0013144	Drowsiness	slows me down
+C0043094	Weight Gain	gain more weight
+C0015672	Fatigue	fall asleep
+C0497364	Localized rash	itchy rash
+C0917801	Sleeplessness	I was up at 6 am
+C0038999	Swelling	swelling
+C0041671	Attention Deficit Disorder	ADD
+C0917801	Sleeplessness	I'm wide awake once again after 1:00 a.m
+C0043012	Wakefulness	been this awake
+C0004096	Asthma	gulp air randomly
+C0026858	Musculoskeletal Pain	pain
+C2830004	Somnolence	groggy
+C0042571	Vertigo	vertigo
+C0086769	Panic Attacks	a literal panic attack
+C0234369	Trembling	shaking
+C0027497	Nausea	nauseous
+C2939186	Disturbance in mood	making me insane
+C0013144	Drowsiness	I am falling asleep
+C0278079	Dependence psychological	useless without
+C0542476	Forgetfulness	forgot
+C0026821	Muscle Cramp	cramps
+C0022107	Irritable Mood	grumpy
+C0917801	Sleeplessness	insomnia
+C0162820	Dermatitis, Allergic Contact	allergic
+C0030193	Pain	hurting so bad
+C0424295	Hyperactive behavior	type to much
+C0041671	Attention Deficit Disorder	distracted
+C0424295	Hyperactive behavior	hyper
+C0344315	Depressed mood	makes you depress
+C1971624	Loss of appetite (finding)	eating to survive
+C0087169	Withdrawal Symptoms	withdrawal
+C0853348	Arthropod bite	bug bites
+C0027497	Nausea	makes me a little less nauseous
+C0455769	Energy increased	got me to the ceiling
+C0042963	Vomiting	vomit
+C0037317	Sleep disturbances	fucked my entire sleeping pattern
+C0235146	Euphoric mood	feel like I have super powers
+C0233514	Abnormal behavior	before i do anything else stupid
+C0344315	Depressed mood	feel like
+C0030193	Pain	hurts!
+C0241934	Hypomania	hypomania
+C0455769	Energy increased	got me to the ceiling
+C0235309	Upset stomach	awful feeling in my stomach
+C0700031	Anxiety attack	panic attacks
+C0027497	Nausea	nauseous
+C0393760	Initial insomnia	insomniac
+C0043094	Weight Gain	making me fat
+C0149931	Migraine Disorders	migraine
+C0233415	Distractibility	distracted
+C0018681	Headache	headache free
+C0020175	Hunger	#hungry
+C0037383	Sneezing	sneezing fits
+C0424166	Social fear	quiet
+C0015672	Fatigue	still falling asleep
+C0011551	Depersonalization	empty
+C0034634	Rage	angry
+C0086132	Depressive Symptoms	depression symptoms
+C0003469	Anxiety Disorders	anxious
+C0006325	Bruxism	clench my jaw.
+C0919661	Heart alternation	heart palpitations
+C1291077	Abdominal bloating	makes me so damn bloated
+C0018681	Headache	headaches
+C0152030	Skin irritation	effect the skin
+C2830004	Somnolence	knocked me out
+C0034634	Rage	mad
+C0700590	Increased sweating	sweat
+C0270458	Psychotic depression	sick
+C0233632	Disturbance in thinking	thinking it was 8pm
+C0344315	Depressed mood	miserable
+C1510472	Drug Dependence	my mom wont let me not take adderall i hate this
+C0522224	Paralysed	paralyzed
+C0235966	Dreaming excessive	#dreams whilst taking #Effexor are #crazy #messed up &amp; totally #weird
+C0700031	Anxiety attack	panic attacks
+C0086769	Panic Attacks	panic attack
+C0043012	Wakefulness	awake approx 36-38 hours

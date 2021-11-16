@@ -1,0 +1,140 @@
+C0455769	Energy increased	still not tired
+C0011991	Diarrhea	diarrhea
+C0087169	Withdrawal Symptoms	Miss your Prozac does
+C0424295	Hyperactive behavior	unnecessarily wipe for 20 minutes
+C0003123	Anorexia	I haven't eaten in 3 days
+C0424295	Hyperactive behavior	FUCKED UP
+C2939186	Disturbance in mood	had me in my feelings
+C0410158	Muscle damage	rotted my muscles
+C0232461	Increased appetite (finding)	eating to survive
+C1510472	Drug Dependence	#Junkie
+C0555724	On examination - dry lips	dry mouth
+C1971624	Loss of appetite (finding)	I don't hunger or thirst
+C0011071	Sudden death	sudden death
+C0009676	Confusion	conundrum
+C1443060	Feeling abnormal	feel weird
+C0917801	Sleeplessness	incapable of sleep
+C0233459	Emotional disorder	have no emotions
+C0455769	Energy increased	got me to the ceiling
+C0038435	Stress	stressed
+C0022107	Irritable Mood	pissed off
+C0013144	Drowsiness	sleepy
+C0013144	Drowsiness	drowsy
+C0013144	Drowsiness	drowsy
+C0041657	Unconscious State	knock me out
+C0233401	Psychiatric symptom	feeling proper psycho
+C0151836	Paranoid reaction	paranoid
+C0424000	Feeling suicidal (finding)	the only reason I haven't downed all these antidepressants is because sertraline overdose rarely results in death
+C0003467	Anxiety	ANXIOUS
+C0014488	Epicondylitis	#tennis elbow
+C0917801	Sleeplessness	WIDE AWAKE
+C0021368	Inflammation	Inflamed bursa
+C0012833	Dizziness	dizziness
+C0234458	Abnormal dreams	totally #weird
+C0877225	Bone density decreased	bones brittle
+C0043094	Weight Gain	30lbs that I gained
+C0520962	Pain localised	fingers hurt
+C0002957	Anger	the fucking roid rage
+C0011551	Depersonalization	zombie
+C0030193	Pain	pain
+C0016512	Foot pain	my foot feel worse
+C0917801	Sleeplessness	sleep deprivation
+C0917801	Sleeplessness	awake until 8am
+C0596170	Binge eating disorder	I'm determined to not become a ravenous asshole
+C0037320	Night Terrors	night terrors
+C0917801	Sleeplessness	Keeps me up all night
+C0041657	Unconscious State	fainting
+C0235169	Excitability	got me to the ceiling
+C0424295	Hyperactive behavior	hyperactive
+C0085632	Indifferent mood	have no emotions
+C0455769	Energy increased	like a caffeine overdose
+C0087169	Withdrawal Symptoms	come down
+C0522224	Paralysed	paralyzed
+C0917801	Sleeplessness	I'm wide awake once again after 1:00 a.m
+C0851444	Allergic conditions	allergic
+C0003467	Anxiety	anxious
+C0220870	Lightheadedness	lightheaded
+C0232461	Increased appetite (finding)	appetite on 10
+C0235240	Pounding heart	heart beat for being too strong
+C0455769	Energy increased	jacked up
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0853619	Local swelling	My knee has gotten all swollen
+C0242350	Erectile dysfunction	dick been limp all day
+C1269683	Major Depressive Disorder	suicide thoughts
+C0012833	Dizziness	lightheaded
+C0278061	Abnormal mental state	trippin
+C0087169	Withdrawal Symptoms	withdrawals
+C2830004	Somnolence	groggy
+C0001807	Aggressive behavior	threatened to hurt me
+C0043096	Body Weight decreased	weight loss
+C0034634	Rage	irrational rage
+C0424295	Hyperactive behavior	hyper
+C0851444	Allergic conditions	allergic reaction
+C0022107	Irritable Mood	sour mood
+C0013144	Drowsiness	drowsy
+C0851444	Allergic conditions	allergic
+C0270458	Psychotic depression	I am so sick and angry
+C0232602	Retching	dry heaving
+C0917801	Sleeplessness	I'm still awake
+C0013146	Drug abuse	hit me too hard
+C0003467	Anxiety	anxiety
+C1263846	Attention deficit hyperactivity disorder	annoying
+C0021843	Intestinal Obstruction	functional obstructions
+C0085632	Indifferent mood	apathy
+C0040822	Tremor	brain zaps
+C1971624	Loss of appetite (finding)	not hungry
+C0476273	Respiratory distress	Stops your breathing
+C0424295	Hyperactive behavior	hyper
+C0012833	Dizziness	dizziness
+C0853348	Arthropod bite	bug bites
+C0028084	Nightmares	nightmares
+C0556446	Drug craving	actually went ok my hands and knees trying to find a half
+C0152128	Drug withdrawal syndrome	crashing
+C0162298	Joint stiffness	joint pain
+C0085633	Mood swings	VOLATILE
+C0013144	Drowsiness	sleepy
+C0427086	Involuntary Movements	shaking her leg
+C2830004	Somnolence	falling asleep
+C0221100	Hangover from any Alcohol or Other Drugs substance	pookied out
+C0003873	Rheumatoid Arthritis	RHEUMATOID ARTHRITIS
+C0020175	Hunger	ridiculously hungry
+C0424295	Hyperactive behavior	up all morning
+C0424091	Decreased interest	intense apathy
+C0700031	Anxiety attack	panic attacks
+C0039070	Syncope	I almost pass out from not eating
+C0003467	Anxiety	nervous wreck
+C0020175	Hunger	#hungry
+C0520962	Pain localised	muscular, joint, nerve pain
+C0497365	Rash generalised	itchy rash
+C0393761	Middle insomnia	insomnia
+C0006325	Bruxism	clench my jaw.
+C0042963	Vomiting	always sick
+C0700590	Increased sweating	makes me sweat so much
+C0087169	Withdrawal Symptoms	Discontinuation symptoms
+C1510472	Drug Dependence	is probably not meant to be taken everyday tbh
+C1971624	Loss of appetite (finding)	lack of appetite
+C0344320	Vivid dreams	mad vivid dreams
+C1456784	Paranoia	paranoid
+C0455769	Energy increased	got me to the ceiling
+C0393760	Initial insomnia	wide awake yet again past 1:00 a.m
+C0011570	Mental Depression	feel like crap
+C1262141	Poor quality sleep	wrecking my sleep
+C0003467	Anxiety	anxiety
+C3536794	Sad mood	loneliness
+C0027932	Neurotic Disorders	neurotic mess
+C0006370	Bulimia	I can't fucking purge
+C0152128	Drug withdrawal syndrome	withdrawal symptoms
+C0270458	Psychotic depression	sick
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0022107	Irritable Mood	cranky
+C0152128	Drug withdrawal syndrome	withdrawals
+C0043094	Weight Gain	weight gain
+C0393760	Initial insomnia	#insomnia
+C0030319	Panic Disorder	anxiety
+C0424295	Hyperactive behavior	do everything
+C0027497	Nausea	dizziness
+C0021368	Inflammation	hypertrophic scarring
+C0015672	Fatigue	Moving immensely slow
+C1510472	Drug Dependence	my mom wont let me not take adderall i hate this
+C2939186	Disturbance in mood	had me in my feelings
+C0917801	Sleeplessness	Still awake

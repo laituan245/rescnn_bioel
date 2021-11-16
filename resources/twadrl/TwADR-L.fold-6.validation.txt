@@ -1,0 +1,112 @@
+C0476273	Respiratory distress	asthma
+C0424295	Hyperactive behavior	FUCKED UP
+C0520962	Pain localised	butt pain
+C0038013	Ankylosing spondylitis	Spondylitis
+C0003467	Anxiety	anxiety
+C0393760	Initial insomnia	#insomnia
+C0410158	Muscle damage	rotted my muscles
+C0233632	Disturbance in thinking	expense of clear thinking
+C0520962	Pain localised	makes my fingers hurt
+C0011071	Sudden death	sudden death
+C0344315	Depressed mood	miserable
+C0013144	Drowsiness	intense yawns
+C0541854	Daytime sleepiness	make you a zombie
+C3536794	Sad mood	feel like shit
+C0018524	Hallucinations	feeling very differen
+C0027497	Nausea	Finna thrown up
+C0039971	Thirst	thirsty
+C0423757	Skin thinness	thins the skin
+C0013595	Eczema	itching
+C0235169	Excitability	got me to the ceiling
+C0234458	Abnormal dreams	totally #weird
+C0030486	Paraplegia	paraplegic
+C0004936	Mental disorders	Mental illness
+C0151827	Eye pain	eyes burn from lack of blinking
+C0011570	Mental Depression	depression
+C0917801	Sleeplessness	insomnia
+C0013595	Eczema	dry skin
+C0041657	Unconscious State	fainting
+C0002957	Anger	rage
+C1262141	Poor quality sleep	wrecking my sleep
+C0018681	Headache	headaches
+C0085632	Indifferent mood	it's feeling like the same thing
+C0043094	Weight Gain	gained over 50 pounds
+C0004096	Asthma	gulp air randomly
+C0855242	Disturbance in sexual arousal	kills libido
+C0233715	Speech impairment	blurted out every answer
+C2830004	Somnolence	So sleepy
+C0344315	Depressed mood	depressed
+C0853619	Local swelling	My knee has gotten all swollen
+C0235309	Upset stomach	Stomach messed up
+C0030252	Palpitations	heart race 100mph
+C2830004	Somnolence	falling asleep
+C0553721	Sweating decreased	reduced sweating
+C2939186	Disturbance in mood	FUCKED UP feelings
+C0085633	Mood swings	odramatic
+C0455769	Energy increased	got me to the ceiling
+C0549209	Feeling jittery	jitters
+C0037317	Sleep disturbances	waking me up
+C0034634	Rage	irrational rage
+C0085633	Mood swings	mood changes
+C2939186	Disturbance in mood	had me in my feelings
+C2939186	Disturbance in mood	got me in my feelings
+C3665386	Abnormal vision	messing with my vision
+C0042963	Vomiting	puking everywhere
+C0917801	Sleeplessness	I'm still awake
+C0003467	Anxiety	anxiety
+C0233514	Abnormal behavior	behaviour problems
+C0085632	Indifferent mood	apathy
+C0424295	Hyperactive behavior	when ur eyes have never been wider
+C0012833	Dizziness	dizziness
+C0600104	Obsessive compulsive behavior	incredibly anal
+C0030252	Palpitations	to speed up my hear
+C0235169	Excitability	had me in my feelings
+C0016512	Foot pain	ankle hurts
+C0015672	Fatigue	making myself get out of bed
+C0022107	Irritable Mood	be a fucking bitch
+C0497364	Localized rash	Rash
+C0027497	Nausea	dry heaving
+C0917801	Sleeplessness	wide awake
+C0344315	Depressed mood	depressed
+C2830004	Somnolence	sleepy
+C0917801	Sleeplessness	was up for 4 days
+C0917801	Sleeplessness	awake
+C2939186	Disturbance in mood	bitch
+C0005586	Bipolar Disorder	#bipolar
+C0043012	Wakefulness	losing my mind
+C0232462	Decrease in appetite	not being able to eat
+C0027497	Nausea	nauseous
+C0392674	Exhaustion	tired
+C0917801	Sleeplessness	no sleep
+C0851444	Allergic conditions	allergic reaction
+C0859023	Talkativeness	cant shut up for the whole day
+C0241157	Pustule	pimples
+C0022107	Irritable Mood	rantful
+C0038999	Swelling	parotid gland swelling
+C0424295	Hyperactive behavior	way too hyper
+C0018790	Cardiac Arrest	heart attack
+C0455769	Energy increased	awake
+C0021368	Inflammation	swollen
+C0022107	Irritable Mood	cranky
+C0037274	Dermatologic disorders	thinning skin
+C0270458	Psychotic depression	soulless robot
+C0022107	Irritable Mood	rantful
+C0003467	Anxiety	terrified
+C0393761	Middle insomnia	It's 6 am and this adderall got me reevaluating my whole life
+C0018681	Headache	headaches
+C2939186	Disturbance in mood	had me in my feelings
+C0018524	Hallucinations	mad hallucinations
+C0549385	Feeling of body temperature change	run a little hotter
+C3536794	Sad mood	loneliness
+C0018524	Hallucinations	1pm to 3am real quick
+C0022107	Irritable Mood	resting bitch face
+C0235169	Excitability	in my feelings
+C0393760	Initial insomnia	#insomnia
+C0006325	Bruxism	grinding my teeth
+C0541854	Daytime sleepiness	sleepy
+C0012833	Dizziness	dizzy
+C0151786	Muscle Weakness	weak
+C2939186	Disturbance in mood	had me in my feelings
+C0541799	Bad taste	mouth taste terrible
+C0235966	Dreaming excessive	#dreams whilst taking #Effexor are #crazy #messed up &amp; totally #weird
+C0043012	Wakefulness	awake approx 36-38 hours

@@ -1,0 +1,143 @@
+C0011991	Diarrhea	diarrhea
+C0022107	Irritable Mood	mean
+C0027497	Nausea	nausea
+C0233488	Feeling despair	despair
+C0003467	Anxiety	anxious
+C0455769	Energy increased	got me to the ceiling
+C0003467	Anxiety	anxiety
+C0393761	Middle insomnia	Insomnia
+C0043012	Wakefulness	would go 48 hours
+C0270458	Psychotic depression	sick
+C0520962	Pain localised	joints are also hurting
+C2939186	Disturbance in mood	hadmeinmy feelings
+C0424295	Hyperactive behavior	got me uppppp
+C0152128	Drug withdrawal syndrome	crash
+C0541854	Daytime sleepiness	make you a zombie
+C0541941	Erection increased	make your dick hard
+C0003467	Anxiety	makes me question my whole life
+C0233407	Disorientation	very stupid
+C0042963	Vomiting	puking
+C0233794	Memory impairment	screwing with my short term memory
+C0018524	Hallucinations	feeling very differen
+C0027497	Nausea	sick
+C0039971	Thirst	thirsty
+C2830004	Somnolence	Tired
+C0917801	Sleeplessness	Wide awake
+C0003467	Anxiety	anxious
+C0220870	Lightheadedness	dizzy
+C0018790	Cardiac Arrest	heart attack
+C0455769	Energy increased	got me to the ceiling
+C0003467	Anxiety	anxiety
+C0022107	Irritable Mood	attitude
+C0043094	Weight Gain	making me fat
+C0220870	Lightheadedness	dizzy
+C0232431	Cold sweat	scold sweat
+C0549385	Feeling of body temperature change	feel like I'm on fire
+C0600104	Obsessive compulsive behavior	neat freak mode
+C0043094	Weight Gain	gain weight
+C0016512	Foot pain	my foot feel worse
+C0233414	Disturbance in attention	I can't work
+C0037320	Night Terrors	night terrors
+C0152128	Drug withdrawal syndrome	withdrawals
+C0022107	Irritable Mood	grumpy
+C0600104	Obsessive compulsive behavior	to do stuff
+C0520962	Pain localised	hip pain
+C0027497	Nausea	nauseous feeling
+C0043012	Wakefulness	wide awake
+C0087169	Withdrawal Symptoms	withdrawal
+C0553668	Labored breathing	can't breathe
+C0393761	Middle insomnia	awake in the middle of the night
+C0087169	Withdrawal Symptoms	an adderall crash
+C2242996	Has tingling sensation	tingling
+C1443060	Feeling abnormal	feel like a malnourished toe
+C0027497	Nausea	nausea
+C0018524	Hallucinations	feeling like the same day
+C0220870	Lightheadedness	faint
+C0455769	Energy increased	jacked up
+C2830004	Somnolence	groggy
+C0013144	Drowsiness	drowsy
+C0013146	Drug abuse	30-day adderall supply lasts me like a week
+C0028643	Numbness	can't feel limbs
+C0235198	Unable to concentrate	inattentive
+C0853348	Arthropod bite	bug bites
+C0027497	Nausea	nauseous
+C0233488	Feeling despair	feeling awful
+C0278061	Abnormal mental state	trippin
+C0728899	Intoxication	trippin
+C0022107	Irritable Mood	angry
+C2939186	Disturbance in mood	had me in my feelings
+C0917801	Sleeplessness	trying to get tired
+C0542476	Forgetfulness	forgot
+C0086132	Depressive Symptoms	empty/hopeless
+C0041657	Unconscious State	i'm going to pass out
+C0043094	Weight Gain	lose weight
+C0043094	Weight Gain	If I could lose the 30lbs that I gained from prednisone
+C0455769	Energy increased	got me to the ceiling
+C0270458	Psychotic depression	I am so sick and angry
+C0037383	Sneezing	sneezing
+C0004936	Mental disorders	insane
+C0497364	Localized rash	the rash
+C0030193	Pain	living in pain
+C2939186	Disturbance in mood	had me in my feelings
+C0233514	Abnormal behavior	behaviour problems
+C0235169	Excitability	got me to the ceiling
+C0038999	Swelling	a general discomfort from swelling
+C0476273	Respiratory distress	Stops your breathing
+C0012833	Dizziness	dizziness
+C0030252	Palpitations	to speed up my hear
+C1263846	Attention deficit hyperactivity disorder	hyperactive
+C0027497	Nausea	nausea
+C0455769	Energy increased	makes your body awake
+C0235146	Euphoric mood	false high
+C0043094	Weight Gain	gain 10kg
+C0022107	Irritable Mood	serious resting bitch face
+C0427086	Involuntary Movements	shaking her leg
+C0344315	Depressed mood	shitty
+C1456784	Paranoia	paranoid
+C2830004	Somnolence	falling asleep
+C0917801	Sleeplessness	awake
+C0037317	Sleep disturbances	Got 1.5 hours of sleep
+C0853348	Arthropod bite	mosquito bites
+C2830004	Somnolence	falling asleep
+C0043012	Wakefulness	losing my mind
+C0221785	Ache wrists	wrist
+C0013144	Drowsiness	light will go out of my eyes soon
+C1510472	Drug Dependence	reliant
+C0037274	Dermatologic disorders	havoc with our skins
+C0476273	Respiratory distress	asthma
+C0149931	Migraine Disorders	headache
+C0232462	Decrease in appetite	not eating
+C0393760	Initial insomnia	insomnia
+C0022107	Irritable Mood	rantful
+C2830004	Somnolence	knock me out
+C0015672	Fatigue	still falling asleep
+C1443060	Feeling abnormal	Feeling completely bonkers
+C0596170	Binge eating disorder	eat like the literal beast that you feel
+C0424000	Feeling suicidal (finding)	I want to overdose
+C0011551	Depersonalization	zombie like state
+C0393760	Initial insomnia	awake all the time
+C0033975	Psychotic Disorders	I feel like the devil is living inside my brain, forcing me to think these bazaar thoughts
+C1291077	Abdominal bloating	makes me so damn bloated
+C0038999	Swelling	swollen from a bug bite
+C0235169	Excitability	got me in my feelings
+C0600104	Obsessive compulsive behavior	clean the house
+C0232461	Increased appetite (finding)	my appetite way up
+C0455769	Energy increased	got me to the ceiling
+C0549385	Feeling of body temperature change	run a little hotter
+C0152030	Skin irritation	Slightly itch
+C0232461	Increased appetite (finding)	literally eaten a whole pizza
+C1443060	Feeling abnormal	feeling awful
+C0027497	Nausea	wanted to vent
+C0393760	Initial insomnia	I CANT SLEEP
+C0270458	Psychotic depression	sick
+C0087169	Withdrawal Symptoms	withdrawal symptoms
+C0043094	Weight Gain	weight gain
+C0043012	Wakefulness	wireddddddd
+C2939186	Disturbance in mood	mood swings
+C0015672	Fatigue	tired
+C0009676	Confusion	confused
+C2939186	Disturbance in mood	had me in my feelings
+C0235169	Excitability	got me to the ceiling
+C0278061	Abnormal mental state	bonkers
+C0028643	Numbness	numbness
+C0012833	Dizziness	head spinning a little

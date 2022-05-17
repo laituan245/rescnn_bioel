@@ -1,5 +1,8 @@
 # Biomedical Entity Linking
 
+**For reproducing our results on COMETA, please use the branch [cometa](https://github.com/laituan245/rescnn_bioel/tree/cometa).** Basically, we turn on this mode called *hard_negatives_training* when experimenting with COMETA.
+
+
 This repo provides the code for the paper [BERT might be Overkill: A Tiny but Effective Biomedical Entity Linker based on Residual Convolutional Neural Networks](https://arxiv.org/pdf/2109.02237.pdf) (EMNLP 2021 Findings).
 
 Download the pretrained embedding layer from this [link](https://drive.google.com/file/d/1zQ8mt7JI0hJWK-ilhxE93RJ6EnWZsSmj/view?usp=sharing). And set this [line](https://github.com/laituan245/rescnn_bioel/blob/main/configs/exp.conf#L123) to the path of the downloaded file.

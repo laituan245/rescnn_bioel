@@ -12,8 +12,9 @@ from models.helpers import *
 from os.path import join
 from pytorch_metric_learning.losses import MultiSimilarityLoss
 from pytorch_metric_learning.miners import MultiSimilarityMiner
-from models.bert_customized import *
+from transformers import AutoModel
 from models.cnn import *
+from transformers.adapters.configuration import PfeifferConfig
 
 # Main Classes
 class DualBertEncodersModel(BaseModel):
@@ -23,7 +24,13 @@ class DualBertEncodersModel(BaseModel):
         self.all_names_cache = AllNamesCache(None)
 
         self.transformer = AutoModel.from_pretrained(configs['transformer'])
-        self.transformer.config.gradient_checkpointing  = configs['gradient_checkpointing']
+        task_name = 'umls-synonyms'
+        adapter_config = PfeifferConfig(reduction_factor=4)
+        self.transformer.add_adapter(task_name, config=adapter_config)
+        self.transformer.train_adapter([task_name])
+        self.transformer.set_active_adapters([task_name])
+        if configs['gradient_checkpointing']:
+            self.transformer.gradient_checkpointing_enable()
         self.tokenizer = AutoTokenizer.from_pretrained(configs['transformer'], use_fast=True)
 
         # FFNN for dim reduction (if enabled)

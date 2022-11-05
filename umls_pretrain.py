@@ -22,7 +22,7 @@ from argparse import ArgumentParser
 
 def pretrain(configs):
     # Load model
-    model = LightWeightModel(configs)
+    model = DualBertEncodersModel(configs)
     model.model_type = PRETRAINING_MODEL
     save_path = join(configs['save_dir'], 'model.pt')
     print(f'Prepared the model (Params: {get_n_params(model)})')
@@ -30,9 +30,8 @@ def pretrain(configs):
     print(f'Save path {save_path}')
 
     # Load UMLS-2020 AA Full Ontology
-    #ontology = Ontology(UMLS_2020AA_FULL_FP)
-    #print('Loaded UMLS-2020 AA Full Ontology')
-    ontology = None
+    ontology = Ontology(UMLS_2020AA_FULL_FP)
+    print('Loaded UMLS-2020 AA Full Ontology')
 
     # Prepare the train set
     train, example_id = [], 0
@@ -52,7 +51,7 @@ def pretrain(configs):
 
 
     # Prepare the optimizer and the scheduler
-    optimizer = model.get_optimizer(len(train))
+    optimizer = torch.optim.Adam(model.parameters(), lr=5e-5)
     num_epoch_steps = math.ceil(len(train) / configs['batch_size'])
     print('Prepared the optimizer and the scheduler', flush=True)
 
@@ -93,6 +92,7 @@ def pretrain(configs):
                     if model_score > best_score:
                         best_score = model_score
                         torch.save({'model_state_dict': model.state_dict()}, save_path)
+                        model.transformer.save_adapter('{}-umls-synonyms/'.format(configs['transformer']), 'umls-synonyms')
                         print('Saved a new ckpt')
 
                     print('', flush=True)
@@ -100,7 +100,7 @@ def pretrain(configs):
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('-c', '--config', default='pretraining_lightweight_vdcnn')
+    parser.add_argument('-c', '--config', default='cg_basic_pretraining')
     args = parser.parse_args()
 
     # Prepare config

@@ -11,7 +11,6 @@ import numpy as np
 from transformers import *
 from math import ceil, floor
 from models.base import *
-from models.bert_customized import *
 from os.path import dirname, join, realpath, isfile
 from constants import *
 from models.modules import *
@@ -19,7 +18,6 @@ from models.helpers import *
 from os.path import join
 from pytorch_metric_learning.losses import MultiSimilarityLoss
 from pytorch_metric_learning.miners import MultiSimilarityMiner
-from models.bert_customized import *
 
 class BaseLightWeightModel(BaseModel):
     def __init__(self, configs):

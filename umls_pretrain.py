@@ -92,7 +92,11 @@ def pretrain(configs):
                     if model_score > best_score:
                         best_score = model_score
                         torch.save({'model_state_dict': model.state_dict()}, save_path)
-                        model.transformer.save_adapter('{}-umls-synonyms/'.format(configs['transformer']), 'umls-synonyms')
+                        adapter_dir = '{}-umls-synonyms'.format(configs['transformer'])
+                        if '/' in adapter_dir:
+                            adapter_dir = adapter_dir.split('/')[-1]
+                        create_dir_if_not_exist(adapter_dir)
+                        model.transformer.save_adapter(adapter_dir, 'umls-synonyms')
                         print('Saved a new ckpt')
 
                     print('', flush=True)

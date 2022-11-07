@@ -1,0 +1,28 @@
+# SIPHS-CHV/COMETA Corpus v1.01
+
+This corpus is released with a CC BY-ND-NC license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+
+Please note that the official latest version of SIPHS-CHV/COMETA can be obtained only through www.siphs.org or by contacting Prof. Nigel Collier (nhc30@cam.ac.uk). If you obtain SIPHS-CHV/COMETA elsewhere, the authors do not guarantee for the accuracy for the contents, which may be outdated.
+
+This file, along with LICENSE, is integral part of the SIPHS-CHV/COMETA distribution and **must** be included with the corpus.
+
+If you believe that SIPHS-CHV/COMETA contain content you own and you want it removed, please contact Prof. Nigel Collier (nhc30@cam.ac.uk) or follow the instruction on https://siphs.org/corpus and we will process your request as soon as possible. Please provide your Reddit username and the URL of the post with your request for verification purposes. 
+
+If you use SIPHS-CHV/COMETA in your work, please cite:
+
+@inproceedings{basaldella-2020-cometa,
+    title = "{COMETA}: A Corpus for Medical Entity Linking in the Social Media",
+    author = "Basaldella, Marco  and Liu, Fangyu, and Shareghi, Ehsan, and Collier, Nigel",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2020",
+    publisher = "Association for Computational Linguistics"
+}
+
+## Anonymisation Notes
+
+For anonymisation purposes, certain dates and username have been anonymised following these rules:
+- Dates (in the dd/mm/yyyy format or similar) have been replaced with $DATE.
+- Months have been replaced with $MONTH.
+- Years have been replaced with $YEAR.
+- Usernames have been replaced with $USER.

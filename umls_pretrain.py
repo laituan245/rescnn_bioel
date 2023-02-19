@@ -57,6 +57,8 @@ def pretrain(configs):
     print('Prepared the optimizer and the scheduler', flush=True)
 
     # Start Training
+    print('Batch size: {}'.format(configs['batch_size']))
+    print('Epochs: {}'.format(configs['epochs']))
     iters, batch_loss, best_score = 0, 0, 0
     batch_size = configs['batch_size']
     accumulated_loss = RunningAverage()

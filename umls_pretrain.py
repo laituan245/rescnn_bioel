@@ -16,6 +16,7 @@ from tqdm import tqdm
 from utils import prepare_configs, get_n_params, get_n_tunable_params, AugmentedList, RunningAverage
 from models import DualBertEncodersModel
 from constants import PRETRAINING_MODEL, UMLS_2020AA_FULL_FP, UMLS_PRETRAIN_POSITIVE_PAIRS
+from constants import BC5CDR_C, BC5CDR_D, NCBI_D, COMETA
 from data.base import Ontology, DataInstance, PretrainingPositivePairs
 from argparse import ArgumentParser
 from scripts import benchmark_model
@@ -104,11 +105,16 @@ def pretrain(configs):
 if __name__ == "__main__":
     # Parse argument
     parser = ArgumentParser()
-    parser.add_argument('-c', '--config', default='cg_basic_pretraining')
+    parser.add_argument('-c', '--config', default='cg_basic_pretraining_v2')
+    parser.add_argument('--transformer', default=None)
     args = parser.parse_args()
 
     # Prepare config
-    configs = prepare_configs(args.config, 'UMLS-2020AA-Full')
+    configs = prepare_configs(
+        config_name=args.config,
+        dataset='UMLS-2020AA-Full',
+        transformer=args.transformer
+    )
 
     # Train
     pretrain(configs)

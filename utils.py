@@ -37,7 +37,12 @@ def replace_non_ascii(text):
     if len(ver1) == len(text): return ver1
     return ver2
 
-def prepare_configs(config_name, dataset, verbose=True):
+def prepare_configs(
+    config_name,
+    dataset,
+    verbose=True,
+    transformer=None
+):
     if config_name is None: return None
 
     # Extract the requested config
@@ -49,6 +54,10 @@ def prepare_configs(config_name, dataset, verbose=True):
     if dataset:
         configs['save_dir'] = join(join(BASE_SAVE_PATH, configs['dataset']), config_name)
         create_dir_if_not_exist(configs['save_dir'])
+
+    #
+    if not transformer is None:
+        configs['transformer'] = transformer
 
     if verbose: print(configs, flush=True)
     return configs

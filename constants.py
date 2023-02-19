@@ -48,6 +48,9 @@ UMLS_2020AA_FULL_FP = '/shared/nas/data/m1/tuanml/biolinking/data/umls/umls.2020
 if not isfile(UMLS_2020AA_FULL_FP):
     # Local path
     UMLS_2020AA_FULL_FP = 'umls.2020AA.full.json'
+    if not isfile(UMLS_2020AA_FULL_FP):
+        # NCSA server
+        UMLS_2020AA_FULL_FP = '/projects/bbqy/laituan245/el/data/umls.2020AA.full.json'
 
 # Model Types
 DUMMY_MODEL = 'dummy'
@@ -69,3 +72,6 @@ UMLS_PRETRAIN_POSITIVE_PAIRS = '/shared/nas/data/m1/tuanml/biolinking/data/umls/
 if not isfile(UMLS_PRETRAIN_POSITIVE_PAIRS):
     # Local path
     UMLS_PRETRAIN_POSITIVE_PAIRS = 'pretrain_positive_pairs.txt'
+    if not isfile(UMLS_PRETRAIN_POSITIVE_PAIRS):
+        # NCSA server
+        UMLS_PRETRAIN_POSITIVE_PAIRS = '/projects/bbqy/laituan245/el/data/pretrain_positive_pairs.txt'

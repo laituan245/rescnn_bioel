@@ -12,19 +12,19 @@ import numpy as np
 import torch.nn as nn
 import torch.optim as optim
 
-from utils import *
-from models import *
-from constants import *
-from transformers import *
-from scripts import *
+from tqdm import tqdm
+from utils import prepare_configs, get_n_params, get_n_tunable_params, AugmentedList, RunningAverage
+from models import DualBertEncodersModel
+from constants import PRETRAINING_MODEL, UMLS_2020AA_FULL_FP, UMLS_PRETRAIN_POSITIVE_PAIRS
 from data.base import Ontology, DataInstance, PretrainingPositivePairs
 from argparse import ArgumentParser
+from scripts import benchmark_model
 
 def pretrain(configs):
     # Load model
     model = DualBertEncodersModel(configs)
     model.model_type = PRETRAINING_MODEL
-    save_path = join(configs['save_dir'], 'model.pt')
+    save_path = os.path.join(configs['save_dir'], 'model.pt')
     print(f'Prepared the model (Params: {get_n_params(model)})')
     print(f'Nb Tunable Params: {get_n_tunable_params(model)}')
     print(f'Save path {save_path}')

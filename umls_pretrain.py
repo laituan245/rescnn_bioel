@@ -13,7 +13,7 @@ import torch.nn as nn
 import torch.optim as optim
 
 from tqdm import tqdm
-from utils import prepare_configs, get_n_params, get_n_tunable_params, AugmentedList, RunningAverage
+from utils import prepare_configs, get_n_params, create_dir_if_not_exist, get_n_tunable_params, AugmentedList, RunningAverage
 from models import DualBertEncodersModel
 from constants import PRETRAINING_MODEL, UMLS_2020AA_FULL_FP, UMLS_PRETRAIN_POSITIVE_PAIRS
 from constants import BC5CDR_C, BC5CDR_D, NCBI_D, COMETA

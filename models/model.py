@@ -14,7 +14,7 @@ from pytorch_metric_learning.losses import MultiSimilarityLoss
 from pytorch_metric_learning.miners import MultiSimilarityMiner
 from transformers import AutoModel
 from models.cnn import *
-from transformers.adapters.configuration import PfeifferConfig
+from transformers.adapters.configuration import ParallelConfig
 
 # Main Classes
 class DualBertEncodersModel(BaseModel):
@@ -25,7 +25,7 @@ class DualBertEncodersModel(BaseModel):
 
         self.transformer = AutoModel.from_pretrained(configs['transformer'])
         task_name = 'umls-synonyms'
-        adapter_config = PfeifferConfig(reduction_factor=4)
+        adapter_config = ParallelConfig()
         self.transformer.add_adapter(task_name, config=adapter_config)
         self.transformer.train_adapter([task_name])
         self.transformer.set_active_adapters([task_name])
